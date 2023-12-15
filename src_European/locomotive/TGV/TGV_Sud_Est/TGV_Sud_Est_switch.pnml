@@ -1,0 +1,68 @@
+/*--------------------------------------------------------------------
+스위치
+--------------------------------------------------------------------*/
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_cargo_subtype_text, cargo_subtype) {
+    1: return string(STR_REFIT_LIVERY_TGV_Sud_Est_blue);           
+    2: return string(STR_REFIT_LIVERY_TGV_Sud_Est_new);           
+    return string(STR_REFIT_LIVERY_TGV_Sud_Est_original);
+}
+
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_engineH, cargo_subtype) {
+    1: set_TGV_Sud_Est_Bluegrey_engineH;
+    2: set_TGV_Sud_Est_Carmillon_engineH;
+    set_TGV_Sud_Est_Orange_engineH;
+}
+
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_engineT, cargo_subtype) {
+    1: set_TGV_Sud_Est_Bluegrey_engineT;
+    2: set_TGV_Sud_Est_Carmillon_engineT;
+    set_TGV_Sud_Est_Orange_engineT;
+}
+
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_wagon_start, cargo_subtype) {
+    1: set_TGV_Sud_Est_Bluegrey_wagon_start;
+    2: set_TGV_Sud_Est_Carmillon_wagon_start;
+    set_TGV_Sud_Est_Orange_wagon_start;
+}
+
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_wagon, cargo_subtype) {
+    1: set_TGV_Sud_Est_Bluegrey_wagon_nomal;
+    2: set_TGV_Sud_Est_Carmillon_wagon_nomal;
+    set_TGV_Sud_Est_Orange_wagon;
+}
+
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_wagon_bar, cargo_subtype) {
+    1: set_TGV_Sud_Est_Bluegrey_wagon_bar;
+    2: set_TGV_Sud_Est_Carmillon_wagon_bar;
+    set_TGV_Sud_Est_Orange_wagon_bar;
+}
+
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_wagon_r, cargo_subtype) {
+    1: set_TGV_Sud_Est_Bluegrey_wagon_special;
+    2: set_TGV_Sud_Est_Carmillon_wagon_special;
+    set_TGV_Sud_Est_Orange_wagon_r;
+}
+
+switch(FEAT_TRAINS, SELF, sw_TGV_Sud_Est_wagon_end, cargo_subtype) {
+    1: set_TGV_Sud_Est_Bluegrey_wagon_end;
+    2: set_TGV_Sud_Est_Carmillon_wagon_end;
+    set_TGV_Sud_Est_Orange_wagon_end;
+}
+
+switch (FEAT_TRAINS, SELF, sw_TGV_Sud_Est_10car, position_in_vehid_chain % 10) {
+    1:sw_TGV_Sud_Est_wagon_start;
+    2:sw_TGV_Sud_Est_wagon;
+    3:sw_TGV_Sud_Est_wagon;
+    4:sw_TGV_Sud_Est_wagon;
+    5:sw_TGV_Sud_Est_wagon_bar;
+    6:sw_TGV_Sud_Est_wagon_r;
+    7:sw_TGV_Sud_Est_wagon_r;
+    8:sw_TGV_Sud_Est_wagon_end;
+    9:sw_TGV_Sud_Est_engineT;
+    sw_TGV_Sud_Est_engineH; //default
+    }
+
+switch (FEAT_TRAINS, SELF, sw_articulated_TGV_Sud_Est_10car, extra_callback_info1) {
+    1..9: TGV_Sud_Est_10Car;
+    return CB_RESULT_NO_MORE_ARTICULATED_PARTS;
+    }

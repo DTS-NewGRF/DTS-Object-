@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\ISSUE_TEMPLATE",
+    "\\src",
+    "\\src\\locomotive",
+    "\\src\\locomotive\\AREX",
+    "\\src\\locomotive\\AREX\\AREX_2000_1st",
+    "\\src_Virtual",
+    "\\src_Virtual\\locomotive",
+    "\\src_Virtual\\locomotive\\HYEL",
+    "\\src_Virtual\\locomotive\\HYEL\\HYEL_400"
+  ],
+  "SelectedNode": "\\Makefile.config",
+  "PreviewInSolutionExplorer": false
+}
