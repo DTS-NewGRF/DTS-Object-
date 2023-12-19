@@ -1,4 +1,4 @@
-# Derivative Train Set 파생형 열차세트 /DTS
+# Derivative Train Set OBJECT 파생형 열차 세트 오브젝트/DTS
 **파생형 열차세트**는 <br>
 약 2016년에 [YST set](https://github.com/evepoi/YST)에서 최초로 시작했다.<br>
 2022년 4월 2일 YST에서 열차들이 나라별도 분리된 <br>
