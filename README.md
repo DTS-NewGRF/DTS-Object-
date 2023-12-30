@@ -1,4 +1,6 @@
-# Derivative Train Set OBJECT 파생형 열차 세트 오브젝트/DTS Object
+
+# Derivative Tra![제목 없음-1](https://github.com/DTS-NewGRF/DTS-Object-/assets/101701121/cdba084c-ab61-4712-899d-7fe53ce3d615)
+in Set OBJECT 파생형 열차 세트 오브젝트/DTS Object
 **파생형 열차 세트 오브젝트**는 DTS에서 분리되었으며 오브젝트에 특화된 GRF입니다. <br>
 
 
