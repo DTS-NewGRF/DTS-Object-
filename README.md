@@ -1,6 +1,6 @@
 
-![제목 없음-1](https://github.com/DTS-NewGRF/DTS-Object-/assets/101701121/cdba084c-ab61-4712-899d-7fe53ce3d615)
-# Diversity Train Set OBJECT 다양성 열차 세트 오브젝트/DTS Object
+# Diversity Train Set OBJECT 다양성 열차 세트 오브젝트/DTS Object![DTSO board](https://github.com/DTS-NewGRF/DTS-Object-/assets/101701121/fde0f885-6156-4679-bd1b-ed0cd60e2398)
+
 **다양성 열차 세트 오브젝트**는 DTS에서 분리되었으며 오브젝트에 특화된 GRF입니다. <br>
 
 
