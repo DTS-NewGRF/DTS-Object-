@@ -1,0 +1,22 @@
+/*------------------------------------------------------------------------------
+ * DTS Object
+ * https://github.com/DTS-NewGRF/DTS-Object-
+------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------
+ NewGRF 기본 정보
+------------------------------------------------------------------------------*/
+grf {
+    grfid :                            "DTS0";
+    name :                             string(STR_GRF_NAME_WITH_VER);
+    desc :                             string(STR_GRF_DESC);
+    url :                              string(STR_GRF_URL);
+    version :                          20240115;
+    min_compatible_version :           20231219;
+	
+	// Parameters 매개변수
+    // #include "src/parameter.pnml"
+}
+
+
+// Load Objects
+#include "src/Objects_list.pnml"

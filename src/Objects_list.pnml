@@ -1,8 +1,3 @@
-// Buffer
-#include "Objects/Buffer/Buffer_Concrete/Buffer_Concrete.pnml"
-#include "Objects/Buffer/Buffer_Pebble/Buffer_Pebble.pnml"
-#include "Objects/Buffer/Buffer_Signboard/Buffer_Signboard.pnml"
-
 // Building
 #include "Objects/Building/Building_Store_CU/Building_Store_CU.pnml"
 #include "Objects/Building/Building_Store_GS25/Building_Store_GS25.pnml"
@@ -18,3 +13,6 @@
 
 // Fountain
 #include "Objects/Fountain/Fountain.pnml"
+
+// Garden
+#include "Objects/Garden/Garden.pnml"

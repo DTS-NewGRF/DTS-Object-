@@ -1,0 +1,630 @@
+/*--------------------------------------------------------------------
+오브젝트
+--------------------------------------------------------------------*/
+// Graphics
+#include "Garden_graphic.pnml"
+
+// Switch
+#include "Garden_switch.pnml"
+
+/*--------------------------------------------------------------------
+오브젝트
+--------------------------------------------------------------------*/
+item(FEAT_OBJECTS, Garden01, 1107) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden01;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden02, 1108) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_02);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden02;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden03, 1109) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_03);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden03;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden04, 1110) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_04);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden04;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden05, 1111) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_05);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden05;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden06, 1112) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_06);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden06;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden07, 1113) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden07;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden08, 1114) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_08);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden08;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden09, 9001) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_09);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden09;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden10, 9002) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden10;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden11, 9003) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_11);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden11;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden12, 9004) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_12);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden12;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden13, 9005) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_13);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden13;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden14, 9006) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_14);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden14;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden15, 9007) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_15);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden15;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden16, 9008) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_16);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden16;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden17, 9009) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_17);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden17;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden18, 9010) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_18);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden18;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden19, 9011) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_19);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden19;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden20, 9012) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_20);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden20;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden21, 9013) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_21);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden21;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden22, 9014) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_22);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden22;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden23, 9015) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_23);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden23;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden24, 9016) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_24);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden24;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden25, 9017) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_25);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden25;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden26, 9018) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_26);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden26;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden27, 9018) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_27);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden27;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+item(FEAT_OBJECTS, Garden28, 9019) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_28);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden28;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, Garden29, 9020) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_29);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Garden29;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
