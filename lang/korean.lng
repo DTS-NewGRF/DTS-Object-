@@ -2,8 +2,8 @@
 ##gender m f
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                                  :파생형 열차 세트 오브젝트{VERSION}
-STR_GRF_DESC                                           :파생형 열차 세트 오브젝트입니다
+STR_GRF_NAME_WITH_VER                                  :다양성 열차 세트 오브젝트{VERSION}
+STR_GRF_DESC                                           :다양성 열차 세트 오브젝트입니다
 STR_GRF_URL                                            :https://github.com/DTS-NewGRF/DTS-Object-
 
 
