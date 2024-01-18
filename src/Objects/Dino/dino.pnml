@@ -13,7 +13,7 @@
 item(FEAT_OBJECTS, dino01, 9200) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino01);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -34,7 +34,7 @@ item(FEAT_OBJECTS, dino01, 9200) {
 item(FEAT_OBJECTS, dino02, 9201) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino02);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino02);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -56,7 +56,7 @@ item(FEAT_OBJECTS, dino02, 9201) {
 item(FEAT_OBJECTS, dino03, 9202) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino03);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino03);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -78,7 +78,7 @@ item(FEAT_OBJECTS, dino03, 9202) {
 item(FEAT_OBJECTS, dino04, 9203) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino04);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino04);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -100,7 +100,7 @@ item(FEAT_OBJECTS, dino04, 9203) {
 item(FEAT_OBJECTS, dino05, 9204) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino05);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -122,7 +122,7 @@ item(FEAT_OBJECTS, dino05, 9204) {
 item(FEAT_OBJECTS, dino06, 9205) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino06);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino06);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -144,7 +144,7 @@ item(FEAT_OBJECTS, dino06, 9205) {
 item(FEAT_OBJECTS, dino07, 9206) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino07);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino07);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -166,7 +166,7 @@ item(FEAT_OBJECTS, dino07, 9206) {
 item(FEAT_OBJECTS, dino08, 9206) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino08);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino08);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -188,7 +188,7 @@ item(FEAT_OBJECTS, dino08, 9206) {
 item(FEAT_OBJECTS, dino09, 9208) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino09);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino09);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -210,7 +210,7 @@ item(FEAT_OBJECTS, dino09, 9208) {
 item(FEAT_OBJECTS, dino10, 9209) {
     property {
         class:                  "Dind";
-        classname:              string(STR_OBJ_dino10);
+        classname:              string(STR_OBJ_dino);
         name:                   string(STR_OBJ_dino10);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];

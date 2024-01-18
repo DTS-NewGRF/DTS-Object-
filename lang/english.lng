@@ -94,6 +94,7 @@ STR_OBJ_Garden_26									   :[DTS0] Garden26
 STR_OBJ_Garden_27									   :[DTS0] Garden27
 STR_OBJ_Garden_28									   :[DTS0] Garden28
 STR_OBJ_Garden_29									   :[DTS0] Garden29
+STR_OBJ_dino        							   :[DTS0] Dinosaur
 STR_OBJ_dino01									   :[DTS0] Dinosaur01
 STR_OBJ_dino02									   :[DTS0] Dinosaur02
 STR_OBJ_dino03									   :[DTS0] Dinosaur03
