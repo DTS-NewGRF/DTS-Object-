@@ -45,6 +45,16 @@ STR_OBJ_Building_Train_Deport25                        :[DTS0] KTX 열차세트 
 STR_OBJ_Building_Train_Deport26                        :[DTS0] KTX 열차세트 차량기지
 STR_OBJ_Building_Train_Deport27                        :[DTS0] 수소열차 차량기지
 STR_OBJ_Building_Train_Deport28                        :[DTS0] 수소열차 차량기지
+STR_OBJ_Building_Train_Deport29                        :[DTS0] ITX 차량기지
+STR_OBJ_Building_Train_Deport30                        :[DTS0] ITX 차량기지
+STR_OBJ_Building_Train_Deport31                        :[DTS0] ITX 차량기지
+STR_OBJ_Building_Train_Deport32                        :[DTS0] ITX 차량기지
+STR_OBJ_Building_Train_Deport33                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport34                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport35                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport36                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport37                        :[DTS0] 철도청 차량기지
+STR_OBJ_Building_Train_Deport38                        :[DTS0] 철도청 차량기지
 STR_OBJ_Flag                                           :[DTS0] 표지판
 STR_OBJ_Flag_Korea                                     :[DTS0] 태극기 표지판
 STR_OBJ_Flag_DTS_001                                   :[DTS0] DTS 표지판
@@ -94,6 +104,7 @@ STR_OBJ_Garden_26									   :[DTS0] 정원26
 STR_OBJ_Garden_27									   :[DTS0] 정원27
 STR_OBJ_Garden_28									   :[DTS0] 정원28
 STR_OBJ_Garden_29									   :[DTS0] 정원29
+STR_OBJ_Garden_30									   :[DTS0] 정원30
 STR_OBJ_dino									   :[DTS0] 공룡
 STR_OBJ_dino01									   :[DTS0] 공룡01
 STR_OBJ_dino02									   :[DTS0] 공룡02

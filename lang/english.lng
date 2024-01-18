@@ -45,6 +45,16 @@ STR_OBJ_Building_Train_Deport25                        :[DTSO] Vehicle Depot KTX
 STR_OBJ_Building_Train_Deport26                        :[DTSO] Vehicle Depot KTX
 STR_OBJ_Building_Train_Deport27                        :[DTSO] Vehicle Depot H2
 STR_OBJ_Building_Train_Deport28                        :[DTSO] Vehicle Depot H2
+STR_OBJ_Building_Train_Deport29                        :[DTSO] Vehicle Depot ITX
+STR_OBJ_Building_Train_Deport30                        :[DTSO] Vehicle Depot ITX
+STR_OBJ_Building_Train_Deport31                        :[DTSO] Vehicle Depot ITX
+STR_OBJ_Building_Train_Deport32                        :[DTSO] Vehicle Depot ITX
+STR_OBJ_Building_Train_Deport33                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport34                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport35                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport36                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport37                        :[DTSO] Vehicle Depot Korean National Railroad
+STR_OBJ_Building_Train_Deport38                        :[DTSO] Vehicle Depot Korean National Railroad
 STR_OBJ_Flag                                           :[DTSO] Flag Signboard
 STR_OBJ_Flag_Korea                                     :[DTSO] Korea Flag Signboard
 STR_OBJ_Flag_DTS_001                                   :[DTSO] Flag DTS Signboard
@@ -94,6 +104,7 @@ STR_OBJ_Garden_26									   :[DTS0] Garden26
 STR_OBJ_Garden_27									   :[DTS0] Garden27
 STR_OBJ_Garden_28									   :[DTS0] Garden28
 STR_OBJ_Garden_29									   :[DTS0] Garden29
+STR_OBJ_Garden_30									   :[DTS0] Garden30
 STR_OBJ_dino        							   :[DTS0] Dinosaur
 STR_OBJ_dino01									   :[DTS0] Dinosaur01
 STR_OBJ_dino02									   :[DTS0] Dinosaur02

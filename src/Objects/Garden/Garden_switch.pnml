@@ -979,6 +979,7 @@ switch(FEAT_OBJECTS, SELF, sw_Garden28, view) {
 }
 
 
+
 spritelayout set_Garden29_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
@@ -1011,4 +1012,39 @@ spritelayout set_Garden29_1 {
 switch(FEAT_OBJECTS, SELF, sw_Garden29, view) {
     1: set_Garden29_0;
     set_Garden29_1;
+}
+
+
+spritelayout set_Garden30_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden30(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Garden30_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden30(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Garden30, view) {
+    1: set_Garden30_0;
+    set_Garden30_1;
 }

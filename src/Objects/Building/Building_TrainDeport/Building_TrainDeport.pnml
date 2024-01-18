@@ -12,7 +12,7 @@
 --------------------------------------------------------------------*/
 item(FEAT_OBJECTS, DTS_Train_Deport01, 1027) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport);
         climates_available:     ALL_CLIMATES;
@@ -33,7 +33,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport01, 1027) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport02, 1028) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport02);
         climates_available:     ALL_CLIMATES;
@@ -54,7 +54,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport02, 1028) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport03, 1029) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport03);
         climates_available:     ALL_CLIMATES;
@@ -75,7 +75,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport03, 1029) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport04, 1030) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport04);
         climates_available:     ALL_CLIMATES;
@@ -96,7 +96,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport04, 1030) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport05, 1031) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport05);
         climates_available:     ALL_CLIMATES;
@@ -117,7 +117,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport05, 1031) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport06, 1032) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport06);
         climates_available:     ALL_CLIMATES;
@@ -139,7 +139,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport06, 1032) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport07, 1033) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport07);
         climates_available:     ALL_CLIMATES;
@@ -161,7 +161,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport07, 1033) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport08, 1034) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport08);
         climates_available:     ALL_CLIMATES;
@@ -183,7 +183,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport08, 1034) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport09, 1035) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport09);
         climates_available:     ALL_CLIMATES;
@@ -205,7 +205,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport09, 1035) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport10, 1036) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport10);
         climates_available:     ALL_CLIMATES;
@@ -227,7 +227,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport10, 1036) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport11, 1037) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport11);
         climates_available:     ALL_CLIMATES;
@@ -249,7 +249,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport11, 1037) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport12, 1038) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport12);
         climates_available:     ALL_CLIMATES;
@@ -271,7 +271,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport12, 1038) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport13, 1039) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport13);
         climates_available:     ALL_CLIMATES;
@@ -293,7 +293,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport13, 1039) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport14, 1100) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport14);
         climates_available:     ALL_CLIMATES;
@@ -315,7 +315,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport14, 1100) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport15, 1101) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport15);
         climates_available:     ALL_CLIMATES;
@@ -337,7 +337,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport15, 1101) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport16, 1102) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport16);
         climates_available:     ALL_CLIMATES;
@@ -359,7 +359,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport16, 1102) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport17, 1103) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport17);
         climates_available:     ALL_CLIMATES;
@@ -381,7 +381,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport17, 1103) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport18, 1104) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport18);
         climates_available:     ALL_CLIMATES;
@@ -403,7 +403,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport18, 1104) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport19, 1105) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport19);
         climates_available:     ALL_CLIMATES;
@@ -425,7 +425,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport19, 1105) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport20, 1106) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport20);
         climates_available:     ALL_CLIMATES;
@@ -447,7 +447,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport20, 1106) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport21, 9100) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport21);
         climates_available:     ALL_CLIMATES;
@@ -469,7 +469,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport21, 9100) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport22, 9101) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport22);
         climates_available:     ALL_CLIMATES;
@@ -490,7 +490,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport22, 9101) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport23, 9102) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport23);
         climates_available:     ALL_CLIMATES;
@@ -511,7 +511,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport23, 9102) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport24, 9103) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport24);
         climates_available:     ALL_CLIMATES;
@@ -532,7 +532,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport24, 9103) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport25, 9104) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport25);
         climates_available:     ALL_CLIMATES;
@@ -553,7 +553,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport25, 9104) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport26, 9105) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport26);
         climates_available:     ALL_CLIMATES;
@@ -575,7 +575,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport26, 9105) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport27, 9106) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport27);
         climates_available:     ALL_CLIMATES;
@@ -596,7 +596,7 @@ item(FEAT_OBJECTS, DTS_Train_Deport27, 9106) {
 
 item(FEAT_OBJECTS, DTS_Train_Deport28, 9107) {
     property {
-        class:                  "DTDP";
+        class:                  "DTPD";
         classname:              string(STR_OBJ_Building_Train_Deport);
         name:                   string(STR_OBJ_Building_Train_Deport28);
         climates_available:     ALL_CLIMATES;
@@ -611,6 +611,226 @@ item(FEAT_OBJECTS, DTS_Train_Deport28, 9107) {
     }
     graphics {
         default: sw_Building_Train_Deport28;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport29, 9108) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport29);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport29;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport30, 9109) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport30);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport30;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport31, 9110) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport31);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport31;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport32, 9111) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport32);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport32;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport33, 9112) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport32);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport32;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport34, 9113) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport34);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport34;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport35, 9114) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport35);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport35;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport36, 9115) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport36);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport36;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport37, 9116) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport37);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport37;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport38, 9117) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport38);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport38;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
