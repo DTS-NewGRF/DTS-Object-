@@ -2,7 +2,7 @@
 # Diversity Train Set OBJECT 다양성 열차 세트 오브젝트/DTS Object![DTSO board](https://github.com/DTS-NewGRF/DTS-Object-/assets/101701121/fde0f885-6156-4679-bd1b-ed0cd60e2398)
 
 **다양성 열차 세트 오브젝트**는 DTS에서 분리되었으며 오브젝트에 특화된 GRF입니다. <br>
-
+https://www.youtube.com/@Newgrf_DTS
 
 
 ## 저작권
