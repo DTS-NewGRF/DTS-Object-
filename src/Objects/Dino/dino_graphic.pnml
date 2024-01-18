@@ -1,0 +1,82 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+spriteset(set_dino01, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino01.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino02, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino02.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino03, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino03.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino04, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino04.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino05, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino05.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino06, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino06.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino07, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino07.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino08, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino08.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino09, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino09.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+spriteset(set_dino10, "src/Objects/Dino/dino00.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_dino10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Dino/dino10.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}

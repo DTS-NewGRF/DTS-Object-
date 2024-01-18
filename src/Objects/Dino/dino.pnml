@@ -2,220 +2,228 @@
 오브젝트
 --------------------------------------------------------------------*/
 // Graphics
-#include "Building_Korean_Traditional_House_graphic.pnml"
+#include "dino_graphic.pnml"
 
 // Switch
-#include "Building_Korean_Traditional_House_switch.pnml"
+#include "dino_switch.pnml"
 
 /*--------------------------------------------------------------------
 오브젝트
 --------------------------------------------------------------------*/
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House01, 1017) {
+item(FEAT_OBJECTS, dino01, 9200) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino01);
+        name:                   string(STR_OBJ_dino01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House01_0;
+        default: set_dino01_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House02, 1018) {
+item(FEAT_OBJECTS, dino02, 9201) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino02);
+        name:                   string(STR_OBJ_dino02);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House02_0;
+        default: set_dino02_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House03, 1019) {
+
+item(FEAT_OBJECTS, dino03, 9202) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino03);
+        name:                   string(STR_OBJ_dino03);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House03_0;
+        default: set_dino03_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House04, 1020) {
+
+item(FEAT_OBJECTS, dino04, 9203) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino04);
+        name:                   string(STR_OBJ_dino04);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House04_0;
+        default: set_dino04_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House05, 1021) {
+
+item(FEAT_OBJECTS, dino05, 9204) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino05);
+        name:                   string(STR_OBJ_dino05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House05_0;
+        default: set_dino05_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House06, 1022) {
+
+item(FEAT_OBJECTS, dino06, 9205) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino06);
+        name:                   string(STR_OBJ_dino06);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House06_0;
+        default: set_dino06_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House07, 1023) {
+
+item(FEAT_OBJECTS, dino07, 9206) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino07);
+        name:                   string(STR_OBJ_dino07);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House07_0;
+        default: set_dino07_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House08, 1024) {
+
+item(FEAT_OBJECTS, dino08, 9206) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino08);
+        name:                   string(STR_OBJ_dino08);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House08_0;
+        default: set_dino08_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House09, 1025) {
+
+item(FEAT_OBJECTS, dino09, 9208) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino09);
+        name:                   string(STR_OBJ_dino09);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House09_0;
+        default: set_dino09_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
-item(FEAT_OBJECTS, DTS_Korean_Traditional_House10, 1026) {
+
+item(FEAT_OBJECTS, dino10, 9209) {
     property {
-        class:                  "KTHD";
-        classname:              string(STR_OBJ_Building);
-        name:                   string(STR_OBJ_Building_Korean_Traditional_House);
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino10);
+        name:                   string(STR_OBJ_dino10);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
-        introduction_date:      date(1900,1,1);
+        introduction_date:      date(1988,1,1);
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House10_0;
+        default: set_dino10_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
