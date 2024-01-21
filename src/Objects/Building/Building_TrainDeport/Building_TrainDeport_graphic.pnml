@@ -314,7 +314,6 @@ alternative_sprites(set_Building_Train_Deport32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32
     [69,    0,    64,    54,    -31,  -44]
 }
 
-
 spriteset(set_Building_Train_Deport33, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
@@ -324,7 +323,6 @@ alternative_sprites(set_Building_Train_Deport33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
 }
-
 
 spriteset(set_Building_Train_Deport34, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
     [0,     0,    64,    54,    -15,  -46]

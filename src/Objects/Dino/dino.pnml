@@ -163,7 +163,7 @@ item(FEAT_OBJECTS, dino07, 9206) {
 }
 
 
-item(FEAT_OBJECTS, dino08, 9206) {
+item(FEAT_OBJECTS, dino08, 9210) {
     property {
         class:                  "Dind";
         classname:              string(STR_OBJ_dino);
@@ -224,6 +224,226 @@ item(FEAT_OBJECTS, dino10, 9209) {
     }
     graphics {
         default: set_dino10_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino11, 9211) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino11);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino11_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino12, 9212) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino12);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino12_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino13, 9213) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino13);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino13_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino14, 9214) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino14);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino14_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino15, 9215) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino15);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino15_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino16, 9216) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino16);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino16_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino17, 9217) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino17);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino17_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino18, 9218) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino18);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino18_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino19, 9219) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino19);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino19_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, dino20, 9220) {
+    property {
+        class:                  "Dind";
+        classname:              string(STR_OBJ_dino);
+        name:                   string(STR_OBJ_dino20);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics {
+        default: set_dino20_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
