@@ -444,3 +444,179 @@ alternative_sprites(set_Building_Train_Deport44, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
 }
+
+
+spriteset(set_Building_Train_Deport45, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport45, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport46, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport46, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro02.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport47, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport47, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro03.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport48, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport48, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro04.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport49, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport49, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro05.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport50, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport50, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro06.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport51, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport51, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro07.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport52, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport52, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro08.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport53, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport53, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro09.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport54, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport54, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro10.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport55, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport55, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro11.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport56, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport56, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro12.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport57, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport57, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro13.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport58, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport58, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro14.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport59, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport59, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro15.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport60, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport60, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SMetro16.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}

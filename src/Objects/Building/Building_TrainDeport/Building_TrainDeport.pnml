@@ -966,3 +966,357 @@ item(FEAT_OBJECTS, DTS_Train_Deport44, 9123) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport45, 9124) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport45);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport45;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport46, 9125) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport46);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport46;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport47, 9126) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport47);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport47;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport48, 9127) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport48);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport48;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport49, 9128) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport49);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport49;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport50, 9129) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport50);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport50;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport51, 9130) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport51);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport51;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport52, 9131) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport52);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport52;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport53, 9132) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport53);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport53;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport54, 9133) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport54);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport54;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport55, 9134) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport55);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport55;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport56, 9135) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport56);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport56;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport57, 9136) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport57);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport57;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport58, 9137) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport58);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport58;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport59, 9138) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport59);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport59;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Train_Deport60, 9139) {
+    property {
+        class:                  "DTPD";
+        classname:              string(STR_OBJ_Building_Train_Deport);
+        name:                   string(STR_OBJ_Building_Train_Deport60);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_Building_Train_Deport60;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}

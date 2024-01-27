@@ -1544,3 +1544,578 @@ switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport44, view) {
     1: set_Building_Train_Deport44_0;
     set_Building_Train_Deport44_1;
 }
+
+
+
+spritelayout set_Building_Train_Deport45_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport45(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport45_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport45(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport45, view) {
+    1: set_Building_Train_Deport45_0;
+    set_Building_Train_Deport45_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport46_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport46(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport46_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport46(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport46, view) {
+    1: set_Building_Train_Deport46_0;
+    set_Building_Train_Deport46_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport47_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport47(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport47_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport47(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport47, view) {
+    1: set_Building_Train_Deport47_0;
+    set_Building_Train_Deport47_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport48_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport48(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport48_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport48(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport48, view) {
+    1: set_Building_Train_Deport48_0;
+    set_Building_Train_Deport48_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport49_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport49(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport49_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport49(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport49, view) {
+    1: set_Building_Train_Deport49_0;
+    set_Building_Train_Deport49_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport50_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport50(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport50_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport50(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport50, view) {
+    1: set_Building_Train_Deport50_0;
+    set_Building_Train_Deport50_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport51_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport51(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport51_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport51(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport51, view) {
+    1: set_Building_Train_Deport51_0;
+    set_Building_Train_Deport51_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport52_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport52(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport52_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport52(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport52, view) {
+    1: set_Building_Train_Deport52_0;
+    set_Building_Train_Deport52_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport53_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport53(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport53_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport53(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport53, view) {
+    1: set_Building_Train_Deport53_0;
+    set_Building_Train_Deport53_1;
+}
+
+
+spritelayout set_Building_Train_Deport54_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport54(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport54_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport54(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport54, view) {
+    1: set_Building_Train_Deport54_0;
+    set_Building_Train_Deport54_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport55_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport55(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport55_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport55(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport55, view) {
+    1: set_Building_Train_Deport55_0;
+    set_Building_Train_Deport55_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport56_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport56(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport56_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport56(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport56, view) {
+    1: set_Building_Train_Deport56_0;
+    set_Building_Train_Deport56_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport57_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport57(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport57_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport57(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport57, view) {
+    1: set_Building_Train_Deport57_0;
+    set_Building_Train_Deport57_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport58_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport58(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport58_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport58(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport58, view) {
+    1: set_Building_Train_Deport58_0;
+    set_Building_Train_Deport58_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport59_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport59(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport59_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport59(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport59, view) {
+    1: set_Building_Train_Deport59_0;
+    set_Building_Train_Deport59_1;
+}
+
+
+
+spritelayout set_Building_Train_Deport60_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport60(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Building_Train_Deport60_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Building_Train_Deport60(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Building_Train_Deport60, view) {
+    1: set_Building_Train_Deport60_0;
+    set_Building_Train_Deport60_1;
+}

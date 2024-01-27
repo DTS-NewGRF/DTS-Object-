@@ -62,6 +62,22 @@ STR_OBJ_Building_Train_Deport41                        :[DTSO] Vehicle Depot KOR
 STR_OBJ_Building_Train_Deport42                        :[DTSO] Vehicle Depot KORAIL
 STR_OBJ_Building_Train_Deport43                        :[DTSO] Vehicle Depot KORAIL
 STR_OBJ_Building_Train_Deport44                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport45                        :[DTSO] Vehicle Depot Seoul Metro Line 1
+STR_OBJ_Building_Train_Deport46                        :[DTSO] Vehicle Depot Seoul Metro Line 1
+STR_OBJ_Building_Train_Deport47                        :[DTSO] Vehicle Depot Seoul Metro Line 2
+STR_OBJ_Building_Train_Deport48                        :[DTSO] Vehicle Depot Seoul Metro Line 2
+STR_OBJ_Building_Train_Deport49                        :[DTSO] Vehicle Depot Seoul Metro Line 3
+STR_OBJ_Building_Train_Deport50                        :[DTSO] Vehicle Depot Seoul Metro Line 3
+STR_OBJ_Building_Train_Deport51                        :[DTSO] Vehicle Depot Seoul Metro Line 4
+STR_OBJ_Building_Train_Deport52                        :[DTSO] Vehicle Depot Seoul Metro Line 4
+STR_OBJ_Building_Train_Deport53                        :[DTSO] Vehicle Depot Seoul Metro Line 5
+STR_OBJ_Building_Train_Deport54                        :[DTSO] Vehicle Depot Seoul Metro Line 5
+STR_OBJ_Building_Train_Deport55                        :[DTSO] Vehicle Depot Seoul Metro Line 6
+STR_OBJ_Building_Train_Deport56                        :[DTSO] Vehicle Depot Seoul Metro Line 6
+STR_OBJ_Building_Train_Deport57                        :[DTSO] Vehicle Depot Seoul Metro Line 7
+STR_OBJ_Building_Train_Deport58                        :[DTSO] Vehicle Depot Seoul Metro Line 7
+STR_OBJ_Building_Train_Deport59                        :[DTSO] Vehicle Depot Seoul Metro Line 8
+STR_OBJ_Building_Train_Deport60                        :[DTSO] Vehicle Depot Seoul Metro Line 8
 STR_OBJ_Flag                                           :[DTSO] Flag Signboard
 STR_OBJ_Flag_Korea                                     :[DTSO] Korea Flag Signboard
 STR_OBJ_Flag_DTS_001                                   :[DTSO] Flag DTS Signboard

@@ -62,6 +62,22 @@ STR_OBJ_Building_Train_Deport41                        :[DTS0] 코레일 차량�
 STR_OBJ_Building_Train_Deport42                        :[DTS0] 코레일 차량기지
 STR_OBJ_Building_Train_Deport43                        :[DTS0] 코레일 차량기지
 STR_OBJ_Building_Train_Deport44                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport45                        :[DTS0] 서울교통공사 1호선 차량기지
+STR_OBJ_Building_Train_Deport46                        :[DTS0] 서울교통공사 1호선 차량기지
+STR_OBJ_Building_Train_Deport47                        :[DTS0] 서울교통공사 2호선 차량기지
+STR_OBJ_Building_Train_Deport48                        :[DTS0] 서울교통공사 2호선 차량기지
+STR_OBJ_Building_Train_Deport49                        :[DTS0] 서울교통공사 3호선 차량기지
+STR_OBJ_Building_Train_Deport50                        :[DTS0] 서울교통공사 3호선 차량기지
+STR_OBJ_Building_Train_Deport51                        :[DTS0] 서울교통공사 4호선 차량기지
+STR_OBJ_Building_Train_Deport52                        :[DTS0] 서울교통공사 4호선 차량기지
+STR_OBJ_Building_Train_Deport53                        :[DTS0] 서울교통공사 5호선 차량기지
+STR_OBJ_Building_Train_Deport54                        :[DTS0] 서울교통공사 5호선 차량기지
+STR_OBJ_Building_Train_Deport55                        :[DTS0] 서울교통공사 6호선 차량기지
+STR_OBJ_Building_Train_Deport56                        :[DTS0] 서울교통공사 6호선 차량기지
+STR_OBJ_Building_Train_Deport57                        :[DTS0] 서울교통공사 7호선 차량기지
+STR_OBJ_Building_Train_Deport58                        :[DTS0] 서울교통공사 7호선 차량기지
+STR_OBJ_Building_Train_Deport59                        :[DTS0] 서울교통공사 8호선 차량기지
+STR_OBJ_Building_Train_Deport60                        :[DTS0] 서울교통공사 8호선 차량기지
 STR_OBJ_Flag                                           :[DTS0] 표지판
 STR_OBJ_Flag_Korea                                     :[DTS0] 태극기 표지판
 STR_OBJ_Flag_DTS_001                                   :[DTS0] DTS 표지판
