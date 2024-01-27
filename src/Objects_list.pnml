@@ -19,3 +19,12 @@
 
 // Dino
 #include "Objects/Dino/dino.pnml"
+
+// Land
+#include "Objects/Land/Land.pnml"
+
+// Marina
+#include "Objects/Building/Marina/marina.pnml"
+
+// Resort
+#include "Objects/Building/KResort/Resort.pnml"

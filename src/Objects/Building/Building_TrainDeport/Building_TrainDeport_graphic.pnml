@@ -377,3 +377,70 @@ alternative_sprites(set_Building_Train_Deport38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
 }
+
+
+spriteset(set_Building_Train_Deport39, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport39, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SRT.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport40, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport40, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_SRT2.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport41, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport41, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_Korail.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport42, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport42, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_Korail2.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+spriteset(set_Building_Train_Deport43, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport43, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_Korail3.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+spriteset(set_Building_Train_Deport44, "src/Objects/Building/Building_TrainDeport/Building_TrainDeport.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_Building_Train_Deport44, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_TrainDeport/Trainhouse_Korail4.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}

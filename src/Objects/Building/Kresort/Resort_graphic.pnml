@@ -1,0 +1,110 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+
+spriteset(set_resort01, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort01.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort02, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort02.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort03, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort03.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort04, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort04.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort05, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort05.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort06, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort06.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort07, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort07.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort08, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort08.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort09, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort09.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort10, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort10.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort11, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort11.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_resort12, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort12.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}

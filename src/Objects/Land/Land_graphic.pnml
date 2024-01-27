@@ -1,0 +1,136 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+spriteset(set_land01, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land01.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land02, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land02.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land03, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land03.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land04, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land04.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land05, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land05.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land06, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land06.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land07, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land07.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land08, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land08.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land09, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land09.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_land10, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land10.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_land11, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land11.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_land12, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land12.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_land13, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land13.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_land14, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land14.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_land15, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land15.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_land16, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_land16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land16.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}

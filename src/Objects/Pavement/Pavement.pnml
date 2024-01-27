@@ -12,7 +12,7 @@
 --------------------------------------------------------------------*/
 item(FEAT_OBJECTS, DTS_Pavement1, 1007) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -33,7 +33,7 @@ item(FEAT_OBJECTS, DTS_Pavement1, 1007) {
 
 item(FEAT_OBJECTS, DTS_Pavement2, 1008) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -54,7 +54,7 @@ item(FEAT_OBJECTS, DTS_Pavement2, 1008) {
 
 item(FEAT_OBJECTS, DTS_Pavement3, 1009) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -75,7 +75,7 @@ item(FEAT_OBJECTS, DTS_Pavement3, 1009) {
 
 item(FEAT_OBJECTS, DTS_Pavement4, 1010) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -96,7 +96,7 @@ item(FEAT_OBJECTS, DTS_Pavement4, 1010) {
 
 item(FEAT_OBJECTS, DTS_Pavement5, 1011) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -117,7 +117,7 @@ item(FEAT_OBJECTS, DTS_Pavement5, 1011) {
 
 item(FEAT_OBJECTS, DTS_Pavement6, 1012) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -138,7 +138,7 @@ item(FEAT_OBJECTS, DTS_Pavement6, 1012) {
 
 item(FEAT_OBJECTS, DTS_Pavement7, 1013) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -159,7 +159,7 @@ item(FEAT_OBJECTS, DTS_Pavement7, 1013) {
 
 item(FEAT_OBJECTS, DTS_Pavement8, 1014) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -180,7 +180,7 @@ item(FEAT_OBJECTS, DTS_Pavement8, 1014) {
 
 item(FEAT_OBJECTS, DTS_Pavement9, 1015) {
     property {
-        class:                  "DPAV";
+        class:                  "DtAV";
         classname:              string(STR_OBJ_Pavement);
         name:                   string(STR_OBJ_Pavement);
         climates_available:     ALL_CLIMATES;
@@ -195,6 +195,270 @@ item(FEAT_OBJECTS, DTS_Pavement9, 1015) {
     }
     graphics {
         default: set_Pavement9_8;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement10, 1099) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement10_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement11, 1098) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement11_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement12, 1097) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement12_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement13, 1096) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement13_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement14, 1095) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement14_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement15, 1094) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement15_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement16, 1093) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement16_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement17, 1092) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement17_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement18, 1091) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement18_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement19, 1090) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement19_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement20, 1089) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement20_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Pavement21, 1088) {
+    property {
+        class:                  "DtAV";
+        classname:              string(STR_OBJ_Pavement);
+        name:                   string(STR_OBJ_Pavement);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1950,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Pavement21_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }

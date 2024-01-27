@@ -1,0 +1,35 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+spriteset(set_marina01, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina01.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_marina02, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina02.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_marina03, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina03.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_marina04, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina04.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+

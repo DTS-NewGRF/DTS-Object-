@@ -13,6 +13,7 @@ STR_OBJ_BUFFER_Concrete                                :[DTS0] 콘크리트 차�
 STR_OBJ_BUFFER_pebble                                  :[DTS0] 자갈 차막이
 STR_OBJ_BUFFER_signboard                               :[DTS0] 표지판 차막이
 STR_OBJ_Building                                       :[DTS0] 건물
+STR_OBJ_Building_Store                                 :[DTS0] 상점
 STR_OBJ_Building_Store_CU                              :[DTS0] 역전 CU 편의점
 STR_OBJ_Building_Store_GS25                            :[DTS0] 역전 GS25 편의점
 STR_OBJ_Building_Store_Storyway                        :[DTS0] 역전 스토리웨이 편의점
@@ -55,6 +56,12 @@ STR_OBJ_Building_Train_Deport35                        :[DTS0] 코레일 차량�
 STR_OBJ_Building_Train_Deport36                        :[DTS0] 코레일 차량기지
 STR_OBJ_Building_Train_Deport37                        :[DTS0] 철도청 차량기지
 STR_OBJ_Building_Train_Deport38                        :[DTS0] 철도청 차량기지
+STR_OBJ_Building_Train_Deport39                        :[DTS0] SRT 차량기지
+STR_OBJ_Building_Train_Deport40                        :[DTS0] SRT 차량기지
+STR_OBJ_Building_Train_Deport41                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport42                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport43                        :[DTS0] 코레일 차량기지
+STR_OBJ_Building_Train_Deport44                        :[DTS0] 코레일 차량기지
 STR_OBJ_Flag                                           :[DTS0] 표지판
 STR_OBJ_Flag_Korea                                     :[DTS0] 태극기 표지판
 STR_OBJ_Flag_DTS_001                                   :[DTS0] DTS 표지판
@@ -105,6 +112,22 @@ STR_OBJ_Garden_27									   :[DTS0] 정원27
 STR_OBJ_Garden_28									   :[DTS0] 정원28
 STR_OBJ_Garden_29									   :[DTS0] 정원29
 STR_OBJ_Garden_30									   :[DTS0] 정원30
+STR_OBJ_Garden_31									   :[DTS0] 정원31
+STR_OBJ_Garden_32									   :[DTS0] 정원32
+STR_OBJ_Garden_33									   :[DTS0] 정원33
+STR_OBJ_Garden_34									   :[DTS0] 정원34
+STR_OBJ_Garden_35									   :[DTS0] 정원35
+STR_OBJ_Garden_36									   :[DTS0] 정원36
+STR_OBJ_Garden_37									   :[DTS0] 정원37
+STR_OBJ_Garden_38									   :[DTS0] 정원38
+STR_OBJ_Garden_39									   :[DTS0] 정원39
+STR_OBJ_Garden_40									   :[DTS0] 정원40
+STR_OBJ_Garden_41									   :[DTS0] 정원41
+STR_OBJ_Garden_54									   :[DTS0] 정원54
+STR_OBJ_Garden_55									   :[DTS0] 정원55
+STR_OBJ_Garden_56									   :[DTS0] 정원56
+STR_OBJ_Garden_57									   :[DTS0] 정원57
+STR_OBJ_Garden_58									   :[DTS0] 정원58
 STR_OBJ_dino									   :[DTS0] 공룡
 STR_OBJ_dino01									   :[DTS0] 공룡01
 STR_OBJ_dino02									   :[DTS0] 공룡02
@@ -126,4 +149,51 @@ STR_OBJ_dino17									   :[DTS0] 공룡17
 STR_OBJ_dino18									   :[DTS0] 공룡18
 STR_OBJ_dino19									   :[DTS0] 공룡19
 STR_OBJ_dino20									   :[DTS0] 공룡20
+STR_OBJ_dino50									   :[DTS0] 공룡공원 직원숙소
+STR_OBJ_dino51									   :[DTS0] 공룡공원 휴게공간
+STR_OBJ_dino52									   :[DTS0] 공룡공원 방문객센터
+STR_OBJ_dino53									   :[DTS0] 공룡공원 카페
+STR_OBJ_dino54									   :[DTS0] 공룡공원 레스토랑
+STR_OBJ_dino55									   :[DTS0] 공룡공원 휴양시설
+STR_OBJ_dino56									   :[DTS0] 공룡공원 전망대1
+STR_OBJ_dino57									   :[DTS0] 공룡공원 기념품 가게
+STR_OBJ_dino58									   :[DTS0] 공룡공원 정문
+STR_OBJ_dino59									   :[DTS0] 공룡공원 전망대2
+STR_OBJ_dino60									   :[DTS0] 공룡공원 분수
+STR_OBJ_dino61									   :[DTS0] 공룡공원 정원 
+STR_OBJ_Land									   :[DTS0] 자연풍경 
+STR_OBJ_Land01									   :[DTS0] 바위
+STR_OBJ_Land02									   :[DTS0] 바위
+STR_OBJ_Land03									   :[DTS0] 바위
+STR_OBJ_Land04									   :[DTS0] 바위
+STR_OBJ_Land05									   :[DTS0] 바위
+STR_OBJ_Land06									   :[DTS0] 바위
+STR_OBJ_Land07									   :[DTS0] 바위
+STR_OBJ_Land08									   :[DTS0] 바위
+STR_OBJ_Land09									   :[DTS0] 바위
+STR_OBJ_Land10									   :[DTS0] 바위
+STR_OBJ_Land11									   :[DTS0] 바위
+STR_OBJ_Land12									   :[DTS0] 바위
+STR_OBJ_Land13									   :[DTS0] 바위
+STR_OBJ_Land14									   :[DTS0] 바위
+STR_OBJ_Land15									   :[DTS0] 바위
+STR_OBJ_Land16									   :[DTS0] 바위
+STR_OBJ_marina  								   :[DTS0] 수상시설
+STR_OBJ_marina_01								   :[DTS0] 해양공원
+STR_OBJ_marina_02								   :[DTS0] 해양공원
+STR_OBJ_marina_03								   :[DTS0] 해양공원
+STR_OBJ_marina_04								   :[DTS0] 러버덕
+STR_OBJ_Resort  								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_01 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_02 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_03 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_04 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_05 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_06 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_07 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_08 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_09 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_10 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_11 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_12 								   :[DTS0] 한국 전통가옥 리조트
 

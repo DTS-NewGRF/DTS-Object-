@@ -1,0 +1,103 @@
+/*--------------------------------------------------------------------
+오브젝트
+--------------------------------------------------------------------*/
+// Graphics
+#include "marina_graphic.pnml"
+
+// Switch
+#include "marina_switch.pnml"
+
+/*--------------------------------------------------------------------
+오브젝트
+--------------------------------------------------------------------*/
+
+
+
+item(FEAT_OBJECTS, marina01, 8401) {
+    property {
+        class:                  "DTMR";
+        classname:              string(STR_OBJ_marina);
+        name:                   string(STR_OBJ_marina_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_marina01;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, marina02, 8402) {
+    property {
+        class:                  "DTMR";
+        classname:              string(STR_OBJ_marina);
+        name:                   string(STR_OBJ_marina_03);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_marina02;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, marina03, 8403) {
+    property {
+        class:                  "DTMR";
+        classname:              string(STR_OBJ_marina);
+        name:                   string(STR_OBJ_marina_03);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_marina03;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, marina04, 8404) {
+    property {
+        class:                  "DTMR";
+        classname:              string(STR_OBJ_marina);
+        name:                   string(STR_OBJ_marina_04);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_marina04;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+

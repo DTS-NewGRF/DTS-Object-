@@ -2,8 +2,8 @@
 
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                                  :Derivative Train Set OBJECT {VERSION}
-STR_GRF_DESC                                           :Derivative Train Set OBJECT
+STR_GRF_NAME_WITH_VER                                  :Diversity Train Set OBJECT {VERSION}
+STR_GRF_DESC                                           :Diversity Train Set OBJECT
 STR_GRF_URL                                            :https://github.com/DTS-NewGRF/DTS-Object-
 
 
@@ -13,6 +13,7 @@ STR_OBJ_BUFFER_Concrete                                :[DTSO] Concrete Buffers
 STR_OBJ_BUFFER_pebble                                  :[DTSO] pebble Buffers
 STR_OBJ_BUFFER_signboard                               :[DTSO] Train stopper Gravel track with signboard
 STR_OBJ_Building                                       :[DTSO] Building
+STR_OBJ_Building_Store                                 :[DTSO] Store
 STR_OBJ_Building_Store_CU                              :[DTSO] CU Convenience store
 STR_OBJ_Building_Store_GS25                            :[DTSO] GS25 Convenience store
 STR_OBJ_Building_Store_Storyway                        :[DTSO] Storyway Convenience store
@@ -55,6 +56,12 @@ STR_OBJ_Building_Train_Deport35                        :[DTSO] Vehicle Depot KOR
 STR_OBJ_Building_Train_Deport36                        :[DTSO] Vehicle Depot KORAIL
 STR_OBJ_Building_Train_Deport37                        :[DTSO] Vehicle Depot Korean National Railroad
 STR_OBJ_Building_Train_Deport38                        :[DTSO] Vehicle Depot Korean National Railroad
+STR_OBJ_Building_Train_Deport39                        :[DTSO] Vehicle Depot SRT
+STR_OBJ_Building_Train_Deport40                        :[DTSO] Vehicle Depot SRT
+STR_OBJ_Building_Train_Deport41                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport42                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport43                        :[DTSO] Vehicle Depot KORAIL
+STR_OBJ_Building_Train_Deport44                        :[DTSO] Vehicle Depot KORAIL
 STR_OBJ_Flag                                           :[DTSO] Flag Signboard
 STR_OBJ_Flag_Korea                                     :[DTSO] Korea Flag Signboard
 STR_OBJ_Flag_DTS_001                                   :[DTSO] Flag DTS Signboard
@@ -105,6 +112,22 @@ STR_OBJ_Garden_27									   :[DTS0] Garden27
 STR_OBJ_Garden_28									   :[DTS0] Garden28
 STR_OBJ_Garden_29									   :[DTS0] Garden29
 STR_OBJ_Garden_30									   :[DTS0] Garden30
+STR_OBJ_Garden_31									   :[DTS0] Garden31
+STR_OBJ_Garden_32									   :[DTS0] Garden32
+STR_OBJ_Garden_33									   :[DTS0] Garden33
+STR_OBJ_Garden_34									   :[DTS0] Garden34
+STR_OBJ_Garden_35									   :[DTS0] Garden35
+STR_OBJ_Garden_36									   :[DTS0] Garden36
+STR_OBJ_Garden_37									   :[DTS0] Garden37
+STR_OBJ_Garden_38									   :[DTS0] Garden38
+STR_OBJ_Garden_39									   :[DTS0] Garden39
+STR_OBJ_Garden_40									   :[DTS0] Garden40
+STR_OBJ_Garden_41									   :[DTS0] Garden41
+STR_OBJ_Garden_54									   :[DTS0] Garden54
+STR_OBJ_Garden_55									   :[DTS0] Garden55
+STR_OBJ_Garden_56									   :[DTS0] Garden56
+STR_OBJ_Garden_57									   :[DTS0] Garden57
+STR_OBJ_Garden_58									   :[DTS0] Garden58
 STR_OBJ_dino        							   :[DTS0] Dinosaur
 STR_OBJ_dino01									   :[DTS0] Dinosaur01
 STR_OBJ_dino02									   :[DTS0] Dinosaur02
@@ -126,3 +149,50 @@ STR_OBJ_dino17									   :[DTS0] Dinosaur17
 STR_OBJ_dino18									   :[DTS0] Dinosaur18
 STR_OBJ_dino19									   :[DTS0] Dinosaur19
 STR_OBJ_dino20									   :[DTS0] Dinosaur20
+STR_OBJ_dino50									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino51									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino52									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino53									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino54									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino55									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino56									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino57									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino58									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino59									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino60									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_dino61									   :[DTS0] Dinosaur Park Facility
+STR_OBJ_Land									   :[DTS0] Landscape
+STR_OBJ_Land01									   :[DTS0] Rock
+STR_OBJ_Land02									   :[DTS0] Rock
+STR_OBJ_Land03									   :[DTS0] Rock
+STR_OBJ_Land04									   :[DTS0] Rock
+STR_OBJ_Land05									   :[DTS0] Rock
+STR_OBJ_Land06									   :[DTS0] Rock
+STR_OBJ_Land07									   :[DTS0] Rock
+STR_OBJ_Land08									   :[DTS0] Rock
+STR_OBJ_Land09									   :[DTS0] Rock
+STR_OBJ_Land10									   :[DTS0] Rock
+STR_OBJ_Land11									   :[DTS0] Rock
+STR_OBJ_Land12									   :[DTS0] Rock
+STR_OBJ_Land13									   :[DTS0] Rock
+STR_OBJ_Land14									   :[DTS0] Rock
+STR_OBJ_Land15									   :[DTS0] Rock
+STR_OBJ_Land16									   :[DTS0] Rock
+STR_OBJ_marina				    				   :[DTS0] On Water
+STR_OBJ_marina_01								   :[DTS0] Marina01
+STR_OBJ_marina_02								   :[DTS0] Marina02
+STR_OBJ_marina_03								   :[DTS0] Marina03
+STR_OBJ_marina_04								   :[DTS0] Rubber Duck
+STR_OBJ_Resort  								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_01 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_02 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_03 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_04 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_05 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_06 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_07 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_08 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_09 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_10 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_11 								   :[DTS0] Korean Tradition Resort
+STR_OBJ_Resort_12								   :[DTS0] Korean Tradition Resort

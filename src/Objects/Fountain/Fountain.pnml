@@ -12,7 +12,7 @@
 --------------------------------------------------------------------*/
 item(FEAT_OBJECTS, DTS_Fountain, 1016) {
     property {
-        class:                  "DFOU";
+        class:                  "DTOU";
         classname:              string(STR_OBJ_Fountain);
         name:                   string(STR_OBJ_Fountain);
         climates_available:     ALL_CLIMATES;
