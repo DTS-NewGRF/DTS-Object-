@@ -144,6 +144,11 @@ STR_OBJ_Garden_55									   :[DTS0] Garden55
 STR_OBJ_Garden_56									   :[DTS0] Garden56
 STR_OBJ_Garden_57									   :[DTS0] Garden57
 STR_OBJ_Garden_58									   :[DTS0] Garden58
+STR_OBJ_Garden_68									   :[DTS0] Garden68
+STR_OBJ_Garden_69									   :[DTS0] Garden69
+STR_OBJ_Garden_70									   :[DTS0] Garden70
+STR_OBJ_Garden_71									   :[DTS0] Garden71
+STR_OBJ_Garden_72									   :[DTS0] Garden72
 STR_OBJ_dino        							   :[DTS0] Dinosaur
 STR_OBJ_dino01									   :[DTS0] Dinosaur01
 STR_OBJ_dino02									   :[DTS0] Dinosaur02
@@ -212,3 +217,12 @@ STR_OBJ_Resort_09 								   :[DTS0] Korean Tradition Resort
 STR_OBJ_Resort_10 								   :[DTS0] Korean Tradition Resort
 STR_OBJ_Resort_11 								   :[DTS0] Korean Tradition Resort
 STR_OBJ_Resort_12								   :[DTS0] Korean Tradition Resort
+STR_OBJ_stadium   								   :[DTS0] Stadium
+STR_OBJ_stadium_01 								   :[DTS0] Stadium Restaurant
+STR_OBJ_stadium_02 								   :[DTS0] Stadium 
+STR_OBJ_stadium_03 								   :[DTS0] Stadium 
+STR_OBJ_stadium_04 								   :[DTS0] Stadium 
+STR_OBJ_stadium_05 								   :[DTS0] Stadium 
+STR_OBJ_stadium_06 								   :[DTS0] Stadium 
+STR_OBJ_stadium_07 								   :[DTS0] Stadium 
+STR_OBJ_stadium_08 								   :[DTS0] Stadium 

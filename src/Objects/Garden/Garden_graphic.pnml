@@ -445,3 +445,48 @@ spriteset(set_Garden58, "src/Objects/Garden/Garden7.png"){
 alternative_sprites(set_Garden58, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden58.png") {
     [0,     0,    133,    112,    -50,  -99]
 }
+
+
+spriteset(set_Garden68, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_Garden68, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden68.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_Garden69, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_Garden69, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden69.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_Garden70, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_Garden70, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden70.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_Garden71, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_Garden71, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden71.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_Garden72, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_Garden72, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden72.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}

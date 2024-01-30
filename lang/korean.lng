@@ -144,6 +144,11 @@ STR_OBJ_Garden_55									   :[DTS0] 정원55
 STR_OBJ_Garden_56									   :[DTS0] 정원56
 STR_OBJ_Garden_57									   :[DTS0] 정원57
 STR_OBJ_Garden_58									   :[DTS0] 정원58
+STR_OBJ_Garden_68									   :[DTS0] 정원68
+STR_OBJ_Garden_69									   :[DTS0] 정원69
+STR_OBJ_Garden_70									   :[DTS0] 정원70
+STR_OBJ_Garden_71									   :[DTS0] 정원71
+STR_OBJ_Garden_72									   :[DTS0] 정원72
 STR_OBJ_dino									   :[DTS0] 공룡
 STR_OBJ_dino01									   :[DTS0] 공룡01
 STR_OBJ_dino02									   :[DTS0] 공룡02
@@ -212,4 +217,13 @@ STR_OBJ_Resort_09 								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_10 								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_11 								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_12 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_stadium       							   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_01 								   :[DTS0] 스포츠 경기장 부속시설
+STR_OBJ_stadium_02 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_03 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_04 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_05 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_06 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_07 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_08 								   :[DTS0] 스포츠 경기장
 
