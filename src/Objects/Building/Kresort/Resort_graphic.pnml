@@ -127,3 +127,139 @@ spriteset(set_resort14, "src/Objects/Garden/Garden.png"){
 alternative_sprites(set_resort14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort14.png"){
     [0,     0,    210,    166,    -90,  -154]
 }
+
+
+
+spriteset(set_museum01, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum01.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+spriteset(set_museum02, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum02.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum03, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum03.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum04, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum04.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum05, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum05.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum06, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum06.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum07, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum07.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_museum08, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum08.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum09, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum09.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum10, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum10.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum11, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum11.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum12, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum12.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum13, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum13.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum14, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum14.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_museum15, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum15.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
