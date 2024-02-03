@@ -256,3 +256,46 @@ switch(FEAT_OBJECTS, SELF, sw_resort12, view) {
     1: set_resort12_0;
     set_resort12_0;
 }
+
+
+spritelayout set_resort13_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_resort13(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_resort13, view) {
+    1: set_resort13_0;
+    set_resort13_0;
+}
+
+
+
+spritelayout set_resort14_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_resort14(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_resort14, view) {
+    1: set_resort14_0;
+    set_resort14_0;
+}

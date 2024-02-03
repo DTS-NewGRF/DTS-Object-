@@ -107,3 +107,90 @@ spriteset(set_stadium08, "src/Objects/Garden/Garden.png"){
 alternative_sprites(set_stadium08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium08.png"){
     [0,     0,    210,    166,    -90,  -154]
 }
+
+
+spriteset(set_marina05, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina05.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_marina06, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina06.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_marina07, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina07.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_marina08, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina08.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_marina09, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_marina09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/marina09.png"){
+    [0,     0,    133,    112,    -50,  -120]
+}
+
+
+spriteset(set_stadium09, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_stadium09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium09.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_stadium10, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_stadium10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium10.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_stadium11, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_stadium11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium11.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_stadium12, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_stadium12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium12.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_stadium13, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_stadium13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium13.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}

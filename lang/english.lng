@@ -149,6 +149,14 @@ STR_OBJ_Garden_69									   :[DTS0] Garden69
 STR_OBJ_Garden_70									   :[DTS0] Garden70
 STR_OBJ_Garden_71									   :[DTS0] Garden71
 STR_OBJ_Garden_72									   :[DTS0] Garden72
+STR_OBJ_Garden_73									   :[DTS0] Garden73
+STR_OBJ_Garden_74									   :[DTS0] Garden74
+STR_OBJ_Garden_75									   :[DTS0] Garden75
+STR_OBJ_Garden_76									   :[DTS0] Garden76
+STR_OBJ_Garden_77									   :[DTS0] Garden77
+STR_OBJ_Garden_78									   :[DTS0] Garden78
+STR_OBJ_Garden_79									   :[DTS0] Garden79
+STR_OBJ_Garden_80									   :[DTS0] Garden80
 STR_OBJ_dino        							   :[DTS0] Dinosaur
 STR_OBJ_dino01									   :[DTS0] Dinosaur01
 STR_OBJ_dino02									   :[DTS0] Dinosaur02
@@ -204,6 +212,11 @@ STR_OBJ_marina_01								   :[DTS0] Marina01
 STR_OBJ_marina_02								   :[DTS0] Marina02
 STR_OBJ_marina_03								   :[DTS0] Marina03
 STR_OBJ_marina_04								   :[DTS0] Rubber Duck
+STR_OBJ_marina_05								   :[DTS0] Marina04
+STR_OBJ_marina_06								   :[DTS0] Marina05
+STR_OBJ_marina_07								   :[DTS0] Marina06
+STR_OBJ_marina_08								   :[DTS0] Marina07
+STR_OBJ_marina_09								   :[DTS0] Marina08
 STR_OBJ_Resort  								   :[DTS0] Korean Tradition Resort
 STR_OBJ_Resort_01 								   :[DTS0] Korean Tradition Resort
 STR_OBJ_Resort_02 								   :[DTS0] Korean Tradition Resort
@@ -226,3 +239,10 @@ STR_OBJ_stadium_05 								   :[DTS0] Stadium
 STR_OBJ_stadium_06 								   :[DTS0] Stadium 
 STR_OBJ_stadium_07 								   :[DTS0] Stadium 
 STR_OBJ_stadium_08 								   :[DTS0] Stadium 
+STR_OBJ_stadium_09 								   :[DTS0] Stadium 
+STR_OBJ_stadium_10 								   :[DTS0] Stadium 
+STR_OBJ_stadium_11 								   :[DTS0] Stadium 
+STR_OBJ_stadium_12 								   :[DTS0] Go Kart Track
+STR_OBJ_stadium_13 								   :[DTS0] Go Kart Track
+STR_OBJ_MResort 								   :[DTS0] Post Modern Style Resort
+STR_OBJ_MResort_01								   :[DTS0] Post Modern Style Resort01

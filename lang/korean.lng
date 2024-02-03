@@ -149,6 +149,14 @@ STR_OBJ_Garden_69									   :[DTS0] 정원69
 STR_OBJ_Garden_70									   :[DTS0] 정원70
 STR_OBJ_Garden_71									   :[DTS0] 정원71
 STR_OBJ_Garden_72									   :[DTS0] 정원72
+STR_OBJ_Garden_73									   :[DTS0] 정원73
+STR_OBJ_Garden_74									   :[DTS0] 정원74
+STR_OBJ_Garden_75									   :[DTS0] 정원75
+STR_OBJ_Garden_76									   :[DTS0] 정원76
+STR_OBJ_Garden_77									   :[DTS0] 정원77
+STR_OBJ_Garden_78									   :[DTS0] 정원78
+STR_OBJ_Garden_79									   :[DTS0] 정원79
+STR_OBJ_Garden_80									   :[DTS0] 정원80
 STR_OBJ_dino									   :[DTS0] 공룡
 STR_OBJ_dino01									   :[DTS0] 공룡01
 STR_OBJ_dino02									   :[DTS0] 공룡02
@@ -204,6 +212,11 @@ STR_OBJ_marina_01								   :[DTS0] 해양공원
 STR_OBJ_marina_02								   :[DTS0] 해양공원
 STR_OBJ_marina_03								   :[DTS0] 해양공원
 STR_OBJ_marina_04								   :[DTS0] 러버덕
+STR_OBJ_marina_05								   :[DTS0] 보트 탑승장
+STR_OBJ_marina_06								   :[DTS0] 보트 탑승장
+STR_OBJ_marina_07								   :[DTS0] 보트 탑승장
+STR_OBJ_marina_08								   :[DTS0] 보트 탑승장
+STR_OBJ_marina_09								   :[DTS0] 보트 탑승장
 STR_OBJ_Resort  								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_01 								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_02 								   :[DTS0] 한국 전통가옥 리조트
@@ -226,4 +239,10 @@ STR_OBJ_stadium_05 								   :[DTS0] 스포츠 경기장
 STR_OBJ_stadium_06 								   :[DTS0] 스포츠 경기장
 STR_OBJ_stadium_07 								   :[DTS0] 스포츠 경기장
 STR_OBJ_stadium_08 								   :[DTS0] 스포츠 경기장
-
+STR_OBJ_stadium_09 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_10 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_11 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_12 								   :[DTS0] 고 카트 경기장
+STR_OBJ_stadium_13 								   :[DTS0] 고 카트 경기장
+STR_OBJ_MResort 								   :[DTS0] 포스트모던 스타일 리조트 
+STR_OBJ_MResort_01 								   :[DTS0] 포스트모던 스타일 리조트 
