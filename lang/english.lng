@@ -248,3 +248,10 @@ STR_OBJ_MResort 								   :[DTS0] Post Modern Style Resort
 STR_OBJ_MResort_01								   :[DTS0] Post Modern Style Resort01
 STR_OBJ_Museum   								   :[DTS0] DTS Train Hall
 STR_OBJ_Museum_01  								   :[DTS0] DTS Train Hall
+STR_OBJ_HSpring   								   :[DTS0] Hot Spring Resort
+STR_OBJ_HSpring_01  							   :[DTS0] Hot Spring Resort Signboard
+STR_OBJ_HSpring_02  							   :[DTS0] Hot Spring Resort Facility
+STR_OBJ_HSpring_03  							   :[DTS0] Hot Spring Resort Hot Bath
+STR_OBJ_HSpring_04  							   :[DTS0] Hot Spring Resort
+STR_OBJ_HSpring_05  							   :[DTS0] Hot Spring
+STR_OBJ_Apart   								   :[DTS0] Apartment

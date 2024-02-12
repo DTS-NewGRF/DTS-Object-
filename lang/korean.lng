@@ -248,3 +248,10 @@ STR_OBJ_MResort 								   :[DTS0] 포스트모던 스타일 리조트
 STR_OBJ_MResort_01 								   :[DTS0] 포스트모던 스타일 리조트 
 STR_OBJ_Museum  								   :[DTS0] DTS 열차 기념관
 STR_OBJ_Museum_01  								   :[DTS0] DTS 열차 기념관
+STR_OBJ_HSpring   								   :[DTS0] 온천
+STR_OBJ_HSpring_01  							   :[DTS0] 신길온천 간판
+STR_OBJ_HSpring_02  							   :[DTS0] 온천 시설
+STR_OBJ_HSpring_03  							   :[DTS0] 온천욕탕
+STR_OBJ_HSpring_04  							   :[DTS0] 보양수 온천 목욕탕
+STR_OBJ_HSpring_05  							   :[DTS0] 온천
+STR_OBJ_Apart   								   :[DTS0] 아파트
