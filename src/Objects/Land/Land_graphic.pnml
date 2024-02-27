@@ -134,3 +134,245 @@ spriteset(set_land16, "src/Objects/land/land00.png"){
 alternative_sprites(set_land16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/land16.png") {
     [0,     0,    133,    112,    -50,  -99]
 }
+
+spriteset(set_crater01, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater01.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater02, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater02.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater03, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater03.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater04, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater04.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater05, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater05.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater06, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater06.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater07, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater07.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater08, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater08.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater09, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater09.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater10, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater10.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater11, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater11.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater12, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater12.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater13, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater13.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater14, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater14.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater15, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater15.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater16, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater16.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater17, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater17.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater18, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater18, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater18.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater19, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater19, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater19.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater20, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater20, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater20.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater21, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater21.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater22, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater22, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater22.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater23, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater23.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater24, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater24, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater24.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater25, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater25, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater25.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater26, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater26, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater26.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_crater27, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_crater27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater27.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}

@@ -1,0 +1,43 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+spriteset(set_military01, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military01.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_military02, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military02.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_military03, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military03.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_military04, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military04.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_military05, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military05.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+

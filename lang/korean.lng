@@ -157,6 +157,10 @@ STR_OBJ_Garden_77									   :[DTS0] 정원77
 STR_OBJ_Garden_78									   :[DTS0] 정원78
 STR_OBJ_Garden_79									   :[DTS0] 정원79
 STR_OBJ_Garden_80									   :[DTS0] 정원80
+STR_OBJ_Garden_81									   :[DTS0] 정원81
+STR_OBJ_Garden_82									   :[DTS0] 정원82
+STR_OBJ_Garden_83									   :[DTS0] 정원83
+STR_OBJ_Garden_84									   :[DTS0] 정원84
 STR_OBJ_dino									   :[DTS0] 공룡
 STR_OBJ_dino01									   :[DTS0] 공룡01
 STR_OBJ_dino02									   :[DTS0] 공룡02
@@ -230,6 +234,7 @@ STR_OBJ_Resort_09 								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_10 								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_11 								   :[DTS0] 한국 전통가옥 리조트
 STR_OBJ_Resort_12 								   :[DTS0] 한국 전통가옥 리조트
+STR_OBJ_Resort_13 								   :[DTS0] 롤러코스터
 STR_OBJ_stadium       							   :[DTS0] 스포츠 경기장
 STR_OBJ_stadium_01 								   :[DTS0] 스포츠 경기장 부속시설
 STR_OBJ_stadium_02 								   :[DTS0] 스포츠 경기장
@@ -244,6 +249,31 @@ STR_OBJ_stadium_10 								   :[DTS0] 스포츠 경기장
 STR_OBJ_stadium_11 								   :[DTS0] 스포츠 경기장
 STR_OBJ_stadium_12 								   :[DTS0] 고 카트 경기장
 STR_OBJ_stadium_13 								   :[DTS0] 고 카트 경기장
+STR_OBJ_stadium_14 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_15 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_16 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_17 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_18 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_19 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_20 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_21 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_22 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_23 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_24 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_25 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_26 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_27 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_28 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_29 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_30 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_31 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_32 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_33 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_34 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_35 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_36 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_37 								   :[DTS0] 스포츠 경기장
+STR_OBJ_stadium_38 								   :[DTS0] 스포츠 경기장
 STR_OBJ_MResort 								   :[DTS0] 포스트모던 스타일 리조트 
 STR_OBJ_MResort_01 								   :[DTS0] 포스트모던 스타일 리조트 
 STR_OBJ_Museum  								   :[DTS0] DTS 열차 기념관
@@ -255,3 +285,38 @@ STR_OBJ_HSpring_03  							   :[DTS0] 온천욕탕
 STR_OBJ_HSpring_04  							   :[DTS0] 보양수 온천 목욕탕
 STR_OBJ_HSpring_05  							   :[DTS0] 온천
 STR_OBJ_Apart   								   :[DTS0] 아파트
+STR_OBJ_crater01 								   :[DTS0] 분화구 
+STR_OBJ_crater02 								   :[DTS0] 분화구 
+STR_OBJ_crater03 								   :[DTS0] 분화구 
+STR_OBJ_crater04 								   :[DTS0] 분화구 
+STR_OBJ_crater05 								   :[DTS0] 분화구 
+STR_OBJ_crater06 								   :[DTS0] 분화구 
+STR_OBJ_crater07 								   :[DTS0] 분화구 
+STR_OBJ_crater08 								   :[DTS0] 분화구 
+STR_OBJ_crater09 								   :[DTS0] 분화구 
+STR_OBJ_crater10 								   :[DTS0] 분화구 
+STR_OBJ_crater11 								   :[DTS0] 분화구 
+STR_OBJ_crater12 								   :[DTS0] 고산
+STR_OBJ_crater13 								   :[DTS0] 고산
+STR_OBJ_crater14 								   :[DTS0] 고산
+STR_OBJ_crater15 								   :[DTS0] 고산
+STR_OBJ_crater16 								   :[DTS0] 고산
+STR_OBJ_crater17 								   :[DTS0] 고산
+STR_OBJ_crater18 								   :[DTS0] 고산
+STR_OBJ_crater19 								   :[DTS0] 고산
+STR_OBJ_crater20 								   :[DTS0] 고산
+STR_OBJ_crater21								   :[DTS0] 고산
+STR_OBJ_crater22 								   :[DTS0] 고산
+STR_OBJ_office  								   :[DTS0] 사무용 건물
+STR_OBJ_office_01                                  :[DTS0] 오피스텔
+STR_OBJ_office_02                                  :[DTS0] 오피스텔
+STR_OBJ_office_03                                  :[DTS0] 오피스텔
+STR_OBJ_office_04                                  :[DTS0] 오피스텔
+STR_OBJ_office_05                                  :[DTS0] 오피스텔
+STR_OBJ_office_06                                  :[DTS0] MBC문화방송
+STR_OBJ_military  								   :[DTS0] 밀리터리
+STR_OBJ_military_01  							   :[DTS0] 연병장
+STR_OBJ_military_02  							   :[DTS0] 미사일 발사대
+STR_OBJ_military_03  							   :[DTS0] 미사일 발사대
+STR_OBJ_military_04  							   :[DTS0] 미사일 발사대
+STR_OBJ_military_05  							   :[DTS0] 다연장 로켓포

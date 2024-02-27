@@ -28,3 +28,9 @@
 
 // Resort
 #include "Objects/Building/KResort/Resort.pnml"
+
+// Office
+#include "Objects/Building/office/office.pnml"
+
+// Military
+#include "Objects/Building/Military/Military.pnml"

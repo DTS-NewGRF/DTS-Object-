@@ -1,0 +1,53 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+spriteset(set_office01, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_office01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/office/office01.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_office02, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_office02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/office/office02.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_office03, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_office03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/office/office03.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_office04, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_office04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/office/office04.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_office05, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_office05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/office/office05.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+spriteset(set_office06, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_office06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/office/office06.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
+
