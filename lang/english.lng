@@ -95,6 +95,11 @@ STR_OBJ_Flag_DTS_012                                   :[DTSO] Flag DTS Signboar
 STR_OBJ_Flag_DTS_013                                   :[DTSO] Flag DTS Signboard
 STR_OBJ_Flag_DTS_014                                   :[DTSO] Flag DTS Signboard
 STR_OBJ_Flag_DTS_015                                   :[DTSO] Flag DTS Signboard
+STR_OBJ_Flag_DTS_016                                   :[DTS0] KTX-Mini Signboard
+STR_OBJ_Flag_DTS_017                                   :[DTS0] Korail FC Signboard
+STR_OBJ_Flag_DTS_018                                   :[DTS0] Let's Korail Signboard
+STR_OBJ_Flag_DTS_019                                   :[DTS0] Transport Card Signboard
+STR_OBJ_Flag_DTS_020                                   :[DTS0] Ttota Signboard
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
