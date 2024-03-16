@@ -320,3 +320,12 @@ STR_OBJ_military_02  							   :[DTS0] 미사일 발사대
 STR_OBJ_military_03  							   :[DTS0] 미사일 발사대
 STR_OBJ_military_04  							   :[DTS0] 미사일 발사대
 STR_OBJ_military_05  							   :[DTS0] 다연장 로켓포
+STR_OBJ_inde                         :[DTS0] 독립운동가 기념 표지판 
+STR_OBJ_inde_01                      :[DTS0] 안중근  
+STR_OBJ_inde_02                      :[DTS0] 윤봉길
+STR_OBJ_inde_03                      :[DTS0] 안창호 
+STR_OBJ_inde_04                      :[DTS0] 윤동주
+STR_OBJ_inde_05                      :[DTS0] 홍범도 
+STR_OBJ_inde_06                      :[DTS0] 김구 
+STR_OBJ_inde_07                      :[DTS0] 유관순  
+STR_OBJ_inde_08                      :[DTS0] 이육사  
