@@ -1,0 +1,11 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+
+spriteset(set_inde01, "src/Objects/Flag_Korea/Flag_Korea2.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_inde01_001, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Inde/inde01.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
