@@ -34,3 +34,6 @@
 
 // Military
 #include "Objects/Building/Military/Military.pnml"
+
+// Independence
+#include "Objects/Building/Inde/inde.pnml"
