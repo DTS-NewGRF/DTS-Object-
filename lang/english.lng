@@ -319,3 +319,12 @@ STR_OBJ_military_02  							   :[DTS0] Missile Silo
 STR_OBJ_military_03  							   :[DTS0] Missile Silo
 STR_OBJ_military_04  							   :[DTS0] Missile Silo
 STR_OBJ_military_05  							   :[DTS0] MLRS
+STR_OBJ_inde                         :[DTS0] Independence Activist Memorial Signboard
+STR_OBJ_inde_01                      :[DTS0] Ahn Jung-geun  
+STR_OBJ_inde_02                      :[DTS0] Yun Bonggil
+STR_OBJ_inde_03                      :[DTS0] Ahn Chang-ho 
+STR_OBJ_inde_04                      :[DTS0] Yun Dongju
+STR_OBJ_inde_05                      :[DTS0] Hong Beom-do 
+STR_OBJ_inde_06                      :[DTS0] Kim Koo 
+STR_OBJ_inde_07                      :[DTS0] Ryu Gwan-sun  
+STR_OBJ_inde_08                      :[DTS0] Lee Yuk-sa
