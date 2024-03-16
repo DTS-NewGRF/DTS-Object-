@@ -157,7 +157,7 @@ spriteset(set_DTS_Flag_DTS_017, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_DTS_Flag_DTS_016, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Flag_Korea/Flag_017.png") {
+alternative_sprites(set_DTS_Flag_DTS_017, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Flag_Korea/Flag_017.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 

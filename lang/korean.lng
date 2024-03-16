@@ -95,6 +95,11 @@ STR_OBJ_Flag_DTS_012                                   :[DTS0] 현대로템 표�
 STR_OBJ_Flag_DTS_013                                   :[DTS0] 다원시스 표지판
 STR_OBJ_Flag_DTS_014                                   :[DTS0] SRT 표지판
 STR_OBJ_Flag_DTS_015                                   :[DTS0] 철도박물관 표지판
+STR_OBJ_Flag_DTS_016                                   :[DTS0] KTX Mini 표지판
+STR_OBJ_Flag_DTS_017                                   :[DTS0] 한국철도FC 표지판
+STR_OBJ_Flag_DTS_018                                   :[DTS0] 렛츠코레일 표지판
+STR_OBJ_Flag_DTS_019                                   :[DTS0] 기후동행카드 표지판
+STR_OBJ_Flag_DTS_020                                   :[DTS0] 서울교통공사 또타 표지판
 STR_OBJ_Pavement                                       :[DTS0] 보도블럭
 STR_OBJ_Fountain                                       :[DTS0] 분수대
 STR_OBJ_Garden									       :[DTS0] 정원
