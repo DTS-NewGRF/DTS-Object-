@@ -37,3 +37,6 @@
 
 // Independence
 #include "Objects/Building/Inde/inde.pnml"
+
+// Rollercoaster
+#include "src/Objects/Building/Roller/rct_switch.pnml"
