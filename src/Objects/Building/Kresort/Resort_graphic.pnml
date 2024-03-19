@@ -1045,6 +1045,7 @@ alternative_sprites(set_resort16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
     [0,     0,    210,    166,    -90,  -154]
 }
 
+
 spriteset(set_resort17, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
@@ -1052,7 +1053,6 @@ spriteset(set_resort17, "src/Objects/Garden/Garden.png"){
 alternative_sprites(set_resort17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort17.png"){
     [0,     0,    210,    166,    -90,  -154]
 }
-
 
 
 
