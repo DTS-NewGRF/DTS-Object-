@@ -334,7 +334,11 @@ STR_OBJ_inde_06                      :[DTS0] Kim Koo
 STR_OBJ_inde_07                      :[DTS0] Ryu Gwan-sun  
 STR_OBJ_inde_08                      :[DTS0] Lee Yuk-sa
 STR_OBJ_Roller                       :[DTS0] Themepark 
-STR_OBJ_Rolle_01                     :[DTS0] MEMAKING Rollercoaster 
-STR_OBJ_Rolle_02                     :[DTS0] Jukjeon_Wani Corkscrew Rollercoaster 
-STR_OBJ_Rolle_03                     :[DTS0] MEMAKING Rollercoaster 
-STR_OBJ_Rolle_04                     :[DTS0] Jukjeon_Wani Corkscrew Rollercoaster
+STR_OBJ_Roller_01                     :[DTS0] MEMAKING Rollercoaster 
+STR_OBJ_Roller_02                     :[DTS0] Jukjeon_Wani Corkscrew Rollercoaster 
+STR_OBJ_Roller_03                     :[DTS0] MEMAKING Rollercoaster 
+STR_OBJ_Roller_04                     :[DTS0] Jukjeon_Wani Corkscrew Rollercoaster
+STR_OBJ_santorini                      :[DTS0] Santorini
+STR_OBJ_santorini_01                   :[DTS0] Santorini
+
+
