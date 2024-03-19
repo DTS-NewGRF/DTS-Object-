@@ -858,7 +858,7 @@ item(FEAT_OBJECTS, museum24, 8239) {
 }
 
 
-item(FEAT_OBJECTS, museum25, 8239) {
+item(FEAT_OBJECTS, museum25, 8322) {
     property {
         class:                  "DTMS";
         classname:              string(STR_OBJ_Museum);
@@ -2665,3 +2665,6 @@ item(FEAT_OBJECTS, Resort21, 8321) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
+//8322
+
