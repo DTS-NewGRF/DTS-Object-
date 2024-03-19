@@ -2454,7 +2454,7 @@ spritelayout set_resort17_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_resort14(0);
+        sprite: set_resort17(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
