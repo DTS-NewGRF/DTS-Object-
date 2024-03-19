@@ -335,10 +335,11 @@ STR_OBJ_inde_06                      :[DTS0] 김구
 STR_OBJ_inde_07                      :[DTS0] 유관순  
 STR_OBJ_inde_08                      :[DTS0] 이육사  
 STR_OBJ_Roller                       :[DTS0] 테마파크 
-STR_OBJ_Rolle_01                     :[DTS0] 민은 롤러코스터 
-STR_OBJ_Rolle_02                     :[DTS0] 죽전와니 롤러코스터 
-STR_OBJ_Rolle_03                     :[DTS0] 민은 콕스크류 롤러코스터 
-STR_OBJ_Rolle_04                     :[DTS0] 죽전와니 롤러코스터 
-
+STR_OBJ_Roller_01                     :[DTS0] 민은 롤러코스터 
+STR_OBJ_Roller_02                     :[DTS0] 죽전와니 롤러코스터 
+STR_OBJ_Roller_03                     :[DTS0] 민은 콕스크류 롤러코스터 
+STR_OBJ_Roller_04                     :[DTS0] 죽전와니 롤러코스터 
+STR_OBJ_santorini                      :[DTS0] 산토리니 
+STR_OBJ_santorini_01                   :[DTS0] 산토리니 주택 
 
 
