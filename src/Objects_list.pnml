@@ -39,4 +39,7 @@
 #include "Objects/Building/Inde/inde.pnml"
 
 // Rollercoaster
-#include "src/Objects/Building/Roller/rct_switch.pnml"
+#include "src/Objects/Building/Roller/rct.pnml"
+
+// 
+#include "src/Objects/Building/santorini/santorini.pnml"
