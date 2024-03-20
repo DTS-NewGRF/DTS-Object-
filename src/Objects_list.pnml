@@ -39,10 +39,10 @@
 #include "Objects/Building/Inde/inde.pnml"
 
 // Rollercoaster
-#include "src/Objects/Building/Roller/rct.pnml"
+#include "Objects/Building/Roller/rct.pnml"
 
 // Santorini
-#include "src/Objects/Building/santorini/santorini.pnml"
+#include "objects/Building/santo/santorini.pnml"
 
 // Sakura
-#include "src/Objects/Building/sakura/sakura.pnml"
+#include "Objects/Building/sakura/sakura.pnml"

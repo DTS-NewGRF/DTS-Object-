@@ -12,7 +12,7 @@
 --------------------------------------------------------------------*/
 
 
-item(FEAT_OBJECTS, Resort01, 2001) {
+item(FEAT_OBJECTS, sakura01, 2001) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -35,7 +35,7 @@ item(FEAT_OBJECTS, Resort01, 2001) {
 
 
 
-item(FEAT_OBJECTS, Resort02, 2002) {
+item(FEAT_OBJECTS, sakura02, 2002) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -59,7 +59,7 @@ item(FEAT_OBJECTS, Resort02, 2002) {
 
 
 
-item(FEAT_OBJECTS, Resort03, 2003) {
+item(FEAT_OBJECTS, sakura03, 2003) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -83,7 +83,7 @@ item(FEAT_OBJECTS, Resort03, 2003) {
 
 
 
-item(FEAT_OBJECTS, Resort04, 2004) {
+item(FEAT_OBJECTS, sakura04, 2004) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -108,7 +108,7 @@ item(FEAT_OBJECTS, Resort04, 2004) {
 
 
 
-item(FEAT_OBJECTS, Resort05, 2005) {
+item(FEAT_OBJECTS, sakura05, 2005) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -132,7 +132,7 @@ item(FEAT_OBJECTS, Resort05, 2005) {
 
 
 
-item(FEAT_OBJECTS, Resort06, 2006) {
+item(FEAT_OBJECTS, sakura06, 2006) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -156,7 +156,7 @@ item(FEAT_OBJECTS, Resort06, 2006) {
 
 
 
-item(FEAT_OBJECTS, Resort07, 2007) {
+item(FEAT_OBJECTS, sakura07, 2007) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -180,7 +180,7 @@ item(FEAT_OBJECTS, Resort07, 2007) {
 
 
 
-item(FEAT_OBJECTS, Resort08, 2008) {
+item(FEAT_OBJECTS, sakura08, 2008) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -202,7 +202,7 @@ item(FEAT_OBJECTS, Resort08, 2008) {
 }
 
 
-item(FEAT_OBJECTS, Resort09, 2009) {
+item(FEAT_OBJECTS, sakura09, 2009) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -226,7 +226,7 @@ item(FEAT_OBJECTS, Resort09, 2009) {
 
 
 
-item(FEAT_OBJECTS, Resort10, 2010) {
+item(FEAT_OBJECTS, sakura10, 2010) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
@@ -251,7 +251,7 @@ item(FEAT_OBJECTS, Resort10, 2010) {
 
 
 
-item(FEAT_OBJECTS, Resort11, 2011) {
+item(FEAT_OBJECTS, sakura11, 2011) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);

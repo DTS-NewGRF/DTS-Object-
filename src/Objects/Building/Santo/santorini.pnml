@@ -181,7 +181,7 @@ item(FEAT_OBJECTS, Santorini07, 5907) {
 item(FEAT_OBJECTS, Santorini08, 5908) {
     property {
         class:                  "DTSA";
-        classname:              string(STR_OBJ_santorini.);
+        classname:              string(STR_OBJ_santorini);
         name:                   string(STR_OBJ_santorini_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];

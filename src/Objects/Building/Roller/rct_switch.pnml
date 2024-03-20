@@ -18,7 +18,7 @@ spritelayout set_rct01_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_rctt01, view) {
+switch(FEAT_OBJECTS, SELF, sw_rct01, view) {
     1: set_rct01_0;
     set_rct01_0;
 }
