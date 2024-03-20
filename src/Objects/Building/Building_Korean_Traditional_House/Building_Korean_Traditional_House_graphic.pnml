@@ -80,3 +80,51 @@ spriteset(set_Building_Korean_Traditional_House10, "src/Objects/Building/Buildin
 alternative_sprites(set_Building_Korean_Traditional_House10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/Building_Korean_Traditional_House10_32bpp.png") {
     [0,     0,    64,    50,    -15,  -41]
 }
+
+
+
+spriteset(set_Building_Korean_Traditional_House11, "src/Objects/Building/Building_Korean_Traditional_House/Building_Korean_Traditional_House.png"){
+    [0,     0,    64,    50,    -15,  -41]
+}
+
+alternative_sprites(set_Building_Korean_Traditional_House11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/001.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_Building_Korean_Traditional_House12, "src/Objects/Building/Building_Korean_Traditional_House/Building_Korean_Traditional_House.png"){
+    [0,     0,    64,    50,    -15,  -41]
+}
+
+alternative_sprites(set_Building_Korean_Traditional_House12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/002.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+spriteset(set_Building_Korean_Traditional_House13, "src/Objects/Building/Building_Korean_Traditional_House/Building_Korean_Traditional_House.png"){
+    [0,     0,    64,    50,    -15,  -41]
+}
+
+alternative_sprites(set_Building_Korean_Traditional_House13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/003.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+spriteset(set_Building_Korean_Traditional_House14, "src/Objects/Building/Building_Korean_Traditional_House/Building_Korean_Traditional_House.png"){
+    [0,     0,    64,    50,    -15,  -41]
+}
+
+alternative_sprites(set_Building_Korean_Traditional_House14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/004.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+spriteset(set_Building_Korean_Traditional_House15, "src/Objects/Building/Building_Korean_Traditional_House/Building_Korean_Traditional_House.png"){
+    [0,     0,    64,    50,    -15,  -41]
+}
+
+alternative_sprites(set_Building_Korean_Traditional_House15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/005.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
