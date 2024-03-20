@@ -43,3 +43,6 @@
 
 // Santorini
 #include "src/Objects/Building/santorini/santorini.pnml"
+
+// Sakura
+#include "src/Objects/Building/sakura/sakura.pnml"
