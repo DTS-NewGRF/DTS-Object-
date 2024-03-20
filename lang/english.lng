@@ -319,6 +319,7 @@ STR_OBJ_office_04                                  :[DTS0] Office Building
 STR_OBJ_office_05                                  :[DTS0] Office Building
 STR_OBJ_office_06                                  :[DTS0] MBC Munhwa Broadcast Corp.
 STR_OBJ_office_07                                  :[DTS0] Lotte Mart 
+STR_OBJ_office_08                                  :[DTS0] Outlet Mall 
 STR_OBJ_military  								   :[DTS0] Military
 STR_OBJ_military_01  							   :[DTS0] Dirt
 STR_OBJ_military_02  							   :[DTS0] Missile Silo
