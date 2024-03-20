@@ -46,3 +46,7 @@
 
 // Sakura
 #include "Objects/Building/sakura/sakura.pnml"
+
+
+// Sho
+#include "Objects/Building/sho/sho1.nml"
