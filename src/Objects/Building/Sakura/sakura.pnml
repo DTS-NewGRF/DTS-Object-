@@ -14,7 +14,7 @@
 
 item(FEAT_OBJECTS, Resort01, 2001) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -37,7 +37,7 @@ item(FEAT_OBJECTS, Resort01, 2001) {
 
 item(FEAT_OBJECTS, Resort02, 2002) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -61,7 +61,7 @@ item(FEAT_OBJECTS, Resort02, 2002) {
 
 item(FEAT_OBJECTS, Resort03, 2003) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -85,7 +85,7 @@ item(FEAT_OBJECTS, Resort03, 2003) {
 
 item(FEAT_OBJECTS, Resort04, 2004) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -110,7 +110,7 @@ item(FEAT_OBJECTS, Resort04, 2004) {
 
 item(FEAT_OBJECTS, Resort05, 2005) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -134,7 +134,7 @@ item(FEAT_OBJECTS, Resort05, 2005) {
 
 item(FEAT_OBJECTS, Resort06, 2006) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -158,7 +158,7 @@ item(FEAT_OBJECTS, Resort06, 2006) {
 
 item(FEAT_OBJECTS, Resort07, 2007) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -182,7 +182,7 @@ item(FEAT_OBJECTS, Resort07, 2007) {
 
 item(FEAT_OBJECTS, Resort08, 2008) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -204,7 +204,7 @@ item(FEAT_OBJECTS, Resort08, 2008) {
 
 item(FEAT_OBJECTS, Resort09, 2009) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -228,7 +228,7 @@ item(FEAT_OBJECTS, Resort09, 2009) {
 
 item(FEAT_OBJECTS, Resort10, 2010) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
@@ -253,7 +253,7 @@ item(FEAT_OBJECTS, Resort10, 2010) {
 
 item(FEAT_OBJECTS, Resort11, 2011) {
     property {
-        class:                  "DTTR";
+        class:                  "DTSK";
         classname:              string(STR_OBJ_sakura);
         name:                   string(STR_OBJ_sakura_01);
         climates_available:     ALL_CLIMATES;
