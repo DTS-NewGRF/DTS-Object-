@@ -2,1094 +2,136 @@
 Graphics
 --------------------------------------------------------------------*/
 
-spriteset(set_resort01, "src/Objects/Garden/Garden7.png"){
+spriteset(set_Garden01, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_resort01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort01.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort02, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort02.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort03, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort03.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort04, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort04.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort05, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort05.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort06, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort06.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort07, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort07.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort08, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort08.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort09, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort09.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort10, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort10.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort11, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort11.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_resort12, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort12.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_resort13, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort13.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_resort14, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort14.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-
-spriteset(set_museum01, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum01.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum02, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum02.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum03, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum03.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum04, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum04.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum05, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum05.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum06, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum06.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum07, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum07.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-spriteset(set_museum08, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum08.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum09, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum09.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum10, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum10.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum11, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum11.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum12, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum12.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum13, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum13.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum14, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum14.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum15, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum15.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum16, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum16.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum17, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum17.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum18, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum18, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum18.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum19, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum19, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum19.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum20, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum20, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum20.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum21, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum21.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum22, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum22, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum22.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum23, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum23.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum24, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum24, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum24.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum25, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum25, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum25.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum26, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum26, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum26.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum27, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum27.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum28, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum28, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum28.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum29, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum29, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum29.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum30, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum30, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum30.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum31, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum31, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum31.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum32, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum32.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum33, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum33.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum34, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum34, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum34.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum35, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum35, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum35.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum36, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum36, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum36.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum37, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum37, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum37.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum38, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum38.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum39, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum39, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum39.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum40, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum40, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum40.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum41, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum41, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum41.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_museum42, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum42, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum42.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum43, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum43, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum43.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum44, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum44, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum44.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_museum45, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_museum45, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum45.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_resort15, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort15.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart01, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart01.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart02, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart02.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart03, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart03.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart04, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart04.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart05, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart05.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart06, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart06.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart07, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart07.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart08, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart08.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart09, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart09.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart10, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart10.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart12, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart12.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart13, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart13.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart14, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart14.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart15, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart15.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart16, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart16.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart17, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart17.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart18, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart18, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart18.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-
-spriteset(set_hspring01, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring01.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-
-spriteset(set_hspring02, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring02.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-
-spriteset(set_hspring03, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring03.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-
-
-spriteset(set_hspring04, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring04.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-
-spriteset(set_hspring05, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring05.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-
-spriteset(set_hspring06, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring06.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-
-spriteset(set_hspring07, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring07.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_hspring08, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring08.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_hspring09, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring09.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_hspring10, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring10.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_hspring11, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring11.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_hspring12, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring12.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_hspring13, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring13.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-spriteset(set_hspring14, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring14.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_hspring15, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_hspring15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/hspring15.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart19, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart19, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart19.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart20, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart20, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart20.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-spriteset(set_apart22, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart22, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart22.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_apart23, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak01.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart23.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
 
-spriteset(set_apart24, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden02, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart24, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart24.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
-
 
-
-spriteset(set_apart25, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak02.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart25, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart25.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
 
 
-spriteset(set_apart26, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden03, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart26, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart26.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
-
 
-
-spriteset(set_apart27, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak03.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart27.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
 
 
-spriteset(set_apart28, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden04, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart28, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart28.png"){
-    [0,     0,    133,    112,    -50,  -99]
+    [69,    0,    64,    54,    -31,  -44]
 }
-
 
-spriteset(set_apart29, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak04.png"){
     [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_apart29, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart29.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
 
 
-spriteset(set_apart30, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden05, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart30, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart30.png"){
-    [0,     0,    133,    112,    -50,  -99]
+    [69,    0,    64,    54,    -31,  -44]
 }
-
 
-spriteset(set_apart31, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak05.png"){
     [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_apart31, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart31.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_apart32, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
 
-alternative_sprites(set_apart32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart32.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
 
 
-spriteset(set_apart33, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden06, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart33.png"){
-    [0,     0,    133,    112,    -50,  -99]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-
-spriteset(set_apart34, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak06.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart34, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart34.png"){
-    [0,     0,    133,    112,    -50,  -99]
+    [69,    0,    64,    54,    -31,  -44]
 }
-
 
-spriteset(set_apart35, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
 
-alternative_sprites(set_apart35, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart35.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
 
 
-spriteset(set_apart36, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden07, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart36, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart36.png"){
-    [0,     0,    133,    112,    -50,  -99]
+    [69,    0,    64,    54,    -31,  -44]
 }
-
 
-spriteset(set_apart37, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak07.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart37, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart37.png"){
-    [0,     0,    133,    112,    -50,  -99]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
 
-spriteset(set_apart38, "src/Objects/Garden/Garden.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart38.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
 
 
-spriteset(set_apart39, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden08, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_apart39, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart39.png"){
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-spriteset(set_apart40, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura08, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak08.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_apart40, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/Apart40.png"){
-    [0,     0,    133,    112,    -50,  -99]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
 
 
 
-spriteset(set_resort16, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden09, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort16.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-spriteset(set_resort17, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura09, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak09.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort17.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
-
 
 
 
 
-spriteset(set_resort18, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden10, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort18, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort18.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-
-
-spriteset(set_resort19, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak10.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort19, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort19.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
 
 
-spriteset(set_resort20, "src/Objects/Garden/Garden.png"){
+spriteset(set_Garden11, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_resort20, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort20.png"){
-    [0,     0,    210,    166,    -90,  -154]
-}
-
-
-spriteset(set_resort21, "src/Objects/Garden/Garden.png"){
+alternative_sprites(set_sakura11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Sakura/sak11.png"){
     [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_resort21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort21.png"){
-    [0,     0,    210,    166,    -90,  -154]
+    [69,    0,    64,    54,    -31,  -44]
 }
