@@ -320,6 +320,7 @@ STR_OBJ_office_04                                  :[DTS0] 오피스텔
 STR_OBJ_office_05                                  :[DTS0] 오피스텔
 STR_OBJ_office_06                                  :[DTS0] MBC문화방송
 STR_OBJ_office_07                                  :[DTS0] 롯데마트 
+STR_OBJ_office_08                                  :[DTS0] 프리미엄 아울렛  
 STR_OBJ_military  								   :[DTS0] 밀리터리
 STR_OBJ_military_01  							   :[DTS0] 연병장
 STR_OBJ_military_02  							   :[DTS0] 미사일 발사대
