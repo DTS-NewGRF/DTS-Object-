@@ -152,7 +152,7 @@ item(FEAT_OBJECTS, office07, 6007) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -175,7 +175,7 @@ item(FEAT_OBJECTS, office08, 6008) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -198,7 +198,7 @@ item(FEAT_OBJECTS, office09, 6009) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -221,7 +221,7 @@ item(FEAT_OBJECTS, office10, 6010) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -244,7 +244,7 @@ item(FEAT_OBJECTS, office11, 6011) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -267,7 +267,7 @@ item(FEAT_OBJECTS, office12, 6012) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -290,7 +290,7 @@ item(FEAT_OBJECTS, office13, 6013) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -313,7 +313,7 @@ item(FEAT_OBJECTS, office14, 6014) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -337,7 +337,7 @@ item(FEAT_OBJECTS, office15, 6015) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -360,7 +360,7 @@ item(FEAT_OBJECTS, office16, 6016) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -383,7 +383,7 @@ item(FEAT_OBJECTS, office17, 6017) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -406,7 +406,7 @@ item(FEAT_OBJECTS, office18, 6018) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -430,7 +430,7 @@ item(FEAT_OBJECTS, office19, 6006) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_08);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -454,7 +454,7 @@ item(FEAT_OBJECTS, office20, 6020) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_07);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -478,7 +478,7 @@ item(FEAT_OBJECTS, office21, 6006) {
     property {
         class:                  "DTOF";
         classname:              string(STR_OBJ_office);
-        name:                   string(STR_OBJ_office_06);
+        name:                   string(STR_OBJ_office_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
