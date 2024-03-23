@@ -34,7 +34,7 @@ spritelayout set_sakura01_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura01, view) {
     1: set_sakura01_0;
-    set_sakura01_0;
+    set_sakura01_1;
 }
 
 
@@ -71,7 +71,7 @@ spritelayout set_sakura02_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura02, view) {
     1: set_sakura02_0;
-    set_sakura02_0;
+    set_sakura02_1;
 }
 
 
@@ -110,7 +110,7 @@ spritelayout set_sakura03_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura03, view) {
     1: set_sakura03_0;
-    set_sakura03_0;
+    set_sakura03_1;
 }
 
 
@@ -147,7 +147,7 @@ spritelayout set_sakura04_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura04, view) {
     1: set_sakura04_0;
-    set_sakura04_0;
+    set_sakura04_1;
 }
 
 
@@ -185,7 +185,7 @@ spritelayout set_sakura05_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura05, view) {
     1: set_sakura05_0;
-    set_sakura05_0;
+    set_sakura05_1;
 }
 
 
@@ -222,7 +222,7 @@ spritelayout set_sakura06_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura06, view) {
     1: set_sakura06_0;
-    set_sakura06_0;
+    set_sakura06_1;
 }
 
 
@@ -258,7 +258,7 @@ spritelayout set_sakura07_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura07, view) {
     1: set_sakura07_0;
-    set_sakura07_0;
+    set_sakura07_1;
 }
 
 
@@ -295,7 +295,7 @@ spritelayout set_sakura08_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura08, view) {
     1: set_sakura08_0;
-    set_sakura08_0;
+    set_sakura08_1;
 }
 
 
@@ -332,7 +332,7 @@ spritelayout set_sakura09_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura09, view) {
     1: set_sakura09_0;
-    set_sakura09_0;
+    set_sakura09_1;
 }
 
 
@@ -368,7 +368,7 @@ spritelayout set_sakura10_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura10, view) {
     1: set_sakura10_0;
-    set_sakura10_0;
+    set_sakura10_1;
 }
 
 
@@ -405,5 +405,5 @@ spritelayout set_sakura11_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_sakura11, view) {
     1: set_sakura11_0;
-    set_sakura11_0;
+    set_sakura11_1;
 }
