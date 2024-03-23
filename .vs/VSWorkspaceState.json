@@ -7,7 +7,8 @@
     "\\src",
     "\\src\\Objects",
     "\\src\\Objects\\Building",
-    "\\src\\Objects\\Building\\Building_TrainDeport"
+    "\\src\\Objects\\Building\\Office"
   ],
+  "SelectedNode": "\\src\\Objects\\Building\\Office\\office.pnml",
   "PreviewInSolutionExplorer": false
 }

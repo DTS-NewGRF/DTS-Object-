@@ -492,6 +492,8 @@ item(FEAT_OBJECTS, office21, 6006) {
     graphics {
         default: sw_office21;
         tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
 
 
 
@@ -513,7 +515,6 @@ item(FEAT_OBJECTS, office22, 6022) {
     graphics {
         default: sw_office22;
         tile_check: CB_RESULT_LOCATION_ALLOW;
-    }
     }
 }
 
@@ -538,6 +539,7 @@ item(FEAT_OBJECTS, office23, 6023) {
         default: sw_office23;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
+}
 
 
 
@@ -560,6 +562,7 @@ item(FEAT_OBJECTS, office24, 6024) {
         default: sw_office24;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
+}
 
 
 item(FEAT_OBJECTS, office25, 6025) {
@@ -581,3 +584,4 @@ item(FEAT_OBJECTS, office25, 6025) {
         default: sw_office25;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
+}
