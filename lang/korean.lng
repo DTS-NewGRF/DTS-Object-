@@ -327,6 +327,17 @@ STR_OBJ_military_02  							   :[DTS0] 미사일 발사대
 STR_OBJ_military_03  							   :[DTS0] 미사일 발사대
 STR_OBJ_military_04  							   :[DTS0] 미사일 발사대
 STR_OBJ_military_05  							   :[DTS0] 다연장 로켓포
+STR_OBJ_military_06  							   :[DTS0] 전차 
+STR_OBJ_military_07  							   :[DTS0] 전차 
+STR_OBJ_military_08  							   :[DTS0] 전차 
+STR_OBJ_military_09  							   :[DTS0] 전차 
+STR_OBJ_military_10  							   :[DTS0] 전차 
+STR_OBJ_military_11  							   :[DTS0] 전차 
+STR_OBJ_military_12  							   :[DTS0] 전차 
+STR_OBJ_military_13  							   :[DTS0] 전차 
+STR_OBJ_military_14  							   :[DTS0] 전차 
+STR_OBJ_military_15  							   :[DTS0] 전차 
+STR_OBJ_military_16  							   :[DTS0] 연병장 
 STR_OBJ_inde                         :[DTS0] 독립운동가 기념 표지판 
 STR_OBJ_inde_01                      :[DTS0] 안중근  
 STR_OBJ_inde_02                      :[DTS0] 윤봉길
