@@ -326,6 +326,17 @@ STR_OBJ_military_02  							   :[DTS0] Missile Silo
 STR_OBJ_military_03  							   :[DTS0] Missile Silo
 STR_OBJ_military_04  							   :[DTS0] Missile Silo
 STR_OBJ_military_05  							   :[DTS0] MLRS
+STR_OBJ_military_06  							   :[DTS0] Tanks 
+STR_OBJ_military_07  							   :[DTS0] Tanks 
+STR_OBJ_military_08  							   :[DTS0] Tanks 
+STR_OBJ_military_09  							   :[DTS0] Tanks 
+STR_OBJ_military_10  							   :[DTS0] Tanks 
+STR_OBJ_military_11  							   :[DTS0] Tanks 
+STR_OBJ_military_12  							   :[DTS0] Tanks 
+STR_OBJ_military_13  							   :[DTS0] Tanks 
+STR_OBJ_military_14  							   :[DTS0] Tanks 
+STR_OBJ_military_15  							   :[DTS0] Tanks 
+STR_OBJ_military_16  							   :[DTS0] Dirt 
 STR_OBJ_inde                         :[DTS0] Independence Activist Memorial Signboard
 STR_OBJ_inde_01                      :[DTS0] Ahn Jung-geun  
 STR_OBJ_inde_02                      :[DTS0] Yun Bonggil
