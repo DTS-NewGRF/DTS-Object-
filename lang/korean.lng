@@ -100,6 +100,15 @@ STR_OBJ_Flag_DTS_017                                   :[DTS0] 한국철도FC �
 STR_OBJ_Flag_DTS_018                                   :[DTS0] 렛츠코레일 표지판
 STR_OBJ_Flag_DTS_019                                   :[DTS0] 기후동행카드 표지판
 STR_OBJ_Flag_DTS_020                                   :[DTS0] 서울교통공사 또타 표지판
+STR_OBJ_Flag_DTS_021                                   :[DTS0] GTX-A 표지판
+STR_OBJ_Flag_DTS_022                                   :[DTS0] I SEOUL U 표지판
+STR_OBJ_Flag_DTS_023                                   :[DTS0] 인천국제공항철도 표지판
+STR_OBJ_Flag_DTS_024                                   :[DTS0] 메트로9 표지판
+STR_OBJ_Flag_DTS_025                                   :[DTS0] 국가철도공단 표지판
+STR_OBJ_Flag_DTS_026                                   :[DTS0] 네오트랜스 표지판
+STR_OBJ_Flag_DTS_027                                   :[DTS0] 도시철도공사 표지판
+STR_OBJ_Flag_DTS_028                                   :[DTS0] 서울도시철도 표지판
+STR_OBJ_Flag_DTS_029                                   :[DTS0] 서울지하철공사 표지판
 STR_OBJ_Pavement                                       :[DTS0] 보도블럭
 STR_OBJ_Fountain                                       :[DTS0] 분수대
 STR_OBJ_Garden									       :[DTS0] 정원
