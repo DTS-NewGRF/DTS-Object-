@@ -100,6 +100,15 @@ STR_OBJ_Flag_DTS_017                                   :[DTS0] Korail FC Signboa
 STR_OBJ_Flag_DTS_018                                   :[DTS0] Let's Korail Signboard
 STR_OBJ_Flag_DTS_019                                   :[DTS0] Transport Card Signboard
 STR_OBJ_Flag_DTS_020                                   :[DTS0] Ttota Signboard
+STR_OBJ_Flag_DTS_021                                   :[DTS0] GTX-A Signboard
+STR_OBJ_Flag_DTS_022                                   :[DTS0] I SEOUL U Signboard
+STR_OBJ_Flag_DTS_023                                   :[DTS0] AREX Signboard
+STR_OBJ_Flag_DTS_024                                   :[DTS0] METRO9 Signboard
+STR_OBJ_Flag_DTS_025                                   :[DTS0] Korea National Railway Signboard
+STR_OBJ_Flag_DTS_026                                   :[DTS0] Neotrans Signboard
+STR_OBJ_Flag_DTS_027                                   :[DTS0] Seoul Metropolitan Rapid Transit Corporation Signboard
+STR_OBJ_Flag_DTS_028                                   :[DTS0] Seoul Metropolitan Rapid Transit Corporation Signboard
+STR_OBJ_Flag_DTS_029                                   :[DTS0] Seoul Metropolitan Subway System Signboard
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
