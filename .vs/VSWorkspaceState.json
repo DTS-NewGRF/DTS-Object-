@@ -8,8 +8,9 @@
     "\\src\\Objects",
     "\\src\\Objects\\Building",
     "\\src\\Objects\\Building\\Office",
+    "\\src\\Objects\\Building\\Sakura",
     "\\src\\Objects\\Building\\sho"
   ],
-  "SelectedNode": "\\src\\Objects_list.pnml",
+  "SelectedNode": "\\src\\Objects\\Building\\Sakura\\sakura_switch.pnml",
   "PreviewInSolutionExplorer": false
 }
