@@ -347,3 +347,13 @@ alternative_sprites(set_DTS_Flag_DTS_036, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "s
 }
 
 
+
+
+spriteset(set_DTS_Flag_DTS_037, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_DTS_Flag_DTS_037, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Flag_Korea/Flag_037.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
