@@ -109,13 +109,14 @@ STR_OBJ_Flag_DTS_026                                   :[DTS0] 네오트랜스 �
 STR_OBJ_Flag_DTS_027                                   :[DTS0] 도시철도공사 표지판
 STR_OBJ_Flag_DTS_028                                   :[DTS0] 서울도시철도 표지판
 STR_OBJ_Flag_DTS_029                                   :[DTS0] 서울지하철공사 표지판
-STR_OBJ_Flag_DTS_030                                   :[DTS0] KTX청룡 표지판
+STR_OBJ_Flag_DTS_030                                   :[DTS0] KTX산천 표지판
 STR_OBJ_Flag_DTS_031                                   :[DTS0] KTX이음 표지판
 STR_OBJ_Flag_DTS_032                                   :[DTS0] ITX새마을 표지판
 STR_OBJ_Flag_DTS_033                                   :[DTS0] ITX마음 표지판
 STR_OBJ_Flag_DTS_034                                   :[DTS0] ITX청춘 표지판
 STR_OBJ_Flag_DTS_035                                   :[DTS0] ITX초월 표지판
 STR_OBJ_Flag_DTS_036                                   :[DTS0] 누리로 표지판
+STR_OBJ_Flag_DTS_037                                   :[DTS0] KTX청룡 표지판
 STR_OBJ_Pavement                                       :[DTS0] 보도블럭
 STR_OBJ_Fountain                                       :[DTS0] 분수대
 STR_OBJ_Garden									       :[DTS0] 정원
