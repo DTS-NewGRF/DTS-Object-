@@ -109,6 +109,13 @@ STR_OBJ_Flag_DTS_026                                   :[DTS0] Neotrans Signboar
 STR_OBJ_Flag_DTS_027                                   :[DTS0] Seoul Metropolitan Rapid Transit Corporation Signboard
 STR_OBJ_Flag_DTS_028                                   :[DTS0] Seoul Metropolitan Rapid Transit Corporation Signboard
 STR_OBJ_Flag_DTS_029                                   :[DTS0] Seoul Metropolitan Subway System Signboard
+STR_OBJ_Flag_DTS_030                                   :[DTS0] KTX Sancheon
+STR_OBJ_Flag_DTS_031                                   :[DTS0] KTX EUM
+STR_OBJ_Flag_DTS_032                                   :[DTS0] ITX Saemaeul
+STR_OBJ_Flag_DTS_033                                   :[DTS0] ITX Maum
+STR_OBJ_Flag_DTS_034                                   :[DTS0] ITX Cheongchoon
+STR_OBJ_Flag_DTS_035                                   :[DTS0] ITX Chowol
+STR_OBJ_Flag_DTS_036                                   :[DTS0] Nuriro
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
