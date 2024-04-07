@@ -1093,3 +1093,84 @@ spriteset(set_resort21, "src/Objects/Garden/Garden.png"){
 alternative_sprites(set_resort21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort21.png"){
     [0,     0,    210,    166,    -90,  -154]
 }
+
+
+
+spriteset(set_resort22, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort22, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort22.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_resort23, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort23.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_resort24, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort24, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort24.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_resort25, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort25, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort25.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+
+spriteset(set_resort26, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort26, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort26.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_resort27, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort27.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_resort28, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort28, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort28.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_resort29, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_resort29, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/KResort/resort29.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
