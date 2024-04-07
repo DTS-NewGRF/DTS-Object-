@@ -2,17 +2,17 @@
 오브젝트
 --------------------------------------------------------------------*/
 // Graphics
-#include "416_graphic.pnml"
+#include "sewol_graphic.pnml"
 
 // Switch
-#include "416_switch.pnml"
+#include "sewol_switch.pnml"
 
 /*--------------------------------------------------------------------
 오브젝트
 --------------------------------------------------------------------*/
 
 
-item(FEAT_OBJECTS, sewol_01, 2001) {
+item(FEAT_OBJECTS, sewol01, 2001) {
     property {
         class:                  "DTSK";
         classname:              string(STR_OBJ_sewol);
