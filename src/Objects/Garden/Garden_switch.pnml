@@ -1740,6 +1740,8 @@ switch(FEAT_OBJECTS, SELF, sw_Garden82, view) {
     set_Garden82_1;
 }
 
+
+
 spritelayout set_Garden83_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
@@ -1774,6 +1776,8 @@ switch(FEAT_OBJECTS, SELF, sw_Garden83, view) {
     set_Garden83_1;
 }
 
+
+
 spritelayout set_Garden84_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
@@ -1806,4 +1810,77 @@ spritelayout set_Garden84_1 {
 switch(FEAT_OBJECTS, SELF, sw_Garden84, view) {
     1: set_Garden84_0;
     set_Garden84_1;
+}
+
+
+
+
+spritelayout set_Garden85_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden85(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Garden85_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden85(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Garden85, view) {
+    1: set_Garden85_0;
+    set_Garden85_1;
+}
+
+
+
+spritelayout set_Garden86_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden86(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+spritelayout set_Garden86_1 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden86(1);
+        xextent: 5;
+        yextent: 5;
+        zextent: 12;
+        xoffset: 10; // from NE edge
+        yoffset: 10; // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_Garden86, view) {
+    1: set_Garden86_0;
+    set_Garden86_1;
 }
