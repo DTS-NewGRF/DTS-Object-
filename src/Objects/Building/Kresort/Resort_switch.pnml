@@ -2563,7 +2563,7 @@ spritelayout set_resort23_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_resort21(0);
+        sprite: set_resort23(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2585,7 +2585,7 @@ spritelayout set_resort24_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_resort21(0);
+        sprite: set_resort24(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
