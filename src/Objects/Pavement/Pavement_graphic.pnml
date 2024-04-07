@@ -209,8 +209,7 @@ alternative_sprites(set_Pavement27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Obj
 
 
 
-
-spriteset(set_Pavement28 "src/Objects/Pavement/Pavement.png"){
+spriteset(set_Pavement28, "src/Objects/Pavement/Pavement.png"){
     [0,     0,    64,    31,    -15,  -22]
 }
 
@@ -302,15 +301,6 @@ alternative_sprites(set_Pavement36, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Obj
     [0,     0,    64,    31,    -15,  -22]
 }
 
-
-
-spriteset(set_Pavement36, "src/Objects/Pavement/Pavement.png"){
-    [0,     0,    64,    31,    -15,  -22]
-}
-
-alternative_sprites(set_Pavement36, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pavement36.png"){
-    [0,     0,    64,    31,    -15,  -22]
-}
 
 
 spriteset(set_Pavement37, "src/Objects/Pavement/Pavement.png"){
