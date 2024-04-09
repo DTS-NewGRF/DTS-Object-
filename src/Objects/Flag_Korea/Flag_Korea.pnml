@@ -871,3 +871,331 @@ item(FEAT_OBJECTS, DTS_Flag_DTS_037, 1077) {
 
 
 
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_038, 2038) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_038);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_038_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_039, 2039) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_038);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_039_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_040, 2040) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_038);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_040_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_041, 2041) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_038);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_041_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_042, 2042) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_038);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_042_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_043, 2043) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_042);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_043_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_044, 2044) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_042);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_044_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_045, 2045) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_042);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_045_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_046, 2046) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_042);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_046_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_047, 2047) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_047);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_047_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_048, 2048) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_047);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_048_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_049, 2049) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_047);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_049_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_050, 2050) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_047);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_050_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, DTS_Flag_DTS_051, 2051) {
+    property {
+        class:                  "DtLA";
+        classname:              string(STR_OBJ_Flag);
+        name:                   string(STR_OBJ_Flag_DTS_047);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1988,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: set_Flag_DTS_051_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
