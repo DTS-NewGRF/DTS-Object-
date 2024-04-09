@@ -14,7 +14,7 @@
 
 item(FEAT_OBJECTS, sewol01, 4101) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_01);
         climates_available:     ALL_CLIMATES;
@@ -25,7 +25,7 @@ item(FEAT_OBJECTS, sewol01, 4101) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol01;
@@ -38,7 +38,7 @@ item(FEAT_OBJECTS, sewol01, 4101) {
 
 item(FEAT_OBJECTS, sewol02, 4102) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_02);
         climates_available:     ALL_CLIMATES;
@@ -49,7 +49,7 @@ item(FEAT_OBJECTS, sewol02, 4102) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol02;
@@ -63,7 +63,7 @@ item(FEAT_OBJECTS, sewol02, 4102) {
 
 item(FEAT_OBJECTS, sewol03, 4103) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_03);
         climates_available:     ALL_CLIMATES;
@@ -74,7 +74,7 @@ item(FEAT_OBJECTS, sewol03, 4103) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol03;
@@ -87,7 +87,7 @@ item(FEAT_OBJECTS, sewol03, 4103) {
 
 item(FEAT_OBJECTS, sewol04, 4104) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_04);
         climates_available:     ALL_CLIMATES;
@@ -98,7 +98,7 @@ item(FEAT_OBJECTS, sewol04, 4104) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol04;
@@ -113,7 +113,7 @@ item(FEAT_OBJECTS, sewol04, 4104) {
 
 item(FEAT_OBJECTS, sewol05, 4105) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_05);
         climates_available:     ALL_CLIMATES;
@@ -124,7 +124,7 @@ item(FEAT_OBJECTS, sewol05, 4105) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol05;
@@ -138,7 +138,7 @@ item(FEAT_OBJECTS, sewol05, 4105) {
 
 item(FEAT_OBJECTS, sewol06, 4106) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_06);
         climates_available:     ALL_CLIMATES;
@@ -149,7 +149,7 @@ item(FEAT_OBJECTS, sewol06, 4106) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol06;
@@ -162,7 +162,7 @@ item(FEAT_OBJECTS, sewol06, 4106) {
 
 item(FEAT_OBJECTS, sewol07, 4107) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_07);
         climates_available:     ALL_CLIMATES;
@@ -173,7 +173,7 @@ item(FEAT_OBJECTS, sewol07, 4107) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol07;
@@ -187,7 +187,7 @@ item(FEAT_OBJECTS, sewol07, 4107) {
 
 item(FEAT_OBJECTS, sewol09, 4109) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_09);
         climates_available:     ALL_CLIMATES;
@@ -198,7 +198,7 @@ item(FEAT_OBJECTS, sewol09, 4109) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol09;
@@ -212,7 +212,7 @@ item(FEAT_OBJECTS, sewol09, 4109) {
 
 item(FEAT_OBJECTS, sewol10, 4110) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_10);
         climates_available:     ALL_CLIMATES;
@@ -223,7 +223,7 @@ item(FEAT_OBJECTS, sewol10, 4110) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol10;
@@ -240,7 +240,7 @@ item(FEAT_OBJECTS, sewol10, 4110) {
 
 item(FEAT_OBJECTS, sewol12, 4112) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_12);
         climates_available:     ALL_CLIMATES;
@@ -251,7 +251,7 @@ item(FEAT_OBJECTS, sewol12, 4112) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol12;
@@ -265,7 +265,7 @@ item(FEAT_OBJECTS, sewol12, 4112) {
 
 item(FEAT_OBJECTS, sewol13, 4113) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_13);
         climates_available:     ALL_CLIMATES;
@@ -276,7 +276,7 @@ item(FEAT_OBJECTS, sewol13, 4113) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol13;
@@ -290,7 +290,7 @@ item(FEAT_OBJECTS, sewol13, 4113) {
 
 item(FEAT_OBJECTS, sewol14, 4114) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_14);
         climates_available:     ALL_CLIMATES;
@@ -301,7 +301,7 @@ item(FEAT_OBJECTS, sewol14, 4114) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol14;
@@ -316,7 +316,7 @@ item(FEAT_OBJECTS, sewol14, 4114) {
 
 item(FEAT_OBJECTS, sewol16, 4116) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_16);
         climates_available:     ALL_CLIMATES;
@@ -327,7 +327,7 @@ item(FEAT_OBJECTS, sewol16, 4116) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol16;
@@ -340,7 +340,7 @@ item(FEAT_OBJECTS, sewol16, 4116) {
 
 item(FEAT_OBJECTS, sewol17, 4117) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_17);
         climates_available:     ALL_CLIMATES;
@@ -351,7 +351,7 @@ item(FEAT_OBJECTS, sewol17, 4117) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol17;
@@ -363,7 +363,7 @@ item(FEAT_OBJECTS, sewol17, 4117) {
 
 item(FEAT_OBJECTS, sewol18, 4118) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_18);
         climates_available:     ALL_CLIMATES;
@@ -374,7 +374,7 @@ item(FEAT_OBJECTS, sewol18, 4118) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol18;
@@ -387,7 +387,7 @@ item(FEAT_OBJECTS, sewol18, 4118) {
 
 item(FEAT_OBJECTS, sewol19, 4119) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_19);
         climates_available:     ALL_CLIMATES;
@@ -398,7 +398,7 @@ item(FEAT_OBJECTS, sewol19, 4119) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol19;
@@ -410,7 +410,7 @@ item(FEAT_OBJECTS, sewol19, 4119) {
 
 item(FEAT_OBJECTS, sewol20, 4120) {
     property {
-        class:                  "DTSK";
+        class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
         name:                   string(STR_OBJ_sewol_20);
         climates_available:     ALL_CLIMATES;
@@ -421,7 +421,7 @@ item(FEAT_OBJECTS, sewol20, 4120) {
         end_of_life_date:       0xFFFFFFFF;
         object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              2;
+        num_views:              1;
     }
     graphics {
         default: sw_sewol20;

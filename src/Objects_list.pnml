@@ -47,3 +47,5 @@
 // Sakura
 #include "Objects/Building/sakura/sakura.pnml"
 
+// Sewol
+#include "Objects/Building/416/sewol.pnml"

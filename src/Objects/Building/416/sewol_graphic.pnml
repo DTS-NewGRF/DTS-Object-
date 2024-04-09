@@ -121,7 +121,7 @@ spriteset(set_sewol13, "src/Objects/Flag_Korea/Flag_Korea.png"){
 }
 
 alternative_sprites(set_sewol13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/416/sewol13.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    103,    -50,  -99]
 }
 
 
