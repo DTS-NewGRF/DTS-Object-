@@ -117,6 +117,9 @@ STR_OBJ_Flag_DTS_034                                   :[DTS0] ITX Cheongchoon
 STR_OBJ_Flag_DTS_035                                   :[DTS0] ITX Chowol
 STR_OBJ_Flag_DTS_036                                   :[DTS0] Nuriro
 STR_OBJ_Flag_DTS_037                                   :[DTS0] KTX Cheongryong
+STR_OBJ_Flag_DTS_038                                   :[DTS0] MEL-150 Signboard
+STR_OBJ_Flag_DTS_042                                   :[DTS0] MEMAKING Signboard
+STR_OBJ_Flag_DTS_047                                   :[DTS0] Jukjeon_Wani Signboard
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
