@@ -2,33 +2,101 @@
 오브젝트
 --------------------------------------------------------------------*/
 // Graphics
-#include "sewol_graphic.pnml"
+#include "hotb_graphic.pnml"
 
 // Switch
-#include "sewol_switch.pnml"
+#include "hotb_switch.pnml"
 
 /*--------------------------------------------------------------------
 오브젝트
 --------------------------------------------------------------------*/
 
 
-item(FEAT_OBJECTS, sewol01, 4101) {
+item(FEAT_OBJECTS, hotb01, 4201) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_01);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol01;
+        default: sw_hotb01;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb02, 4202) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb02;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb03, 4203) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb03;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, hotb04, 4201) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb04;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -36,23 +104,23 @@ item(FEAT_OBJECTS, sewol01, 4101) {
 
 
 
-item(FEAT_OBJECTS, sewol02, 4102) {
+item(FEAT_OBJECTS, hotb05, 42015 {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_02);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol02;
+        default: sw_hotb05;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -60,24 +128,115 @@ item(FEAT_OBJECTS, sewol02, 4102) {
 
 
 
-
-item(FEAT_OBJECTS, sewol03, 4103) {
+item(FEAT_OBJECTS, hotb06, 4206) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_03);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol03;
+        default: sw_hotb06;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb07, 4207) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb07;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb08, 4208) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_08);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb08;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb09, 4209) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb09;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb10, 4210) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb10;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -85,23 +244,137 @@ item(FEAT_OBJECTS, sewol03, 4103) {
 
 
 
-item(FEAT_OBJECTS, sewol04, 4104) {
+item(FEAT_OBJECTS, hotb11, 4211) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_04);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol04;
+        default: sw_hotb11;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb12, 4212) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb12;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb13, 4213) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb13;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, hotb14, 4214) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb14;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb15, 4215) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb15;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb16, 4216) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb16;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -109,25 +382,23 @@ item(FEAT_OBJECTS, sewol04, 4104) {
 
 
 
-
-
-item(FEAT_OBJECTS, sewol05, 4105) {
+item(FEAT_OBJECTS, hotb17, 4217) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_05);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol05;
+        default: sw_hotb17;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -135,24 +406,23 @@ item(FEAT_OBJECTS, sewol05, 4105) {
 
 
 
-
-item(FEAT_OBJECTS, sewol06, 4106) {
+item(FEAT_OBJECTS, hotb18, 4218) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_06);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol06;
+        default: sw_hotb18;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -160,23 +430,68 @@ item(FEAT_OBJECTS, sewol06, 4106) {
 
 
 
-item(FEAT_OBJECTS, sewol07, 4107) {
+item(FEAT_OBJECTS, hotb19, 4219) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_07);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol07;
+        default: sw_hotb19;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb20, 4220) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb20;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+item(FEAT_OBJECTS, hotb21, 4221) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb21;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -184,24 +499,46 @@ item(FEAT_OBJECTS, sewol07, 4107) {
 
 
 
-
-item(FEAT_OBJECTS, sewol09, 4109) {
+item(FEAT_OBJECTS, hotb01, 4223) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_09);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol09;
+        default: sw_hotb23;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb01, 4224) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb24;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -209,24 +546,23 @@ item(FEAT_OBJECTS, sewol09, 4109) {
 
 
 
-
-item(FEAT_OBJECTS, sewol10, 4110) {
+item(FEAT_OBJECTS, hotb25, 4225) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_10);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol10;
+        default: sw_hotb25;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -234,197 +570,47 @@ item(FEAT_OBJECTS, sewol10, 4110) {
 
 
 
-
-
-
-
-item(FEAT_OBJECTS, sewol12, 4112) {
+item(FEAT_OBJECTS, hotb26, 4226) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_12);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol12;
+        default: sw_hotb26;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-
-
-item(FEAT_OBJECTS, sewol13, 4113) {
+item(FEAT_OBJECTS, hotb27, 4227) {
     property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_13);
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_sewol13;
-        tile_check: CB_RESULT_LOCATION_ALLOW;
-    }
-}
-
-
-
-
-
-item(FEAT_OBJECTS, sewol14, 4114) {
-    property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_14);
-        climates_available:     ALL_CLIMATES;
-        size:                   [1,1];
-        build_cost_multiplier:  1;
-        remove_cost_multiplier: 1;
-        introduction_date:      date(1980,1,1);
-        end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
-        height:                 1;
-        num_views:              1;
-    }
-    graphics {
-        default: sw_sewol14;
-        tile_check: CB_RESULT_LOCATION_ALLOW;
-    }
-}
-
-
-
-
-
-
-item(FEAT_OBJECTS, sewol16, 4116) {
-    property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_16);
-        climates_available:     ALL_CLIMATES;
-        size:                   [1,1];
-        build_cost_multiplier:  1;
-        remove_cost_multiplier: 1;
-        introduction_date:      date(1980,1,1);
-        end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
-        height:                 1;
-        num_views:              1;
-    }
-    graphics {
-        default: sw_sewol16;
-        tile_check: CB_RESULT_LOCATION_ALLOW;
-    }
-}
-
-
-
-
-item(FEAT_OBJECTS, sewol17, 4117) {
-    property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_17);
-        climates_available:     ALL_CLIMATES;
-        size:                   [1,1];
-        build_cost_multiplier:  1;
-        remove_cost_multiplier: 1;
-        introduction_date:      date(1980,1,1);
-        end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
-        height:                 1;
-        num_views:              1;
-    }
-    graphics {
-        default: sw_sewol17;
-        tile_check: CB_RESULT_LOCATION_ALLOW;
-    }
-}
-
-
-
-item(FEAT_OBJECTS, sewol18, 4118) {
-    property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_18);
-        climates_available:     ALL_CLIMATES;
-        size:                   [1,1];
-        build_cost_multiplier:  1;
-        remove_cost_multiplier: 1;
-        introduction_date:      date(1980,1,1);
-        end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
-        height:                 1;
-        num_views:              1;
-    }
-    graphics {
-        default: sw_sewol18;
-        tile_check: CB_RESULT_LOCATION_ALLOW;
-    }
-}
-
-
-
-
-item(FEAT_OBJECTS, sewol19, 4119) {
-    property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_19);
-        climates_available:     ALL_CLIMATES;
-        size:                   [1,1];
-        build_cost_multiplier:  1;
-        remove_cost_multiplier: 1;
-        introduction_date:      date(1980,1,1);
-        end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
-        height:                 1;
-        num_views:              1;
-    }
-    graphics {
-        default: sw_sewol19;
-        tile_check: CB_RESULT_LOCATION_ALLOW;
-    }
-}
-
-
-
-item(FEAT_OBJECTS, sewol20, 4120) {
-    property {
-        class:                  "DTSE";
-        classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_20);
-        climates_available:     ALL_CLIMATES;
-        size:                   [1,1];
-        build_cost_multiplier:  1;
-        remove_cost_multiplier: 1;
-        introduction_date:      date(1980,1,1);
-        end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
-        height:                 1;
-        num_views:              1;
-    }
-    graphics {
-        default: sw_sewol20;
+        default: sw_hotb27
+;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
