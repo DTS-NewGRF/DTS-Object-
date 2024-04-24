@@ -360,3 +360,14 @@ spriteset(set_hotb33, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_hotb33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Hot_Balloon/hotb33.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+
+spriteset(set_hotb34, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_hotb34, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Hot_Balloon/hotb34.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
