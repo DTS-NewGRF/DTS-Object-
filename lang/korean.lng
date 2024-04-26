@@ -397,6 +397,9 @@ STR_OBJ_sewol_17                     :[DTS0] 보도블럭
 STR_OBJ_sewol_18                     :[DTS0] 보도블럭  
 STR_OBJ_sewol_19                     :[DTS0] 보도블럭  
 STR_OBJ_sewol_20                     :[DTS0] 보도블럭  
+STR_OBJ_hotb                         :[DTS0] 열기구
+STR_OBJ_hotb_01                      :[DTS0] 열기구
+STR_OBJ_hotb_02                      :[DTS0] 열기구 그림자 
 
 
 
