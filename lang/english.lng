@@ -396,3 +396,8 @@ STR_OBJ_sewol_17                     :[DTS0] Pavement
 STR_OBJ_sewol_18                     :[DTS0] Pavement 
 STR_OBJ_sewol_19                     :[DTS0] Pavement 
 STR_OBJ_sewol_20                     :[DTS0] Pavement 
+STR_OBJ_hotb                         :[DTS0] Hot Balloon
+STR_OBJ_hotb_01                      :[DTS0] Hot Balloon
+STR_OBJ_hotb_02                      :[DTS0] Hot Balloon Shadow 
+
+
