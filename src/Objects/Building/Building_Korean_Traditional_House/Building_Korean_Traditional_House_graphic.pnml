@@ -166,7 +166,7 @@ spriteset(set_Building_Korean_Traditional_House19, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House19, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/009.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -177,7 +177,7 @@ spriteset(set_Building_Korean_Traditional_House20, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House20, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/010.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -188,7 +188,7 @@ spriteset(set_Building_Korean_Traditional_House21, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/011.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -199,7 +199,7 @@ spriteset(set_Building_Korean_Traditional_House22, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House22, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/012.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -210,7 +210,7 @@ spriteset(set_Building_Korean_Traditional_House23, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/013.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -220,7 +220,7 @@ spriteset(set_Building_Korean_Traditional_House24, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House24, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/014.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -231,7 +231,7 @@ spriteset(set_Building_Korean_Traditional_House25, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House25, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/015.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -243,7 +243,7 @@ spriteset(set_Building_Korean_Traditional_House26, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House26, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/016.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -254,7 +254,7 @@ spriteset(set_Building_Korean_Traditional_House27, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/017.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -265,7 +265,7 @@ spriteset(set_Building_Korean_Traditional_House28, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House28, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/018.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -276,7 +276,7 @@ spriteset(set_Building_Korean_Traditional_House29, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House29, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/019.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -287,7 +287,7 @@ spriteset(set_Building_Korean_Traditional_House30, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House30, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/020.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -298,7 +298,7 @@ spriteset(set_Building_Korean_Traditional_House31, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House31, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/021.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -309,7 +309,7 @@ spriteset(set_Building_Korean_Traditional_House32, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/022.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }
 
 
@@ -320,5 +320,5 @@ spriteset(set_Building_Korean_Traditional_House33, "src/Objects/Building/Buildin
 }
 
 alternative_sprites(set_Building_Korean_Traditional_House33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Building_Korean_Traditional_House/023.png") {
-    [0,     0,    133,    112,    -50,  -99]
+    [0,     0,    128,    89,    -50,  -80]
 }

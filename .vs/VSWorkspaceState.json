@@ -7,10 +7,10 @@
     "\\src",
     "\\src\\Objects",
     "\\src\\Objects\\Building",
-    "\\src\\Objects\\Building\\Office",
-    "\\src\\Objects\\Building\\Sakura",
+    "\\src\\Objects\\Building\\Building_Korean_Traditional_House",
+    "\\src\\Objects\\Building\\Hot_Balloon",
     "\\src\\Objects\\Building\\sho"
   ],
-  "SelectedNode": "\\src\\Objects\\Building\\Sakura\\sakura_switch.pnml",
+  "SelectedNode": "\\src\\Objects\\Building\\sho",
   "PreviewInSolutionExplorer": false
 }

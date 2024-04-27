@@ -80,7 +80,7 @@ item(FEAT_OBJECTS, hotb03, 4203) {
 }
 
 
-item(FEAT_OBJECTS, hotb04, 4201) {
+item(FEAT_OBJECTS, hotb04, 4204) {
     property {
         class:                  "DTHB";
         classname:              string(STR_OBJ_hotb);
@@ -104,7 +104,7 @@ item(FEAT_OBJECTS, hotb04, 4201) {
 
 
 
-item(FEAT_OBJECTS, hotb05, 42015 {
+item(FEAT_OBJECTS, hotb05, 4205) {
     property {
         class:                  "DTHB";
         classname:              string(STR_OBJ_hotb);
@@ -178,7 +178,7 @@ item(FEAT_OBJECTS, hotb08, 4208) {
     property {
         class:                  "DTHB";
         classname:              string(STR_OBJ_hotb);
-        name:                   string(STR_OBJ_hotb_08);
+        name:                   string(STR_OBJ_hotb_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -499,7 +499,30 @@ item(FEAT_OBJECTS, hotb21, 4221) {
 
 
 
-item(FEAT_OBJECTS, hotb01, 4223) {
+item(FEAT_OBJECTS, hotb22, 4222) {
+    property {
+        class:                  "DTHB";
+        classname:              string(STR_OBJ_hotb);
+        name:                   string(STR_OBJ_hotb_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_hotb22;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, hotb23, 4223) {
     property {
         class:                  "DTHB";
         classname:              string(STR_OBJ_hotb);
@@ -522,7 +545,9 @@ item(FEAT_OBJECTS, hotb01, 4223) {
 
 
 
-item(FEAT_OBJECTS, hotb01, 4224) {
+
+
+item(FEAT_OBJECTS, hotb24, 4224) {
     property {
         class:                  "DTHB";
         classname:              string(STR_OBJ_hotb);
@@ -542,8 +567,6 @@ item(FEAT_OBJECTS, hotb01, 4224) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
-
-
 
 
 item(FEAT_OBJECTS, hotb25, 4225) {
