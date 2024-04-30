@@ -52,3 +52,6 @@
 
 // hot Balloon
 #include "Objects/Building/Hot_Balloon/hotb.pnml"
+
+// RE100
+#include "Objects/Building/RE100/re100.pnml"
