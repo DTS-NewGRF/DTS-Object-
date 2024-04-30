@@ -400,5 +400,7 @@ STR_OBJ_sewol_20                     :[DTS0] Pavement
 STR_OBJ_hotb                         :[DTS0] Hot Balloon
 STR_OBJ_hotb_01                      :[DTS0] Hot Balloon
 STR_OBJ_hotb_02                      :[DTS0] Hot Balloon Shadow 
+STR_OBJ_re100                      :[DTS0] RE100  
+STR_OBJ_re100_01                      :[DTS0] Solar Panel 
 
 
