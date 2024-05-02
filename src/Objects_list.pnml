@@ -53,5 +53,9 @@
 // hot Balloon
 #include "Objects/Building/Hot_Balloon/hotb.pnml"
 
+// Windmill
+#include "Objects/Building/windmill/windmill.pnml"
+
+
 // RE100
 #include "Objects/Building/RE100/re100.pnml"
