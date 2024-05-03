@@ -27,9 +27,3 @@ switch(FEAT_OBJECTS, SELF, sw_wash01, view) {
 
 
 
-
-
-
-
-
-}
