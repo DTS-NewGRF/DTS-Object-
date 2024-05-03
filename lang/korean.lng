@@ -17,6 +17,9 @@ STR_OBJ_Building_Store                                 :[DTS0] 상점
 STR_OBJ_Building_Store_CU                              :[DTS0] 역전 CU 편의점
 STR_OBJ_Building_Store_GS25                            :[DTS0] 역전 GS25 편의점
 STR_OBJ_Building_Store_Storyway                        :[DTS0] 역전 스토리웨이 편의점
+STR_OBJ_Building_Store_04                              :[DTS0] 피자 가게 
+STR_OBJ_Building_Store_05                              :[DTS0] 주스 가게 
+STR_OBJ_Building_Store_06                              :[DTS0] 주스 가게 
 STR_OBJ_Building_Korean_Traditional_House              :[DTS0] 한국 전통가옥
 STR_OBJ_Building_Train_Deport                          :[DTS0] 차량기지
 STR_OBJ_Building_Train_Deport02                        :[DTS0] 차량기지 회사색상
