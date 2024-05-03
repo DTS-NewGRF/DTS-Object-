@@ -407,5 +407,5 @@ STR_OBJ_re100                      :[DTS0] RE100
 STR_OBJ_re100_01                      :[DTS0] Solar Panel 
 STR_OBJ_windmill                      :[DTS0] Windmill
 STR_OBJ_windmill_01                      :[DTS0] Windmill
-
-
+STR_OBJ_wash                         :[DTS0] Train Wash
+STR_OBJ_wash_01                      :[DTS0] Train wash water tank
