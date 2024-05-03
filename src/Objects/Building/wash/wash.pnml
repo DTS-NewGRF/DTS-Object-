@@ -14,7 +14,7 @@
 
 item(FEAT_OBJECTS, wash01, 1401) {
     property {
-        class:                  "DTSE";
+        class:                  "WASH";
         classname:              string(STR_OBJ_wash);
         name:                   string(STR_OBJ_wash_01);
         climates_available:     ALL_CLIMATES;
