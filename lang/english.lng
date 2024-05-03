@@ -17,6 +17,9 @@ STR_OBJ_Building_Store                                 :[DTSO] Store
 STR_OBJ_Building_Store_CU                              :[DTSO] CU Convenience store
 STR_OBJ_Building_Store_GS25                            :[DTSO] GS25 Convenience store
 STR_OBJ_Building_Store_Storyway                        :[DTSO] Storyway Convenience store
+STR_OBJ_Building_Store_04                              :[DTS0] Pizza store
+STR_OBJ_Building_Store_05                              :[DTS0] Juice store
+STR_OBJ_Building_Store_06                              :[DTS0] Juice store
 STR_OBJ_Building_Korean_Traditional_House              :[DTSO] Korean Traditional House
 STR_OBJ_Building_Train_Deport                          :[DTSO] Vehicle Depot
 STR_OBJ_Building_Train_Deport02                        :[DTSO] Vehicle Depot02
