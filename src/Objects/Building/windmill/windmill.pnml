@@ -16,7 +16,7 @@ item(FEAT_OBJECTS, windmill01, 4121) {
     property {
         class:                  "DTWM";
         classname:              string(STR_OBJ_windmill);
-        name:                   string(STR_OBJ_windmill01);
+        name:                   string(STR_OBJ_windmill_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -40,7 +40,7 @@ item(FEAT_OBJECTS, windmill02, 4122) {
     property {
         class:                  "DTWM";
         classname:              string(STR_OBJ_windmill);
-        name:                   string(STR_OBJ_windmill01);
+        name:                   string(STR_OBJ_windmill_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -65,7 +65,7 @@ item(FEAT_OBJECTS, windmill03, 4123) {
     property {
         class:                  "DTWM";
         classname:              string(STR_OBJ_windmill);
-        name:                   string(STR_OBJ_windmill01);
+        name:                   string(STR_OBJ_windmill_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;

@@ -18,7 +18,7 @@ spritelayout set_windmill01_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, windmill01, view) {
+switch(FEAT_OBJECTS, SELF, sw_windmill01, view) {
     1: set_windmill01_0;
     set_windmill01_0;
 }
@@ -42,7 +42,7 @@ spritelayout set_windmill02_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, windmill02, view) {
+switch(FEAT_OBJECTS, SELF, sw_windmill02, view) {
     1: set_windmill02_0;
     set_windmill02_0;
 }
@@ -66,7 +66,7 @@ spritelayout set_windmill03_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, windmill03, view) {
+switch(FEAT_OBJECTS, SELF, sw_windmill03, view) {
     1: set_windmill03_0;
     set_windmill03_0;
 }

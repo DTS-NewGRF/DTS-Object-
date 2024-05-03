@@ -49,7 +49,7 @@ item(FEAT_OBJECTS, Store04, 1204) {
         num_views:              1;
     }
     graphics {
-        default: sw_Store04;
+        default: sw_store04;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -72,7 +72,7 @@ item(FEAT_OBJECTS, Store05, 1205) {
         num_views:              1;
     }
     graphics {
-        default: sw_Store05;
+        default: sw_store05;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -95,7 +95,7 @@ item(FEAT_OBJECTS, Store06, 1206) {
         num_views:              1;
     }
     graphics {
-        default: sw_Store06;
+        default: sw_store06;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }

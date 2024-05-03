@@ -7,10 +7,9 @@
     "\\src",
     "\\src\\Objects",
     "\\src\\Objects\\Building",
-    "\\src\\Objects\\Building\\Building_Korean_Traditional_House",
-    "\\src\\Objects\\Building\\Hot_Balloon",
-    "\\src\\Objects\\Building\\sho"
+    "\\src\\Objects\\Building\\wash",
+    "\\src\\Objects\\Building\\windmill"
   ],
-  "SelectedNode": "\\src\\Objects\\Building\\sho",
+  "SelectedNode": "\\src\\Objects\\Building\\windmill\\windmill.pnml",
   "PreviewInSolutionExplorer": false
 }
