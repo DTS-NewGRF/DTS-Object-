@@ -410,3 +410,15 @@ STR_OBJ_windmill                      :[DTS0] Windmill
 STR_OBJ_windmill_01                      :[DTS0] Windmill
 STR_OBJ_wash                         :[DTS0] Train Wash
 STR_OBJ_wash_01                      :[DTS0] Train wash water tank
+STR_OBJ_warehouse                    :[DTS0] Warehouse
+STR_OBJ_warehouse_01                    :[DTS0] Korea Post Warehouse 1
+STR_OBJ_warehouse_02                    :[DTS0] Korea Post Warehouse 2
+STR_OBJ_warehouse_03                    :[DTS0] Korea Post Warehouse 3
+STR_OBJ_warehouse_04                    :[DTS0] Korea Post Warehouse 4
+STR_OBJ_warehouse_05                    :[DTS0] Korea Post Warehouse 5
+STR_OBJ_warehouse_06                    :[DTS0] Korea Post Warehouse 6
+STR_OBJ_warehouse_07                    :[DTS0] Korea Post Warehouse 7
+STR_OBJ_warehouse_08                    :[DTS0] Korea Post Warehouse 8
+STR_OBJ_warehouse_09                    :[DTS0] Korea Post Warehouse 9
+STR_OBJ_warehouse_10                    :[DTS0] Korea Post Warehouse 10
+
