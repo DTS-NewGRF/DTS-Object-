@@ -411,6 +411,16 @@ STR_OBJ_windmill                     :[DTS0] 풍차
 STR_OBJ_windmill_01                  :[DTS0] 풍차
 STR_OBJ_wash                         :[DTS0] 열차 세차장
 STR_OBJ_wash_01                      :[DTS0] 세차장 물탱크
-
+STR_OBJ_warehouse                    :[DTS0] 물류창고 
+STR_OBJ_warehouse_01                    :[DTS0] 우체국 소포 물류창고 1
+STR_OBJ_warehouse_02                    :[DTS0] 우체국 소포 물류창고 2
+STR_OBJ_warehouse_03                    :[DTS0] 우체국 소포 물류창고 3
+STR_OBJ_warehouse_04                    :[DTS0] 우체국 소포 물류창고 4
+STR_OBJ_warehouse_05                    :[DTS0] 우체국 소포 물류창고 5
+STR_OBJ_warehouse_06                    :[DTS0] 우체국 소포 물류창고 6
+STR_OBJ_warehouse_07                    :[DTS0] 우체국 소포 물류창고 7
+STR_OBJ_warehouse_08                    :[DTS0] 우체국 소포 물류창고 8
+STR_OBJ_warehouse_09                    :[DTS0] 우체국 소포 물류창고 9
+STR_OBJ_warehouse_10                    :[DTS0] 우체국 소포 물류창고 10
 
 
