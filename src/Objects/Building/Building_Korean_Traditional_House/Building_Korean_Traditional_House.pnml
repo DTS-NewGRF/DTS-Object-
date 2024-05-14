@@ -504,7 +504,7 @@ item(FEAT_OBJECTS, DTS_Korean_Traditional_House22, 2212) {
         num_views:              1;
     }
     graphics {
-        default: set_Building_Korean_Traditional_House21_0;
+        default: set_Building_Korean_Traditional_House22_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
