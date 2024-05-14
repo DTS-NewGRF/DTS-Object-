@@ -374,6 +374,7 @@ STR_OBJ_inde_05                      :[DTS0] Hong Beom-do
 STR_OBJ_inde_06                      :[DTS0] Kim Koo 
 STR_OBJ_inde_07                      :[DTS0] Ryu Gwan-sun  
 STR_OBJ_inde_08                      :[DTS0] Lee Yuk-sa
+STR_OBJ_inde_09                      :[DTS0] Dokdo
 STR_OBJ_Roller                       :[DTS0] Themepark 
 STR_OBJ_Roller_01                     :[DTS0] MEMAKING Rollercoaster 
 STR_OBJ_Roller_02                     :[DTS0] Jukjeon_Wani Corkscrew Rollercoaster 
@@ -422,5 +423,6 @@ STR_OBJ_warehouse_08                    :[DTS0] Korea Post Warehouse 8
 STR_OBJ_warehouse_09                    :[DTS0] Korea Post Warehouse 9
 STR_OBJ_warehouse_10                    :[DTS0] Korea Post Warehouse 10
 STR_OBJ_warehouse_11                    :[DTS0] Korea Post Trucks
+STR_OBJ_warehouse_12                    :[DTS0] Ottogi Warehouse 2
 
 
