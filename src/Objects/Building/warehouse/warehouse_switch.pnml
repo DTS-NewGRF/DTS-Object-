@@ -272,7 +272,7 @@ spritelayout set_warehouse11_1 {
 }
 switch(FEAT_OBJECTS, SELF, sw_warehouse11, view) {
     1: set_warehouse11_0;
-    set_warehouse11_0;
+    set_warehouse11_1;
 }
 
 
@@ -308,7 +308,7 @@ spritelayout set_warehouse12_1 {
 }
 switch(FEAT_OBJECTS, SELF, sw_warehouse12, view) {
     1: set_warehouse12_0;
-    set_warehouse12_0;
+    set_warehouse12_1;
 }
 
 
@@ -347,7 +347,7 @@ spritelayout set_warehouse13_1 {
 }
 switch(FEAT_OBJECTS, SELF, sw_warehouse13, view) {
     1: set_warehouse13_0;
-    set_warehouse13_0;
+    set_warehouse13_1;
 }
 
 
@@ -385,7 +385,7 @@ spritelayout set_warehouse14_1 {
 }
 switch(FEAT_OBJECTS, SELF, sw_warehouse14, view) {
     1: set_warehouse14_0;
-    set_warehouse14_0;
+    set_warehouse14_1;
 }
 
 
@@ -424,7 +424,7 @@ spritelayout set_warehouse15_1 {
 }
 switch(FEAT_OBJECTS, SELF, sw_warehouse15, view) {
     1: set_warehouse15_0;
-    set_warehouse15_0;
+    set_warehouse15_1;
 }
 
 
@@ -463,7 +463,7 @@ spritelayout set_warehouse16_1 {
 }
 switch(FEAT_OBJECTS, SELF, sw_warehouse16, view) {
     1: set_warehouse16_0;
-    set_warehouse16_0;
+    set_warehouse16_1;
 }
 
 
@@ -502,7 +502,7 @@ spritelayout set_warehouse17_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_warehouse17, view) {
     1: set_warehouse17_0;
-    set_warehouse17_0;
+    set_warehouse17_1;
 }
 
 
@@ -541,6 +541,6 @@ spritelayout set_warehouse18_1 {
 
 switch(FEAT_OBJECTS, SELF, sw_warehouse18, view) {
     1: set_warehouse18_0;
-    set_warehouse18_0;
+    set_warehouse18_1;
 }
 

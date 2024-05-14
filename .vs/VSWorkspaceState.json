@@ -7,9 +7,9 @@
     "\\src",
     "\\src\\Objects",
     "\\src\\Objects\\Building",
-    "\\src\\Objects\\Building\\wash",
-    "\\src\\Objects\\Building\\windmill"
+    "\\src\\Objects\\Building\\warehouse",
+    "\\src\\Objects\\Garden"
   ],
-  "SelectedNode": "\\src\\Objects\\Building\\windmill\\windmill.pnml",
+  "SelectedNode": "\\Makefile.config",
   "PreviewInSolutionExplorer": false
 }
