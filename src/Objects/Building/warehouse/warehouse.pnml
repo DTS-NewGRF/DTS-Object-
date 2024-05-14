@@ -448,7 +448,7 @@ item(FEAT_OBJECTS, warehouse19, 2419) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -473,7 +473,7 @@ item(FEAT_OBJECTS, warehouse20, 2420) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -497,7 +497,7 @@ item(FEAT_OBJECTS, warehouse21, 2421) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -520,7 +520,7 @@ item(FEAT_OBJECTS, warehouse22, 2422) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -544,7 +544,7 @@ item(FEAT_OBJECTS, warehouse23, 2423) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -569,7 +569,7 @@ item(FEAT_OBJECTS, warehouse24, 2424) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -594,7 +594,7 @@ item(FEAT_OBJECTS, warehouse25, 2425) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -619,7 +619,7 @@ item(FEAT_OBJECTS, warehouse26, 2426) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -644,7 +644,7 @@ item(FEAT_OBJECTS, warehouse27, 2427) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -670,7 +670,7 @@ item(FEAT_OBJECTS, warehouse28, 2428) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -696,7 +696,7 @@ item(FEAT_OBJECTS, warehouse29, 2429) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -721,7 +721,7 @@ item(FEAT_OBJECTS, warehouse30, 2430) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -747,7 +747,7 @@ item(FEAT_OBJECTS, warehouse31, 2431) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -771,7 +771,7 @@ item(FEAT_OBJECTS, warehouse32, 2432) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -796,7 +796,7 @@ item(FEAT_OBJECTS, warehouse33, 2433) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -821,7 +821,7 @@ item(FEAT_OBJECTS, warehouse34, 2434) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);
-        name:                   string(STR_OBJ_warehouse_02);
+        name:                   string(STR_OBJ_warehouse_12);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
