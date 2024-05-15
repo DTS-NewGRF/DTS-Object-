@@ -423,6 +423,11 @@ STR_OBJ_warehouse_08                    :[DTS0] Korea Post Warehouse 8
 STR_OBJ_warehouse_09                    :[DTS0] Korea Post Warehouse 9
 STR_OBJ_warehouse_10                    :[DTS0] Korea Post Warehouse 10
 STR_OBJ_warehouse_11                    :[DTS0] Korea Post Trucks
-STR_OBJ_warehouse_12                    :[DTS0] Ottogi Warehouse 2
+STR_OBJ_warehouse_12                    :[DTS0] Ottogi Warehouse
+STR_OBJ_warehouse_13                    :[DTS0] Netflix Sound Stage 
+STR_OBJ_warehouse_14                    :[DTS0] Storyway Warehouse
+STR_OBJ_warehouse_15                    :[DTS0] Kyobo Bookstore  Warehouse 
+STR_OBJ_warehouse_16                    :[DTS0] Hyundai WIA Warehouse
+STR_OBJ_warehouse_17                    :[DTS0] BHC Warehouse
 
 
