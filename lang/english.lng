@@ -431,5 +431,10 @@ STR_OBJ_warehouse_16                    :[DTS0] Hyundai WIA Warehouse
 STR_OBJ_warehouse_17                    :[DTS0] BHC Warehouse
 STR_OBJ_warehouse_18                    :[DTS0] DTS Warehouse 
 STR_OBJ_warehouse_19                    :[DTS0] Seoulmilk Warehouse 
+STR_OBJ_warehouse_20                    :[DTS0] Kyeongdong Logis Warehouse 
+STR_OBJ_warehouse_21                    :[DTS0] Ilhwa Warehouse 
+STR_OBJ_warehouse_22                    :[DTS0] Hanjin Logis Warehouse  
+STR_OBJ_warehouse_23                    :[DTS0] Nike Warehouse 
+STR_OBJ_warehouse_24                    :[DTS0] Noroo Paint Warehouse 
 
 
