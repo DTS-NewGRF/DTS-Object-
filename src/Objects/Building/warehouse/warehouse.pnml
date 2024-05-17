@@ -3416,7 +3416,7 @@ item(FEAT_OBJECTS, warehouse142, 2542) {
         num_views:              1;
     }
     graphics {
-        default: sw_warehouse1424;
+        default: sw_warehouse142;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
