@@ -6154,7 +6154,7 @@ item(FEAT_OBJECTS, warehouse256, 2656) {
 
 
 
-item(FEAT_OBJECTS, warehouse257, 2657) {
+item(FEAT_OBJECTS, warehouse257, 2780) {
     property {
         class:                  "DTPP";
         classname:              string(STR_OBJ_warehouse);

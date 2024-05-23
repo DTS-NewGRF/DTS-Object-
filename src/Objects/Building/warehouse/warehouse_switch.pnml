@@ -5585,7 +5585,7 @@ spritelayout set_warehouse233_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_warehouse233(0);
+        sprite: set_warehouse232(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -6124,6 +6124,7 @@ switch(FEAT_OBJECTS, SELF, sw_warehouse255, view) {
     1: set_warehouse255_0;
     set_warehouse255_0;
 }
+
 
 
 
