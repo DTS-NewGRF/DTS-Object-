@@ -8,8 +8,9 @@
     "\\src\\Objects",
     "\\src\\Objects\\Building",
     "\\src\\Objects\\Building\\warehouse",
+    "\\src\\Objects\\Building\\warehouse2",
     "\\src\\Objects\\Garden"
   ],
-  "SelectedNode": "\\Makefile.config",
+  "SelectedNode": "\\src\\Objects\\Building\\warehouse\\warehouse_graphic.pnml",
   "PreviewInSolutionExplorer": false
 }
