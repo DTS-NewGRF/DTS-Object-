@@ -172,3 +172,35 @@ alternative_sprites(set_military16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Obj
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
 }
+
+
+
+
+spriteset(set_military17, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/ant01.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_military18, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military18, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/ant02.png"){
+    [0,     0,    210,    174,    -90,  -154]
+}
+
+
+
+
+spriteset(set_military19, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military19, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/ant03.png"){
+    [0,     0,    210,    166,    -90,  -154]
+}
+
