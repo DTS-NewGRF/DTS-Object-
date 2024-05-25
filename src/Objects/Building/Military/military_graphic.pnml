@@ -185,12 +185,13 @@ alternative_sprites(set_military17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Obj
 }
 
 
+
 spriteset(set_military18, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
 alternative_sprites(set_military18, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/ant02.png"){
-    [0,     0,    210,    174,    -90,  -154]
+    [0,     0,    210,    174,    -85,  -170]
 }
 
 
