@@ -366,6 +366,7 @@ STR_OBJ_military_13  							   :[DTS0] 전차
 STR_OBJ_military_14  							   :[DTS0] 전차 
 STR_OBJ_military_15  							   :[DTS0] 전차 
 STR_OBJ_military_16  							   :[DTS0] 연병장 
+STR_OBJ_military_17  							   :[DTS0] 위성통신 안테나 
 STR_OBJ_inde                         :[DTS0] 독립운동가 기념 표지판 
 STR_OBJ_inde_01                      :[DTS0] 안중근  
 STR_OBJ_inde_02                      :[DTS0] 윤봉길
