@@ -842,7 +842,7 @@ item(FEAT_OBJECTS, crater22, 8642) {
     property {
         class:                  "DTLN";
         classname:              string(STR_OBJ_Land);
-        name:                   string(STR_OBJ_crater01);
+        name:                   string(STR_OBJ_crater21);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -860,4 +860,48 @@ item(FEAT_OBJECTS, crater22, 8642) {
 }
 
 
+
+item(FEAT_OBJECTS, dokw, 8643) {
+    property {
+        class:                  "DTLN";
+        classname:              string(STR_OBJ_Land);
+        name:                   string(STR_OBJ_crater22);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME,OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_dokw_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, doke, 8644) {
+    property {
+        class:                  "DTLN";
+        classname:              string(STR_OBJ_Land);
+        name:                   string(STR_OBJ_crater23);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_doke_0;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
 
