@@ -380,11 +380,11 @@ alternative_sprites(set_crater27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
 
 
 
-spriteset(set_dokdow, "src/Objects/land/land00.png"){
+spriteset(set_dokw, "src/Objects/land/land00.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_dokdow, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/dokw.png") {
+alternative_sprites(set_dokw, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/dokw.png") {
     [0,     0,    210,    166,    -90,  -154]
 }
 
