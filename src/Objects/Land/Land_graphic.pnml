@@ -376,3 +376,25 @@ spriteset(set_crater27, "src/Objects/land/land00.png"){
 alternative_sprites(set_crater27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/crater27.png") {
     [0,     0,    210,    166,    -90,  -154]
 }
+
+
+
+
+spriteset(set_dokdow, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_dokdow, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/dokw.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+
+spriteset(set_doke, "src/Objects/land/land00.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_doke, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/doke.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
