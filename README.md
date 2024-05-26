@@ -3,7 +3,7 @@
 
 **다양성 열차 세트 오브젝트**는 DTS에서 분리되었으며 오브젝트에 특화된 GRF입니다. <br>
 https://www.youtube.com/@Newgrf_DTS
-
+https://github.com/DTS-NewGRF/DTS-Object-/releases
 
 ## 저작권
 이 NewGRF는 크리에이티브 커먼스 라이선스 v3.0 (CC-BY-NC-SA v3.0)을 따릅니다. <br>
