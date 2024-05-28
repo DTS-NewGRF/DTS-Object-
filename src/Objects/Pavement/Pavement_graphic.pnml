@@ -595,3 +595,87 @@ alternative_sprites(set_Pavement65, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Obj
 }
 
 
+
+spriteset(set_Pavement66, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement66, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt01.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_Pavement67, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement67, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt02.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_Pavement68, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement68, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt03.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_Pavement69, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement69, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt04.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_Pavement70, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement70, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt05.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_Pavement71, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement71, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt06.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_Pavement72, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement72, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt07.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_Pavement73, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement73, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt08.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
