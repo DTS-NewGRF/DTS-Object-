@@ -1457,3 +1457,120 @@ spriteset(set_warehouse328, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_warehouse328, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep33.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+spriteset(set_warehouse329, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse329, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep34.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_warehouse330, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse330, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep35.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse331, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse331, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep36.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_warehouse332, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse332, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep37.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_warehouse333, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse333, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep38.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse334, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse334, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep39.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse335, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse335, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep40.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+spriteset(set_warehouse336, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse336, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep41.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse337, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse337, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep42.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+spriteset(set_warehouse338, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse338, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehousep43.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
