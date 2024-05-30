@@ -449,7 +449,12 @@ STR_OBJ_warehouse_30                    :[DTS0] Kia Motors 90s's Factory
 STR_OBJ_warehouse_31                    :[DTS0] Kia Motors 00s's Factory
 STR_OBJ_warehouse_32                    :[DTS0] Kia Autoland 
 STR_OBJ_warehouse_33                    :[DTS0] Warehouse auxiliary building
-
+STR_OBJ_warehouse_34                    :[DTS0] Warehouse - Manufacturing Industry
+STR_OBJ_warehouse_35                    :[DTS0] Warehouse - Logistics
+STR_OBJ_warehouse_36                    :[DTS0] Warehouse - Retail
+STR_OBJ_warehouse_37                    :[DTS0] Warehouse - Food & Beverage
+STR_OBJ_warehouse_38                    :[DTS0] Warehouse - Fashion, Wear
+STR_OBJ_warehouse_39                    :[DTS0] Warehouse - ETC
 
 
 
