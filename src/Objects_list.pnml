@@ -65,6 +65,9 @@
 // Warehouse
 #include "Objects/Building/warehouse/warehouse.pnml"
 
-
 // Warehouse2
 #include "Objects/Building/warehouse2/warehouse2.pnml"
+
+
+// UI
+#include "Objects/Building/ui/ui.pnml"
