@@ -463,5 +463,7 @@ STR_OBJ_warehouse_39                    :[DTS0] Warehouse - ETC
 STR_OBJ_ui                              :[DTS0] Railroad 
 STR_OBJ_ui_01                           :[DTS0] Railroad Museum Snackshop 
 STR_OBJ_ui_02                           :[DTS0] Riding the Peace Express (Imjingak) 
+STR_OBJ_ui_03                           :[DTS0] Railroad Museum 
+STR_OBJ_ui_04                           :[DTS0] Pavement 
 
 
