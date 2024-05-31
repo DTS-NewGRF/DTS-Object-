@@ -583,3 +583,126 @@ switch(FEAT_OBJECTS, SELF, sw_military19, view) {
 }
 
 
+
+
+
+spritelayout set_military20_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military20(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military20, view) {
+    1: set_military20_0;
+    set_military20_0;
+}
+
+
+
+
+
+spritelayout set_military21_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military21(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military21, view) {
+    1: set_military21_0;
+    set_military21_0;
+}
+
+
+
+
+
+spritelayout set_military22_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military22(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military22, view) {
+    1: set_military22_0;
+    set_military22_0;
+}
+
+
+
+
+
+spritelayout set_military23_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military23(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military23, view) {
+    1: set_military23_0;
+    set_military23_0;
+}
+
+
+
+
+
+spritelayout set_military24_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military24(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military24, view) {
+    1: set_military24_0;
+    set_military24_0;
+}
