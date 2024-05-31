@@ -370,6 +370,11 @@ STR_OBJ_military_14  							   :[DTS0] 전차
 STR_OBJ_military_15  							   :[DTS0] 전차 
 STR_OBJ_military_16  							   :[DTS0] 연병장 
 STR_OBJ_military_17  							   :[DTS0] 위성통신 안테나 
+STR_OBJ_military_18  							   :[DTS0] 아틀라스 전투기 
+STR_OBJ_military_19  							   :[DTS0] 이카루스 전투기 
+STR_OBJ_military_20  							   :[DTS0] 페가서스 전투기 
+STR_OBJ_military_21  							   :[DTS0] 타이탄 건십 
+STR_OBJ_military_22  							   :[DTS0] 아스팔트 
 STR_OBJ_inde                         :[DTS0] 독립운동가 기념 표지판 
 STR_OBJ_inde_01                      :[DTS0] 안중근  
 STR_OBJ_inde_02                      :[DTS0] 윤봉길
