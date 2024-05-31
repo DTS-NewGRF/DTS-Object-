@@ -461,6 +461,7 @@ STR_OBJ_warehouse_36                    :[DTS0] 물류창고 - 유통업
 STR_OBJ_warehouse_37                    :[DTS0] 물류창고 - 식품업
 STR_OBJ_warehouse_38                    :[DTS0] 물류창고 - 의류업 
 STR_OBJ_warehouse_39                    :[DTS0] 물류창고 - 기타업종 
+STR_OBJ_warehouse_40                    :[DTS0] 스프라이트 물류창고 
 STR_OBJ_ui                              :[DTS0] 철도 기념물 
 STR_OBJ_ui_01                           :[DTS0] 철도박물관 매점 
 STR_OBJ_ui_02                           :[DTS0] 철마는 달리고 싶다 (임진각) 
