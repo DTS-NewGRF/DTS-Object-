@@ -464,6 +464,8 @@ STR_OBJ_warehouse_39                    :[DTS0] 물류창고 - 기타업종
 STR_OBJ_ui                              :[DTS0] 철도 기념물 
 STR_OBJ_ui_01                           :[DTS0] 철도박물관 매점 
 STR_OBJ_ui_02                           :[DTS0] 철마는 달리고 싶다 (임진각) 
+STR_OBJ_ui_03                           :[DTS0] 철도박물관 본관 
+STR_OBJ_ui_04                           :[DTS0] 철도박물관 보도  
 
 
 
