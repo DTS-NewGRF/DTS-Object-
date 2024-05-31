@@ -14,7 +14,7 @@
 
 item(FEAT_OBJECTS, re10001, 1999) {
     property {
-        class:                  "DTRE";
+        class:                  "DTRK";
         classname:              string(STR_OBJ_re100);
         name:                   string(STR_OBJ_re100_01);
         climates_available:     ALL_CLIMATES;
