@@ -1669,3 +1669,14 @@ spriteset(set_warehouse346, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_warehouse346, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehouse303.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+
+spriteset(set_warehouse347, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse347, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse/Warehouse304.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
