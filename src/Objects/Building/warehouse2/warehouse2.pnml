@@ -1889,6 +1889,8 @@ item(FEAT_OBJECTS, warehouse278, 2678) {
 
 
 
+
+
 item(FEAT_OBJECTS, warehouse279, 2679) {
     property {
         class:                  "DTMA";
@@ -1909,6 +1911,7 @@ item(FEAT_OBJECTS, warehouse279, 2679) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
 
 
 

@@ -3726,3 +3726,4 @@ switch(FEAT_OBJECTS, SELF, sw_warehouse355, view) {
     1: set_warehouse355_0;
     set_warehouse355_0;
 }
+
