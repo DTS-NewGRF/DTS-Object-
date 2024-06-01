@@ -3501,3 +3501,26 @@ switch(FEAT_OBJECTS, SELF, sw_warehouse346, view) {
     1: set_warehouse346_0;
     set_warehouse346_0;
 }
+
+
+
+
+spritelayout set_warehouse347_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_warehouse347(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_warehouse347, view) {
+    1: set_warehouse347_0;
+    set_warehouse347_0;
+}
