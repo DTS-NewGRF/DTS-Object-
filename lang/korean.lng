@@ -125,7 +125,30 @@ STR_OBJ_Flag_DTS_042                                   :[DTS0] 민은메이킹�
 STR_OBJ_Flag_DTS_047                                   :[DTS0] 죽전와니님 표지판
 STR_OBJ_Flag_DTS_052                                   :[DTS0] KTX 20주년 기념 표지판
 STR_OBJ_Flag_DTS_057                                   :[DTS0] 스토리웨이 표지판
-STR_OBJ_Flag_DTS_059                                   :[DTS0] 김다양 표지판
+STR_OBJ_Flag_DTS_062                                   :[DTS0] 정선아리랑열차 A-Train
+STR_OBJ_Flag_DTS_063                                   :[DTS0] 정선아리랑열차 A-Train
+STR_OBJ_Flag_DTS_064                                   :[DTS0] 정선아리랑열차 A-Train
+STR_OBJ_Flag_DTS_065                                   :[DTS0] 서해금빛열차 G-Train
+STR_OBJ_Flag_DTS_066                                   :[DTS0] 서해금빛열차 G-Train
+STR_OBJ_Flag_DTS_067                                   :[DTS0] 백두대간협곡열차 V-Train
+STR_OBJ_Flag_DTS_068                                   :[DTS0] 백두대간협곡열차 V-Train
+STR_OBJ_Flag_DTS_069                                   :[DTS0] 에코레일관광열차
+STR_OBJ_Flag_DTS_070                                   :[DTS0] 레일크루즈 해랑
+STR_OBJ_Flag_DTS_071                                   :[DTS0] 레일크루즈 해랑
+STR_OBJ_Flag_DTS_072                                   :[DTS0] 레일크루즈 해랑
+STR_OBJ_Flag_DTS_073                                   :[DTS0] 교육전용열차 E-Train
+STR_OBJ_Flag_DTS_074                                   :[DTS0] 남도해양관광열차 S-Train
+STR_OBJ_Flag_DTS_075                                   :[DTS0] 남도해양관광열차 S-Train
+STR_OBJ_Flag_DTS_076                                   :[DTS0] 동해산타열차 
+STR_OBJ_Flag_DTS_077                                   :[DTS0] 동해산타열차 
+STR_OBJ_Flag_DTS_078                                   :[DTS0] 동해산타열차 
+STR_OBJ_Flag_DTS_079                                   :[DTS0] 전통시장관광열차 
+STR_OBJ_Flag_DTS_080                                   :[DTS0] 충북영동국악와인열차 
+STR_OBJ_Flag_DTS_081                                   :[DTS0] 중부내륙순환열차 O-Train
+STR_OBJ_Flag_DTS_082                                   :[DTS0] 중부내륙순환열차 O-Train
+STR_OBJ_Flag_DTS_083                                   :[DTS0] 평화생명관광열차 DMZ
+STR_OBJ_Flag_DTS_084                                   :[DTS0] 평화생명관광열차 DMZ
+STR_OBJ_Flag_DTS_085                                   :[DTS0] 바다열차 
 STR_OBJ_Pavement                                       :[DTS0] 보도블럭
 STR_OBJ_Fountain                                       :[DTS0] 분수대
 STR_OBJ_Garden									       :[DTS0] 정원
