@@ -126,6 +126,30 @@ STR_OBJ_Flag_DTS_047                                   :[DTS0] Jukjeon_Wani Sign
 STR_OBJ_Flag_DTS_052                                   :[DTS0] KTX 20th Anniversary
 STR_OBJ_Flag_DTS_057                                   :[DTS0] Storyway Signboard
 STR_OBJ_Flag_DTS_059                                   :[DTS0] Lady of DTS Signboard
+STR_OBJ_Flag_DTS_062                                   :[DTS0] A-Train
+STR_OBJ_Flag_DTS_063                                   :[DTS0] A-Train
+STR_OBJ_Flag_DTS_064                                   :[DTS0] A-Train
+STR_OBJ_Flag_DTS_065                                   :[DTS0] G-Train
+STR_OBJ_Flag_DTS_066                                   :[DTS0] G-Train
+STR_OBJ_Flag_DTS_067                                   :[DTS0] V-Train
+STR_OBJ_Flag_DTS_068                                   :[DTS0] V-Train
+STR_OBJ_Flag_DTS_069                                   :[DTS0] Ecorail
+STR_OBJ_Flag_DTS_070                                   :[DTS0] Railcruise Haerang
+STR_OBJ_Flag_DTS_071                                   :[DTS0] Railcruise Haerang
+STR_OBJ_Flag_DTS_072                                   :[DTS0] Railcruise Haerang
+STR_OBJ_Flag_DTS_073                                   :[DTS0] E-Train
+STR_OBJ_Flag_DTS_074                                   :[DTS0] S-Train
+STR_OBJ_Flag_DTS_075                                   :[DTS0] S-Train
+STR_OBJ_Flag_DTS_076                                   :[DTS0] East Sea & Santa Village Train
+STR_OBJ_Flag_DTS_077                                   :[DTS0] East Sea & Santa Village Train
+STR_OBJ_Flag_DTS_078                                   :[DTS0] East Sea & Santa Village Train
+STR_OBJ_Flag_DTS_079                                   :[DTS0] Tradition Market Travel Train 
+STR_OBJ_Flag_DTS_080                                   :[DTS0] Chungbuk Yeongdong Gugak & Wine Train 
+STR_OBJ_Flag_DTS_081                                   :[DTS0] O-Train
+STR_OBJ_Flag_DTS_082                                   :[DTS0] O-Train
+STR_OBJ_Flag_DTS_083                                   :[DTS0] DMZ Train
+STR_OBJ_Flag_DTS_084                                   :[DTS0] DMZ Train
+STR_OBJ_Flag_DTS_085                                   :[DTS0] Sea Train 
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
