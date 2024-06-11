@@ -1049,3 +1049,470 @@ spritelayout set_Flag_DTS_061_0 {
         zoffset: 0;
     }
 }
+
+
+
+
+
+spritelayout set_Flag_DTS_062_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_062(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_063_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_063(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_064_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_064(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_065_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_065(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_066_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_066(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+spritelayout set_Flag_DTS_067_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_067(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+
+spritelayout set_Flag_DTS_068_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_068(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+spritelayout set_Flag_DTS_069_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_069(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+spritelayout set_Flag_DTS_070_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_070(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+spritelayout set_Flag_DTS_071_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_071(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+spritelayout set_Flag_DTS_072_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_072(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+
+spritelayout set_Flag_DTS_073_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_073(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+spritelayout set_Flag_DTS_074_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_074(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_075_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_075(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_076_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_076(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+
+spritelayout set_Flag_DTS_077_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_077(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_078_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_078(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_079_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_079(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_080_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_080(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_081_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_081(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_082_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_082(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_083_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_083(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_084_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_084(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+
+spritelayout set_Flag_DTS_085_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_DTS_Flag_DTS_085(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
