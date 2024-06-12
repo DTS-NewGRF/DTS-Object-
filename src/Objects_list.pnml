@@ -69,7 +69,7 @@
 #include "Objects/Building/warehouse2/warehouse2.pnml"
 
 // Warehouse3
-#include "Objects/Building/warehouse2/warehouse3.pnml"
+#include "Objects/Building/warehouse3/warehouse3.pnml"
 
 // UIwang Railroad Museum
 #include "Objects/Building/ui/ui.pnml"
