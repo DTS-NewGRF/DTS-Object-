@@ -815,7 +815,7 @@ spritelayout set_warehouse461_0 {
 
 switch(FEAT_OBJECTS, SELF, sw_warehouse461, view) {
     1: set_warehouse461_0;
-    set_warehouse4_0;
+    set_warehouse461_0;
 }
 
 
@@ -1056,7 +1056,6 @@ switch(FEAT_OBJECTS, SELF, sw_warehouse471, view) {
     1: set_warehouse471_0;
     set_warehouse471_0;
 }
-
 
 
 
@@ -1810,6 +1809,28 @@ switch(FEAT_OBJECTS, SELF, sw_warehouse502, view) {
     set_warehouse502_0;
 }
 
+
+
+
+spritelayout set_warehouse503_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_warehouse503(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_warehouse503, view) {
+    1: set_warehouse503_0;
+    set_warehouse503_0;
+}
 
 
 spritelayout set_warehouse504_0 {

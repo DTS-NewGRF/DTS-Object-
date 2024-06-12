@@ -461,6 +461,15 @@ alternative_sprites(set_warehouse470, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 }
 
 
+spriteset(set_warehouse471, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse471, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse3/Warehouse427.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
 
 
 
