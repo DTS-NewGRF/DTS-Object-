@@ -2550,7 +2550,7 @@ alternative_sprites(set_warehouse422, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 
 
 
-spriteset(set_warehouse425, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_warehouse423, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -2562,7 +2562,7 @@ alternative_sprites(set_warehouse425, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 
 
 
-spriteset(set_warehouse426, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_warehouse424, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -2574,7 +2574,7 @@ alternative_sprites(set_warehouse426, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 
 
 
-spriteset(set_warehouse427, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_warehouse425, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -2586,7 +2586,7 @@ alternative_sprites(set_warehouse427, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 
 
 
-spriteset(set_warehouse428, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_warehouse426, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -2598,7 +2598,7 @@ alternative_sprites(set_warehouse428, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 
 
 
-spriteset(set_warehouse429, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_warehouse427, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -2611,7 +2611,7 @@ alternative_sprites(set_warehouse429, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 
 
 
-spriteset(set_warehouse430, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_warehouse428, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
