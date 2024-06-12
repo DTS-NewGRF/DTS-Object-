@@ -11,3 +11,11 @@ alternative_sprites(set_re10001, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Object
 }
 
 
+
+spriteset(set_re10002, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_re10002, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/RE100/Solarpanel2.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
