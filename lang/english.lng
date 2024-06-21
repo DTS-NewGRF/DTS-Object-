@@ -514,5 +514,8 @@ STR_OBJ_ui_01                           :[DTS0] Railroad Museum Snackshop
 STR_OBJ_ui_02                           :[DTS0] Riding the Peace Express (Imjingak) 
 STR_OBJ_ui_03                           :[DTS0] Railroad Museum 
 STR_OBJ_ui_04                           :[DTS0] Pavement 
-
+STR_OBJ_landmark                        :[DTS0] Korea Landmark
+STR_OBJ_landmark_01                     :[DTS0] Dodamsambong 01
+STR_OBJ_landmark_02                     :[DTS0] Dodamsambong 02
+STR_OBJ_landmark_03                     :[DTS0] Dodamsambong 03
 
