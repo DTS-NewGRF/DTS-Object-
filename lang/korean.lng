@@ -515,7 +515,10 @@ STR_OBJ_ui_01                           :[DTS0] 철도박물관 매점
 STR_OBJ_ui_02                           :[DTS0] 철마는 달리고 싶다 (임진각) 
 STR_OBJ_ui_03                           :[DTS0] 철도박물관 본관 
 STR_OBJ_ui_04                           :[DTS0] 철도박물관 보도  
-
+STR_OBJ_landmark                        :[DTS0] 대한민국 랜드마크
+STR_OBJ_landmark_01                     :[DTS0] 도담삼봉 01
+STR_OBJ_landmark_02                     :[DTS0] 도담삼봉 02
+STR_OBJ_landmark_03                     :[DTS0] 도담삼봉 03
 
 
 
