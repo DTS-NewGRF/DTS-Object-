@@ -1052,8 +1052,8 @@ item(FEAT_OBJECTS, warehouse43, 2443) {
 
 item(FEAT_OBJECTS, warehouse44, 2444) {
     property {
-        class:                  "DTET";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -1075,8 +1075,8 @@ item(FEAT_OBJECTS, warehouse44, 2444) {
 
 item(FEAT_OBJECTS, warehouse45, 2445) {
     property {
-        class:                  "DTLO";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -1099,8 +1099,8 @@ item(FEAT_OBJECTS, warehouse45, 2445) {
 
 item(FEAT_OBJECTS, warehouse46, 2446) {
     property {
-        class:                  "DTLO";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -1122,8 +1122,8 @@ item(FEAT_OBJECTS, warehouse46, 2446) {
 
 item(FEAT_OBJECTS, warehouse47, 2447) {
     property {
-        class:                  "DTLO";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -1145,8 +1145,8 @@ item(FEAT_OBJECTS, warehouse47, 2447) {
 
 item(FEAT_OBJECTS, warehouse48, 2448) {
     property {
-        class:                  "DTLO";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -1169,8 +1169,8 @@ item(FEAT_OBJECTS, warehouse48, 2448) {
 
 item(FEAT_OBJECTS, warehouse49, 2449) {
     property {
-        class:                  "DTLO";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -1192,8 +1192,8 @@ item(FEAT_OBJECTS, warehouse49, 2449) {
 
 item(FEAT_OBJECTS, warehouse50, 2450) {
     property {
-        class:                  "DTLO";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -1216,8 +1216,8 @@ item(FEAT_OBJECTS, warehouse50, 2450) {
 
 item(FEAT_OBJECTS, warehouse51, 2451) {
     property {
-        class:                  "DTLO";
-        classname:              string(STR_OBJ_warehouse_35);
+        class:                  "DTRE";
+        classname:              string(STR_OBJ_warehouse_36);
         name:                   string(STR_OBJ_warehouse_14);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
