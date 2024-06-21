@@ -1987,8 +1987,8 @@ item(FEAT_OBJECTS, warehouse505, 2905) {
 
 item(FEAT_OBJECTS, warehouse506, 2906) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTFW";
+        classname:              string(STR_OBJ_warehouse_38);
         name:                   string(STR_OBJ_warehouse_54);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -2011,8 +2011,8 @@ item(FEAT_OBJECTS, warehouse506, 2906) {
 
 item(FEAT_OBJECTS, warehouse507, 2907) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTFW";
+        classname:              string(STR_OBJ_warehouse_38);
         name:                   string(STR_OBJ_warehouse_54);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -2036,8 +2036,8 @@ item(FEAT_OBJECTS, warehouse507, 2907) {
 
 item(FEAT_OBJECTS, warehouse508, 2908) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTFW";
+        classname:              string(STR_OBJ_warehouse_38);
         name:                   string(STR_OBJ_warehouse_54);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -4314,8 +4314,8 @@ item(FEAT_OBJECTS, warehouse601, 3001) {
 
 item(FEAT_OBJECTS, warehouse602, 3002) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
         name:                   string(STR_OBJ_warehouse_64);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -4338,8 +4338,8 @@ item(FEAT_OBJECTS, warehouse602, 3002) {
 
 item(FEAT_OBJECTS, warehouse603, 3003) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
         name:                   string(STR_OBJ_warehouse_64);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -4363,8 +4363,8 @@ item(FEAT_OBJECTS, warehouse603, 3003) {
 
 item(FEAT_OBJECTS, warehouse604, 3004) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
         name:                   string(STR_OBJ_warehouse_64);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -4389,8 +4389,8 @@ item(FEAT_OBJECTS, warehouse604, 3004) {
 
 item(FEAT_OBJECTS, warehouse605, 3005) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
         name:                   string(STR_OBJ_warehouse_64);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -4414,8 +4414,8 @@ item(FEAT_OBJECTS, warehouse605, 3005) {
 
 item(FEAT_OBJECTS, warehouse606, 3006) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
         name:                   string(STR_OBJ_warehouse_64);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
@@ -4439,8 +4439,8 @@ item(FEAT_OBJECTS, warehouse606, 3006) {
 
 item(FEAT_OBJECTS, warehouse607, 3007) {
     property {
-        class:                  "DTMA";
-        classname:              string(STR_OBJ_warehouse_34);
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
         name:                   string(STR_OBJ_warehouse_64);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
