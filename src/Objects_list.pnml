@@ -73,3 +73,6 @@
 
 // UIwang Railroad Museum
 #include "Objects/Building/ui/ui.pnml"
+
+// Korea Landmark
+#include "Objects/Building/landmark/landmark.pnml"
