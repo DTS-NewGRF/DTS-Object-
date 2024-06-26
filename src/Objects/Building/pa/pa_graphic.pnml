@@ -514,3 +514,159 @@ alternative_sprites(set_pa48, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/B
 }
 
 
+
+
+
+
+spriteset(set_pa49, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa49, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa49.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+spriteset(set_pa50, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa50, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa50.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_pa51, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa51, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa51.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_pa52, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa52, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa52.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_pa53, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa53, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa53.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_pa54, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa54, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa54.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_pa55, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa55, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa55.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_pa56, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa56, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa56.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+spriteset(set_pa57, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa57, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa57.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_pa58, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa58, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa58.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_pa59, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa59, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa59.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_pa60, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa60, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa60.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_pa61, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa61, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa61.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_pa62, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa62, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pa62.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
+
