@@ -510,6 +510,11 @@ STR_OBJ_warehouse_61                    :[DTS0] 로케트 배터리
 STR_OBJ_warehouse_62                    :[DTS0] 해태아이스
 STR_OBJ_warehouse_63                    :[DTS0] 서주
 STR_OBJ_warehouse_64                    :[DTS0] 세라젬
+STR_OBJ_warehouse_65                    :[DTS0] 처갓집 양념통닭
+STR_OBJ_warehouse_66                    :[DTS0] 스모프치킨
+STR_OBJ_warehouse_67                    :[DTS0] 이서방 양념치킨
+STR_OBJ_warehouse_68                    :[DTS0] 페리카나
+STR_OBJ_warehouse_69                    :[DTS0] 금호타이어
 STR_OBJ_ui                              :[DTS0] 철도 기념물 
 STR_OBJ_ui_01                           :[DTS0] 철도박물관 매점 
 STR_OBJ_ui_02                           :[DTS0] 철마는 달리고 싶다 (임진각) 
