@@ -908,3 +908,25 @@ switch(FEAT_OBJECTS, SELF, sw_stadium38, view) {
     1: set_stadium38_0;
     set_stadium38_0;
 }
+
+
+
+spritelayout set_stadium39_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_stadium39(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_stadium39, view) {
+    1: set_stadium39_0;
+    set_stadium39_0;
+}
