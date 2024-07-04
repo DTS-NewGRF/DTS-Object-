@@ -150,6 +150,8 @@ STR_OBJ_Flag_DTS_082                                   :[DTS0] O-Train
 STR_OBJ_Flag_DTS_083                                   :[DTS0] DMZ Train
 STR_OBJ_Flag_DTS_084                                   :[DTS0] DMZ Train
 STR_OBJ_Flag_DTS_085                                   :[DTS0] Sea Train 
+STR_OBJ_Flag_DTS_086                                   :[DTS0] Lady Bird Train
+STR_OBJ_Flag_DTS_087                                   :[DTS0] Daegu FC
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
