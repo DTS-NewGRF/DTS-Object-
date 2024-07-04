@@ -380,7 +380,7 @@ spriteset(set_stadium38, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_stadium38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium38.png"){
+alternative_sprites(set_stadium38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Marina/stadium38c.png"){
     [0,     0,    133,    112,    -50,  -99]
 }
 

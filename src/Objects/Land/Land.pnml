@@ -865,7 +865,7 @@ item(FEAT_OBJECTS, dokw, 8643) {
     property {
         class:                  "DTLN";
         classname:              string(STR_OBJ_Land);
-        name:                   string(STR_OBJ_crater22);
+        name:                   string(STR_OBJ_crater23);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -888,7 +888,7 @@ item(FEAT_OBJECTS, doke, 8644) {
     property {
         class:                  "DTLN";
         classname:              string(STR_OBJ_Land);
-        name:                   string(STR_OBJ_crater23);
+        name:                   string(STR_OBJ_crater24);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
