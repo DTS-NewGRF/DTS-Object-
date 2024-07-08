@@ -6,12 +6,12 @@ switch
 
 
 
-spritelayout set_landmark01_0 {
+spritelayout set_farm01_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark01(0);
+        sprite: set_farm01(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -21,22 +21,21 @@ spritelayout set_landmark01_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark01, view) {
-    1: set_landmark01_0;
-    set_landmark01_0;
+switch(FEAT_OBJECTS, SELF, sw_farm01, view) {
+    1: set_farm01_0;
+    set_farm01_0;
 }
 
 
 
 
 
-
-spritelayout set_landmark02_0 {
+spritelayout set_farm02_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark02(0);
+        sprite: set_farm02(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -46,9 +45,9 @@ spritelayout set_landmark02_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark02, view) {
-    1: set_landmark02_0;
-    set_landmark02_0;
+switch(FEAT_OBJECTS, SELF, sw_farm02, view) {
+    1: set_farm02_0;
+    set_farm02_0;
 }
 
 
@@ -56,14 +55,12 @@ switch(FEAT_OBJECTS, SELF, sw_landmark02, view) {
 
 
 
-
-
-spritelayout set_landmark03_0 {
+spritelayout set_farm03_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark03(0);
+        sprite: set_farm03(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -73,19 +70,23 @@ spritelayout set_landmark03_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark03, view) {
-    1: set_landmark03_0;
-    set_landmark03_0;
+switch(FEAT_OBJECTS, SELF, sw_farm03, view) {
+    1: set_farm03_0;
+    set_farm03_0;
 }
 
 
 
-spritelayout set_landmark04_0 {
+
+
+
+
+spritelayout set_farm04_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark04(0);
+        sprite: set_farm04(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -95,21 +96,21 @@ spritelayout set_landmark04_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark04, view) {
-    1: set_landmark04_0;
-    set_landmark04_0;
+switch(FEAT_OBJECTS, SELF, sw_farm04, view) {
+    1: set_farm04_0;
+    set_farm04_0;
 }
 
 
 
 
 
-spritelayout set_landmark05_0 {
+spritelayout set_farm05_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark05(0);
+        sprite: set_farm05(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -119,7 +120,126 @@ spritelayout set_landmark05_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark05, view) {
-    1: set_landmark05_0;
-    set_landmark05_0;
+switch(FEAT_OBJECTS, SELF, sw_farm05, view) {
+    1: set_farm05_0;
+    set_farm05_0;
 }
+
+
+
+
+spritelayout set_farm06_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_farm06(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_farm06, view) {
+    1: set_farm06_0;
+    set_farm06_0;
+}
+
+
+
+
+
+spritelayout set_farm07_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_farm07(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_farm07, view) {
+    1: set_farm07_0;
+    set_farm07_0;
+}
+
+
+
+
+spritelayout set_farm08_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_farm08(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_farm08, view) {
+    1: set_farm08_0;
+    set_farm08_0;
+}
+
+
+
+
+spritelayout set_farm09_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_farm09(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_farm09, view) {
+    1: set_farm09_0;
+    set_farm09_0;
+}
+
+
+
+
+
+spritelayout set_farm10_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_farm10(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_farm10, view) {
+    1: set_farm10_0;
+    set_farm10_0;
+}
+
+
