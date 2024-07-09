@@ -401,30 +401,30 @@ alternative_sprites(set_doke, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/L
 
 
 spriteset(set_crater28, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater28, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland.png") {
+alternative_sprites(set_crater28, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
 
 
 spriteset(set_crater29, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater29, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland2.png") {
+alternative_sprites(set_crater29, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland2.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
 
 
 spriteset(set_crater30, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater30, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland3.png") {
+alternative_sprites(set_crater30, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland3.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -432,10 +432,10 @@ alternative_sprites(set_crater30, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
 
 
 spriteset(set_crater31, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater31, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland4.png") {
+alternative_sprites(set_crater31, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland4.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -443,10 +443,10 @@ alternative_sprites(set_crater31, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
 
 
 spriteset(set_crater32, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland5.png") {
+alternative_sprites(set_crater32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland5.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -455,10 +455,10 @@ alternative_sprites(set_crater32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
 
 
 spriteset(set_crater33, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland6.png") {
+alternative_sprites(set_crater33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland6.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -466,20 +466,20 @@ alternative_sprites(set_crater33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
 
 
 spriteset(set_crater34, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater34, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland7.png") {
+alternative_sprites(set_crater34, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland7.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
 
 
 spriteset(set_crater35, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater35, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland8.png") {
+alternative_sprites(set_crater35, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland8.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -487,38 +487,38 @@ alternative_sprites(set_crater35, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
 
 
 spriteset(set_crater36, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater36, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland9.png") {
+alternative_sprites(set_crater36, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland9.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
 
 
 spriteset(set_crater37, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater37, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland10.png") {
+alternative_sprites(set_crater37, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland10.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
 
 
 spriteset(set_crater38, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland11.png") {
+alternative_sprites(set_crater38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland11.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
 
 spriteset(set_crater39, "src/Objects/land/land00.png"){
-    [0,     0,    64,    87,    -15,  -78]
+    [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_crater39, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/Rockisland12.png") {
+alternative_sprites(set_crater39, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Land/Rockisland12.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
