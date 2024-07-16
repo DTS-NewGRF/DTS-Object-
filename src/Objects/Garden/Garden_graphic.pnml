@@ -36,7 +36,7 @@ spriteset(set_Garden04, "src/Objects/Garden/Garden3.png"){
     [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_Garden04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden04.png"){
+alternative_sprites(set_Garden04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden04c.png"){
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
 }
