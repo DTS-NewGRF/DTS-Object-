@@ -653,7 +653,7 @@ spriteset(set_Garden88, "src/Objects/Garden/Garden7.png"){
     [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_Garden88, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden88.png"){
+alternative_sprites(set_Garden88, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden88c.png"){
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
 }
@@ -666,7 +666,7 @@ spriteset(set_Garden89, "src/Objects/Garden/Garden7.png"){
     [69,    0,    64,    54,    -31,  -44]
 }
 
-alternative_sprites(set_Garden89, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden89.png"){
+alternative_sprites(set_Garden89, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden89c.png"){
     [0,     0,    64,    54,    -15,  -46]
     [69,    0,    64,    54,    -31,  -44]
 }
