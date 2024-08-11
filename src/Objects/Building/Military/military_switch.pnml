@@ -706,3 +706,367 @@ switch(FEAT_OBJECTS, SELF, sw_military24, view) {
     1: set_military24_0;
     set_military24_0;
 }
+
+
+
+
+spritelayout set_military25_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military25(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military25, view) {
+    1: set_military25_0;
+    set_military25_0;
+}
+
+
+
+
+spritelayout set_military26_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military26(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military26, view) {
+    1: set_military26_0;
+    set_military26_0;
+}
+
+
+
+
+spritelayout set_military27_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military27(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military27, view) {
+    1: set_military27_0;
+    set_military27_0;
+}
+
+
+
+
+spritelayout set_military28_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military28(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military28, view) {
+    1: set_military28_0;
+    set_military28_0;
+}
+
+
+
+
+spritelayout set_military29_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military29(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military29, view) {
+    1: set_military29_0;
+    set_military29_0;
+}
+
+
+
+
+spritelayout set_military30_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military30(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military30, view) {
+    1: set_military30_0;
+    set_military30_0;
+}
+
+
+
+
+spritelayout set_military31_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military31(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military31, view) {
+    1: set_military31_0;
+    set_military31_0;
+}
+
+
+
+
+spritelayout set_military32_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military32(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military32, view) {
+    1: set_military32_0;
+    set_military32_0;
+}
+
+
+
+
+spritelayout set_military33_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military33(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military33, view) {
+    1: set_military33_0;
+    set_military33_0;
+}
+
+
+
+
+spritelayout set_military34_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military34(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military34, view) {
+    1: set_military34_0;
+    set_military34_0;
+}
+
+
+
+
+spritelayout set_military35_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military35(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military35, view) {
+    1: set_military35_0;
+    set_military35_0;
+}
+
+
+
+
+
+spritelayout set_military36_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military36(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military36, view) {
+    1: set_military36_0;
+    set_military36_0;
+}
+
+
+
+
+
+spritelayout set_military37_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military37(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military37, view) {
+    1: set_military37_0;
+    set_military37_0;
+}
+
+
+
+
+
+spritelayout set_military38_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military38(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military38, view) {
+    1: set_military38_0;
+    set_military38_0;
+}
+
+
+
+
+
+spritelayout set_military39_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military39(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_military39, view) {
+    1: set_military39_0;
+    set_military39_0;
+}
