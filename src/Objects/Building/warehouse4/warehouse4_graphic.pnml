@@ -710,7 +710,7 @@ alternative_sprites(set_warehouse691, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
 
 
 
-spriteset(set_warehouse692 "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_warehouse692, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
