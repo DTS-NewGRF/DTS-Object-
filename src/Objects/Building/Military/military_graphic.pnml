@@ -258,3 +258,220 @@ alternative_sprites(set_military24, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Obj
     [0,     0,    64,    87,    -15,  -78]
 }
 
+
+
+
+
+
+
+spriteset(set_military25, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military25, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military17.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+
+spriteset(set_military26, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military26, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military18.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+
+
+spriteset(set_military27, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military27, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military19.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military28, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military28, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military20.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military29, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military29, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military21.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+
+spriteset(set_military30, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military30, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military22.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military31, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military31, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military23.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military32, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military32, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military24.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military33, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military33, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military25.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military34, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military34, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military26.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+
+spriteset(set_military35, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military35, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military27.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military36, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military36, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military28.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military37, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military37, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military29.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+
+spriteset(set_military38, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military38, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military30.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+
+
+
+
+spriteset(set_military39, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
+
+alternative_sprites(set_military39, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military31.png"){
+    [0,     0,    64,    54,    -15,  -46]
+    [69,    0,    64,    54,    -31,  -44]
+}
