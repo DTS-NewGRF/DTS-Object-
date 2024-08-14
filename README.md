@@ -12,7 +12,7 @@ Download https://github.com/DTS-NewGRF/DTS-Object-/releases
 이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다. <br>
 라이선스에 따라, 등록된 자료는 누구나 수정할 수 있습니다.
 
-![DTSO](https://github.com/DTS-NewGRF/DTS-Object-/assets/101701121/1e076ffb-841f-4bed-bdcc-1ba8e49b944c)
+![DTSO](https://github.com/user-attachments/assets/4a8fe47d-17f5-4955-9d99-a01993bc01ec)
 
 ![89+](https://github.com/DTS-NewGRF/DTS-Object-/assets/101701121/cf82ea02-701d-44fc-b160-fa81e49a52c7)
 
