@@ -1774,7 +1774,7 @@ item(FEAT_OBJECTS, warehouse700, 3100) {
 
 item(FEAT_OBJECTS, warehouse701, 3101) {
     property {
-        class:                  "DTMA";
+        class:                  "DTPX";
         classname:              string(STR_OBJ_warehouse_33);
         name:                   string(STR_OBJ_warehouse_33);
         climates_available:     ALL_CLIMATES;
@@ -1797,7 +1797,7 @@ item(FEAT_OBJECTS, warehouse701, 3101) {
 
 item(FEAT_OBJECTS, warehouse702, 3102) {
     property {
-        class:                  "DTMA";
+        class:                  "DTPX";
         classname:              string(STR_OBJ_warehouse_33);
         name:                   string(STR_OBJ_warehouse_33);
         climates_available:     ALL_CLIMATES;
@@ -1821,7 +1821,7 @@ item(FEAT_OBJECTS, warehouse702, 3102) {
 
 item(FEAT_OBJECTS, warehouse703, 3103) {
     property {
-        class:                  "DTMA";
+        class:                  "DTPX";
         classname:              string(STR_OBJ_warehouse_33);
         name:                   string(STR_OBJ_warehouse_33);
         climates_available:     ALL_CLIMATES;
@@ -1844,7 +1844,7 @@ item(FEAT_OBJECTS, warehouse703, 3103) {
 
 item(FEAT_OBJECTS, warehouse704, 3104) {
     property {
-        class:                  "DTMA";
+        class:                  "DTPX";
         classname:              string(STR_OBJ_warehouse_33);
         name:                   string(STR_OBJ_warehouse_33);
         climates_available:     ALL_CLIMATES;
