@@ -348,6 +348,10 @@ STR_OBJ_HSpring_03  							   :[DTS0] Hot Spring Resort Hot Bath
 STR_OBJ_HSpring_04  							   :[DTS0] Hot Spring Resort
 STR_OBJ_HSpring_05  							   :[DTS0] Hot Spring
 STR_OBJ_Apart   								   :[DTS0] Apartment
+STR_OBJ_Apart_01   								   :[DTS0] MEMAKING Apartment
+STR_OBJ_Apart_02   								   :[DTS0] Jukjeon_Wani Apartment
+STR_OBJ_Apart_03   								   :[DTS0] MEMAKING Apartment 
+STR_OBJ_Apart_04   								   :[DTS0] Jukjeon_Wani Apartment 
 STR_OBJ_crater01 								   :[DTS0] Crater 
 STR_OBJ_crater02 								   :[DTS0] Crater 
 STR_OBJ_crater03 								   :[DTS0] Crater 
