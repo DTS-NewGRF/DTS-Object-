@@ -349,6 +349,10 @@ STR_OBJ_HSpring_03  							   :[DTS0] 온천욕탕
 STR_OBJ_HSpring_04  							   :[DTS0] 보양수 온천 목욕탕
 STR_OBJ_HSpring_05  							   :[DTS0] 온천
 STR_OBJ_Apart   								   :[DTS0] 아파트
+STR_OBJ_Apart_01   								   :[DTS0] 민은 아파트
+STR_OBJ_Apart_02   								   :[DTS0] 죽전와니 아파트
+STR_OBJ_Apart_03   								   :[DTS0] 민은 팰리스 
+STR_OBJ_Apart_04   								   :[DTS0] 죽전와니 팰리스 
 STR_OBJ_crater01 								   :[DTS0] 분화구 
 STR_OBJ_crater02 								   :[DTS0] 분화구 
 STR_OBJ_crater03 								   :[DTS0] 분화구 
