@@ -2849,7 +2849,7 @@ item(FEAT_OBJECTS, apart41, 8341) {
         num_views:              1;
     }
     graphics {
-        default: sw_resort41;
+        default: sw_apart41;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }

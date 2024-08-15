@@ -2714,6 +2714,8 @@ switch(FEAT_OBJECTS, SELF, sw_resort29, view) {
 }
 
 
+
+
 spritelayout set_apart41_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
