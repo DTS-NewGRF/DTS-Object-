@@ -1256,3 +1256,75 @@ spritelayout set_Pavement73_0 {
         zoffset: 0;
     }
 }
+
+
+
+
+
+spritelayout set_Pavement74_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Pavement74(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+spritelayout set_Pavement75_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Pavement75(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+spritelayout set_Pavement76_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Pavement76(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+
+
+spritelayout set_Pavement77_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Pavement77(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
