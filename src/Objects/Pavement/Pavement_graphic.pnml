@@ -679,3 +679,51 @@ spriteset(set_Pavement73, "src/Objects/Pavement/Pavement.png"){
 alternative_sprites(set_Pavement73, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt08.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+
+spriteset(set_Pavement74, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement74, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt09.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_Pavement75, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement75, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt10.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+spriteset(set_Pavement76, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement76, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt11.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_Pavement77, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement77, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt12.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
