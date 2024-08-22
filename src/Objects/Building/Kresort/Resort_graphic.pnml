@@ -543,6 +543,15 @@ alternative_sprites(set_museum45, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objec
 
 
 
+spriteset(set_museum46, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_museum46, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/museum46.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
 spriteset(set_resort15, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
