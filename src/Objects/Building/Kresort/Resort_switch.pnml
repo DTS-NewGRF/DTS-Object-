@@ -1263,6 +1263,27 @@ switch(FEAT_OBJECTS, SELF, sw_museum45, view) {
 
 
 
+spritelayout set_museum46_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_museum46(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_museum46, view) {
+    1: set_museum46_0;
+    set_museum46_0;
+}
+
+
 spritelayout set_resort15_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
