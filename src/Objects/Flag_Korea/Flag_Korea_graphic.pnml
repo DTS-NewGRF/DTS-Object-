@@ -938,3 +938,13 @@ spriteset(set_DTS_Flag_DTS_089, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_DTS_Flag_DTS_089, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Flag_Korea/Flag_89.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+spriteset(set_DTS_Flag_DTS_090, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_DTS_Flag_DTS_090, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Flag_Korea/Flag_90.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
