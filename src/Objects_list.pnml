@@ -85,3 +85,6 @@
 
 // Farm
 #include "Objects/Building/farm/farm.pnml"
+
+// Resident
+#include "Objects/Building/Resident/resident.pnml"
