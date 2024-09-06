@@ -759,3 +759,312 @@ item(FEAT_OBJECTS, ba57, 4557) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
+
+
+
+item(FEAT_OBJECTS, ba58, 4558) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba58;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba59, 4559) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba59;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba60, 4560) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba60;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba61, 4561) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba61;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba62, 4562) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba62;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba63, 4563) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba63;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba64, 4564) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba64;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba65, 4565) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba65;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+item(FEAT_OBJECTS, ba66, 4566) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba66;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba67, 4567) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba67;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba68, 4568) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba68;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, ba69, 4569) {
+    property {
+        class:                  "DTAP";
+        classname:              string(STR_OBJ_Apart);
+        name:                   string(STR_OBJ_Apart_07);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_ba62;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
