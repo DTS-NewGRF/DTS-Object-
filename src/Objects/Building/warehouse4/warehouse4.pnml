@@ -3157,3 +3157,271 @@ item(FEAT_OBJECTS, warehouse756, 3156) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
+
+
+
+item(FEAT_OBJECTS, warehouse757, 3157) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse757;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, warehouse758, 3158) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse758;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, warehouse759, 3159) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse759;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+item(FEAT_OBJECTS, warehouse760, 3160) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse760;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, warehouse761, 3161) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse761;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, warehouse762, 3162) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse762;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+item(FEAT_OBJECTS, warehouse763, 3163) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse763;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+item(FEAT_OBJECTS, warehouse764, 3164) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse764;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+item(FEAT_OBJECTS, warehouse765, 3165) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse765;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+item(FEAT_OBJECTS, warehouse766, 3166) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse766;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+
+item(FEAT_OBJECTS, warehouse767, 3167) {
+    property {
+        class:                  "DTET";
+        classname:              string(STR_OBJ_warehouse_39);
+        name:                   string(STR_OBJ_warehouse_89);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_warehouse767;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
