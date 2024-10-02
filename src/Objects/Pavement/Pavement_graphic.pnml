@@ -1137,3 +1137,74 @@ spriteset(set_Pavement113, "src/Objects/Pavement/Pavement.png"){
 alternative_sprites(set_Pavement113, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt48.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+
+spriteset(set_Pavement115, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement115, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt50.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_Pavement116, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement116, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt51.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_Pavement117, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement117, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt52.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_Pavement118, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement118, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt53.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_Pavement119, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement119, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt54.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_Pavement120, "src/Objects/Pavement/Pavement.png"){
+    [0,     0,    64,    31,    -15,  -22]
+}
+
+alternative_sprites(set_Pavement120, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Pavement/Pt55.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
