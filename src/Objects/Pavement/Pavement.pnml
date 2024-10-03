@@ -2843,7 +2843,7 @@ item(FEAT_OBJECTS, DTS_Pavement120, 9469) {
         num_views:              1;
     }
     graphics {
-        default: set_Pavement119_0;
+        default: set_Pavement120_0;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
