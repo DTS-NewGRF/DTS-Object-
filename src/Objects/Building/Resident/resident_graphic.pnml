@@ -504,3 +504,15 @@ spriteset(set_ba69, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_ba69, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Resident/ba69.png") {
     [0,     0,    64,    124,    -15,  -114]
 }
+
+
+
+
+
+spriteset(set_ba70, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ba70, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Resident/ba70.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
