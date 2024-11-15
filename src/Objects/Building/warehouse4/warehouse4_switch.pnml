@@ -1721,7 +1721,7 @@ spritelayout set_warehouse701_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_warehouse700(0);
+        sprite: set_warehouse701(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
