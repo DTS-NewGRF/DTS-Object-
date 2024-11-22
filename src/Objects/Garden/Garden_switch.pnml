@@ -2612,3 +2612,133 @@ switch(FEAT_OBJECTS, SELF, sw_Garden114, view) {
     1: set_Garden114_0;
     set_Garden114_0;
 }
+
+
+
+
+
+spritelayout set_Garden115_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden115(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_Garden115, view) {
+    1: set_Garden115_0;
+    set_Garden115_0;
+}
+
+
+
+
+
+
+spritelayout set_Garden116_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden116(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_Garden116, view) {
+    1: set_Garden116_0;
+    set_Garden116_0;
+}
+
+
+
+
+
+
+spritelayout set_Garden117_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden117(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_Garden117, view) {
+    1: set_Garden117_0;
+    set_Garden117_0;
+}
+
+
+
+
+
+
+
+spritelayout set_Garden118_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden118(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_Garden118, view) {
+    1: set_Garden118_0;
+    set_Garden118_0;
+}
+
+
+
+
+
+
+spritelayout set_Garden119_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_Garden119(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+
+switch(FEAT_OBJECTS, SELF, sw_Garden119, view) {
+    1: set_Garden119_0;
+    set_Garden119_0;
+}
