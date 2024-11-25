@@ -567,7 +567,13 @@ STR_OBJ_landmark_03                     :[DTS0] 도담삼봉 03
 STR_OBJ_landmark_04                     :[DTS0] 남산서울타워
 STR_OBJ_landmark_05                     :[DTS0] 롯데월드타워
 STR_OBJ_pa                              :[DTS0] 파빌리온 아키텍처
-STR_OBJ_farm                              :[DTS0] 스마트팜
+STR_OBJ_farm                            :[DTS0] 스마트팜
+STR_OBJ_mansion                         :[DTS0] 고급 주택 
+STR_OBJ_mansion_01                      :[DTS0] MEMAKING님의 주택
+STR_OBJ_mansion_02                      :[DTS0] 죽전wani님의 주택
+STR_OBJ_mansion_03                      :[DTS0] 던컨님의 주택
+STR_OBJ_mansion_04                      :[DTS0] 곰돌군님의 주택
+STR_OBJ_mansion_05                      :[DTS0] 뚱땡이녹차님의 주택
 
 
 
