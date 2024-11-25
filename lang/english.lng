@@ -567,4 +567,9 @@ STR_OBJ_landmark_04                     :[DTS0] Namsan Seoul Tower
 STR_OBJ_landmark_05                     :[DTS0] Lotte World Tower
 STR_OBJ_pa                              :[DTS0] Pavillion Architecture
 STR_OBJ_farm                              :[DTS0] Vertical Farm
-
+STR_OBJ_mansion                         :[DTS0] Luxury Mansion 
+STR_OBJ_mansion_01                      :[DTS0] Luxury Mansion
+STR_OBJ_mansion_02                      :[DTS0] Luxury Mansion
+STR_OBJ_mansion_03                      :[DTS0] Luxury Mansion
+STR_OBJ_mansion_04                      :[DTS0] Luxury Mansion
+STR_OBJ_mansion_05                      :[DTS0] Luxury Mansion
