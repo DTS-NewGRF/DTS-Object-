@@ -877,7 +877,6 @@ switch(FEAT_OBJECTS, SELF, sw_military31, view) {
 
 
 
-
 spritelayout set_military32_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
