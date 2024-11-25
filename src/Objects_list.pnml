@@ -88,3 +88,6 @@
 
 // Resident
 #include "Objects/Building/Resident/resident.pnml"
+
+// Mansion
+#include "Objects/Building/Mansion/Mansion.pnml"
