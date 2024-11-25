@@ -1070,3 +1070,71 @@ switch(FEAT_OBJECTS, SELF, sw_military39, view) {
     1: set_military39_0;
     set_military39_0;
 }
+
+
+
+
+
+spritelayout set_military40_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military40(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_military40, view) {
+    1: set_military40_0;
+    set_military40_0;
+}
+
+
+
+spritelayout set_military41_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military41(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_military41, view) {
+    1: set_military41_0;
+    set_military41_0;
+}
+
+
+
+spritelayout set_military42_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_military42(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_military42, view) {
+    1: set_military42_0;
+    set_military42_0;
+}
