@@ -3,15 +3,12 @@ switch
 --------------------------------------------------------------------*/
 
 
-
-
-
-spritelayout set_landmark01_0 {
+spritelayout set_mansion01_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark01(0);
+        sprite: set_mansion01(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -21,22 +18,19 @@ spritelayout set_landmark01_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark01, view) {
-    1: set_landmark01_0;
-    set_landmark01_0;
+switch(FEAT_OBJECTS, SELF, sw_mansion01, view) {
+    1: set_mansion01_0;
+    set_mansion01_0;
 }
 
 
 
-
-
-
-spritelayout set_landmark02_0 {
+spritelayout set_mansion02_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark02(0);
+        sprite: set_mansion02(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -46,24 +40,21 @@ spritelayout set_landmark02_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark02, view) {
-    1: set_landmark02_0;
-    set_landmark02_0;
+switch(FEAT_OBJECTS, SELF, sw_mansion02, view) {
+    1: set_mansion02_0;
+    set_mansion02_0;
 }
 
 
 
 
 
-
-
-
-spritelayout set_landmark03_0 {
+spritelayout set_mansion03_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark03(0);
+        sprite: set_mansion03(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -73,19 +64,22 @@ spritelayout set_landmark03_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark03, view) {
-    1: set_landmark03_0;
-    set_landmark03_0;
+switch(FEAT_OBJECTS, SELF, sw_mansion03, view) {
+    1: set_mansion03_0;
+    set_mansion03_0;
 }
 
 
 
-spritelayout set_landmark04_0 {
+
+
+
+spritelayout set_mansion04_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark04(0);
+        sprite: set_mansion04(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -95,21 +89,22 @@ spritelayout set_landmark04_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark04, view) {
-    1: set_landmark04_0;
-    set_landmark04_0;
+switch(FEAT_OBJECTS, SELF, sw_mansion04, view) {
+    1: set_mansion04_0;
+    set_mansion04_0;
 }
 
 
 
 
 
-spritelayout set_landmark05_0 {
+
+spritelayout set_mansion05_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark05(0);
+        sprite: set_mansion05(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -119,7 +114,8 @@ spritelayout set_landmark05_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark05, view) {
-    1: set_landmark05_0;
-    set_landmark05_0;
+switch(FEAT_OBJECTS, SELF, sw_mansion05, view) {
+    1: set_mansion05_0;
+    set_mansion05_0;
 }
+
