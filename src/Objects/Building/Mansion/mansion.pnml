@@ -2,10 +2,10 @@
 오브젝트
 --------------------------------------------------------------------*/
 // Graphics
-#include "landmark_graphic.pnml"
+#include "mansion_graphic.pnml"
 
 // Switch
-#include "landmark_switch.pnml"
+#include "mansion_switch.pnml"
 
 /*--------------------------------------------------------------------
 오브젝트
@@ -14,11 +14,11 @@
 
 
 
-item(FEAT_OBJECTS, landmark01, 4301) {
+item(FEAT_OBJECTS, mansion01, 4701) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_01);
+        classname:              string(STR_OBJ_mansion);
+        name:                   string(STR_OBJ_mansion_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -30,18 +30,18 @@ item(FEAT_OBJECTS, landmark01, 4301) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark01;
+        default: sw_mansion01;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-item(FEAT_OBJECTS, landmark02, 4302) {
+item(FEAT_OBJECTS, mansion02, 4702) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_02);
+        classname:              string(STR_OBJ_mansion);
+        name:                   string(STR_OBJ_mansion_02);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -53,18 +53,18 @@ item(FEAT_OBJECTS, landmark02, 4302) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark02;
+        default: sw_mansion02;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-item(FEAT_OBJECTS, landmark03, 4303) {
+item(FEAT_OBJECTS, mansion03, 4703) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_03);
+        classname:              string(STR_OBJ_mansion);
+        name:                   string(STR_OBJ_mansion_03);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -76,7 +76,7 @@ item(FEAT_OBJECTS, landmark03, 4303) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark03;
+        default: sw_mansion03;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -84,45 +84,48 @@ item(FEAT_OBJECTS, landmark03, 4303) {
 
 
 
-item(FEAT_OBJECTS, landmark04, 4304) {
+
+item(FEAT_OBJECTS, mansion04, 4704) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_04);
+        classname:              string(STR_OBJ_mansion);
+        name:                   string(STR_OBJ_mansion_04);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_landmark04;
+        default: sw_mansion04;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
-item(FEAT_OBJECTS, landmark05, 4305) {
+
+
+item(FEAT_OBJECTS, mansion05, 4705) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_05);
+        classname:              string(STR_OBJ_mansion);
+        name:                   string(STR_OBJ_mansion_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_landmark05;
+        default: sw_mansion05;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
