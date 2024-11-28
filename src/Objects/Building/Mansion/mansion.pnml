@@ -129,4 +129,3 @@ item(FEAT_OBJECTS, mansion05, 4705) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
-
