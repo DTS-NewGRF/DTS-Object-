@@ -154,6 +154,9 @@ STR_OBJ_Flag_DTS_084                                   :[DTS0] 평화생명관�
 STR_OBJ_Flag_DTS_085                                   :[DTS0] 바다열차 
 STR_OBJ_Flag_DTS_086                                   :[DTS0] 레이디버드관광열차 
 STR_OBJ_Flag_DTS_087                                   :[DTS0] 대구FC
+STR_OBJ_Flag_DTS_092                                   :[DTS0] DTS Object 1.6 (24.11.28)
+STR_OBJ_Flag_DTS_093                                   :[DTS0] HYEL 표지판
+STR_OBJ_Flag_DTS_094                                   :[DTS0] DTX 표지판
 STR_OBJ_Pavement                                       :[DTS0] 보도블럭
 STR_OBJ_Fountain                                       :[DTS0] 분수대
 STR_OBJ_Garden									       :[DTS0] 정원
