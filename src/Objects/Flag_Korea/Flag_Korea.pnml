@@ -2138,7 +2138,7 @@ item(FEAT_OBJECTS, DTS_Flag_DTS_092, 2092) {
     property {
         class:                  "DtLA";
         classname:              string(STR_OBJ_Flag);
-        name:                   string(STR_OBJ_Flag_DTS_062);
+        name:                   string(STR_OBJ_Flag_DTS_092);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -2163,7 +2163,7 @@ item(FEAT_OBJECTS, DTS_Flag_DTS_093, 2093) {
     property {
         class:                  "DtLA";
         classname:              string(STR_OBJ_Flag);
-        name:                   string(STR_OBJ_Flag_DTS_063);
+        name:                   string(STR_OBJ_Flag_DTS_093);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -2190,7 +2190,7 @@ item(FEAT_OBJECTS, DTS_Flag_DTS_094, 2094) {
     property {
         class:                  "DtLA";
         classname:              string(STR_OBJ_Flag);
-        name:                   string(STR_OBJ_Flag_DTS_064);
+        name:                   string(STR_OBJ_Flag_DTS_094);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
