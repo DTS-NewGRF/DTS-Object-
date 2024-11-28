@@ -421,6 +421,8 @@ STR_OBJ_military_20  							   :[DTS0] Pegasus Air Fighter
 STR_OBJ_military_21  							   :[DTS0] Titan Gunship 
 STR_OBJ_military_22  							   :[DTS0] Asphalt
 STR_OBJ_military_23  							   :[DTS0] Battle Robot
+STR_OBJ_military_24  							   :[DTS0] Tie Fighter 
+STR_OBJ_military_25  							   :[DTS0] AT-AT 
 STR_OBJ_inde                         :[DTS0] Independence Activist Memorial Signboard
 STR_OBJ_inde_01                      :[DTS0] Ahn Jung-geun  
 STR_OBJ_inde_02                      :[DTS0] Yun Bonggil
