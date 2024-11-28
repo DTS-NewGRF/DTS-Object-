@@ -976,7 +976,7 @@ item(FEAT_OBJECTS, military40, 6940) {
     property {
         class:                  "DTML";
         classname:              string(STR_OBJ_military);
-        name:                   string(STR_OBJ_military_23);
+        name:                   string(STR_OBJ_military_24);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -1000,7 +1000,7 @@ item(FEAT_OBJECTS, military41, 6941) {
     property {
         class:                  "DTML";
         classname:              string(STR_OBJ_military);
-        name:                   string(STR_OBJ_military_23);
+        name:                   string(STR_OBJ_military_25);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -1024,7 +1024,7 @@ item(FEAT_OBJECTS, military42, 6942) {
     property {
         class:                  "DTML";
         classname:              string(STR_OBJ_military);
-        name:                   string(STR_OBJ_military_23);
+        name:                   string(STR_OBJ_military_25);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
