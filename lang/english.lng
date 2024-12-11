@@ -157,6 +157,8 @@ STR_OBJ_Flag_DTS_087                                   :[DTS0] Daegu FC
 STR_OBJ_Flag_DTS_092                                   :[DTS0] DTS Object 1.6 (24.11.28)
 STR_OBJ_Flag_DTS_093                                   :[DTS0] HYEL Signboard
 STR_OBJ_Flag_DTS_094                                   :[DTS0] DTX Signboard
+STR_OBJ_Flag_DTS_095                                   :[DTS0] DTX Track Set Signboard
+STR_OBJ_Flag_DTS_096                                   :[DTS0] DTX Track Set Signboard
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
