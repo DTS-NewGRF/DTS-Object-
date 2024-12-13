@@ -1571,3 +1571,4 @@ alternative_sprites(set_warehouse767, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/O
     [0,     0,    64,    87,    -15,  -78]
 }
 
+
