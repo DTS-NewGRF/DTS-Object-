@@ -2,23 +2,20 @@
 오브젝트
 --------------------------------------------------------------------*/
 // Graphics
-#include "landmark_graphic.pnml"
+#include "boat_graphic.pnml"
 
 // Switch
-#include "landmark_switch.pnml"
+#include "boat_switch.pnml"
 
 /*--------------------------------------------------------------------
 오브젝트
 --------------------------------------------------------------------*/
 
-
-
-
-item(FEAT_OBJECTS, landmark01, 4301) {
+item(FEAT_OBJECTS, boat01, 3901) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_01);
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -30,18 +27,18 @@ item(FEAT_OBJECTS, landmark01, 4301) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark01;
+        default: sw_boat01;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-item(FEAT_OBJECTS, landmark02, 4302) {
+item(FEAT_OBJECTS, boat02, 3902) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_02);
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_02);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -53,18 +50,19 @@ item(FEAT_OBJECTS, landmark02, 4302) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark02;
+        default: sw_boat02;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-item(FEAT_OBJECTS, landmark03, 4303) {
+
+item(FEAT_OBJECTS, boat03, 3903) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_03);
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_03);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -76,7 +74,7 @@ item(FEAT_OBJECTS, landmark03, 4303) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark03;
+        default: sw_boat03;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -84,46 +82,72 @@ item(FEAT_OBJECTS, landmark03, 4303) {
 
 
 
-item(FEAT_OBJECTS, landmark04, 4304) {
+item(FEAT_OBJECTS, boat04, 3904) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_04);
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_04);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_landmark04;
+        default: sw_boat04;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
-item(FEAT_OBJECTS, landmark05, 4305) {
+
+
+
+item(FEAT_OBJECTS, boat05, 3905) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_05);
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_05);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_landmark05;
+        default: sw_boat05;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
+
+
+
+item(FEAT_OBJECTS, boat06, 3906) {
+    property {
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_06);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_boat06;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
