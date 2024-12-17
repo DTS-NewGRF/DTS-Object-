@@ -3,15 +3,12 @@ switch
 --------------------------------------------------------------------*/
 
 
-
-
-
-spritelayout set_landmark01_0 {
+spritelayout set_boat01_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark01(0);
+        sprite: set_boat01(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -21,22 +18,20 @@ spritelayout set_landmark01_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark01, view) {
-    1: set_landmark01_0;
-    set_landmark01_0;
+switch(FEAT_OBJECTS, SELF, sw_boat01, view) {
+    1: set_boat01_0;
+    set_boat01_0;
 }
 
 
 
 
-
-
-spritelayout set_landmark02_0 {
+spritelayout set_boat02_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark02(0);
+        sprite: set_boat02(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -46,24 +41,21 @@ spritelayout set_landmark02_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark02, view) {
-    1: set_landmark02_0;
-    set_landmark02_0;
+switch(FEAT_OBJECTS, SELF, sw_boat02, view) {
+    1: set_boat02_0;
+    set_boat02_0;
 }
 
 
 
 
 
-
-
-
-spritelayout set_landmark03_0 {
+spritelayout set_boat03_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark03(0);
+        sprite: set_boat03(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -73,19 +65,21 @@ spritelayout set_landmark03_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark03, view) {
-    1: set_landmark03_0;
-    set_landmark03_0;
+switch(FEAT_OBJECTS, SELF, sw_boat03, view) {
+    1: set_boat03_0;
+    set_boat03_0;
 }
 
 
 
-spritelayout set_landmark04_0 {
+
+
+spritelayout set_boat04_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark04(0);
+        sprite: set_boat04(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -95,21 +89,21 @@ spritelayout set_landmark04_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark04, view) {
-    1: set_landmark04_0;
-    set_landmark04_0;
+switch(FEAT_OBJECTS, SELF, sw_boat04, view) {
+    1: set_boat04_0;
+    set_boat04_0;
 }
 
 
 
 
 
-spritelayout set_landmark05_0 {
+spritelayout set_boat05_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark05(0);
+        sprite: set_boat05(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -119,7 +113,31 @@ spritelayout set_landmark05_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark05, view) {
-    1: set_landmark05_0;
-    set_landmark05_0;
+switch(FEAT_OBJECTS, SELF, sw_boat05, view) {
+    1: set_boat05_0;
+    set_boat05_0;
+}
+
+
+
+
+
+spritelayout set_boat06_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_boat06(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_boat06, view) {
+    1: set_boat06_0;
+    set_boat06_0;
 }
