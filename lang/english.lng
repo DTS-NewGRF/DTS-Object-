@@ -159,6 +159,9 @@ STR_OBJ_Flag_DTS_093                                   :[DTS0] HYEL Signboard
 STR_OBJ_Flag_DTS_094                                   :[DTS0] DTX Signboard
 STR_OBJ_Flag_DTS_095                                   :[DTS0] DTX Track Set Signboard
 STR_OBJ_Flag_DTS_096                                   :[DTS0] DTX Track Set Signboard
+STR_OBJ_Flag_DTS_097                                   :[DTS0] KTX Onnuri Signboard
+STR_OBJ_Flag_DTS_098                                   :[DTS0] KTX Chowol Signboard
+STR_OBJ_Flag_DTS_099                                   :[DTS0] ITX CheongCheon Signboard
 STR_OBJ_Pavement                                       :[DTSO] Pavement
 STR_OBJ_Fountain                                       :[DTSO] Fountain
 STR_OBJ_Garden									       :[DTS0] Garden
