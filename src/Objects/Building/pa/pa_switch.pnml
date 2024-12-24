@@ -2710,3 +2710,26 @@ switch(FEAT_OBJECTS, SELF, sw_pa118, view) {
     1: set_pa118_0;
     set_pa118_0;
 }
+
+
+
+
+spritelayout set_pa119_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa119(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa119, view) {
+    1: set_pa119_0;
+    set_pa119_0;
+}
