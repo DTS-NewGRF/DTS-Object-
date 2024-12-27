@@ -1779,3 +1779,14 @@ spriteset(set_Garden184, "src/Objects/Garden/Garden7.png"){
 alternative_sprites(set_Garden184, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden184.png"){
     [0,     0,    64,    124,    -15,  -114]
 }
+
+
+
+
+spriteset(set_Garden185, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_Garden185, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden185.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
