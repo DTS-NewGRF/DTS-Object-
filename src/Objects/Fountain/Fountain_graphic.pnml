@@ -8,3 +8,101 @@ spriteset(set_Fountain, "src/Objects/Fountain/Fountain.png"){
 alternative_sprites(set_Fountain, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Fountain/Fountain_32bpp.png") {
     [0,     0,    64,    54,    -15,  -45]
 }
+
+
+spriteset(set_Fountain2, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden177.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+spriteset(set_Fountain3, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden178.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_Fountain4, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain4, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden179.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+
+spriteset(set_Fountain5, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain5, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden180.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_Fountain6, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain6, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden181.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_Fountain7, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain7, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden182.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_Fountain8, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain8, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden182.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_Fountain9, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain9, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden183.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_Fountain10, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden184.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
