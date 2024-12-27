@@ -106,3 +106,13 @@ spriteset(set_Fountain10, "src/Objects/Fountain/Fountain.png"){
 alternative_sprites(set_Fountain10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden184.png"){
     [0,     0,    64,    124,    -15,  -114]
 }
+
+
+
+spriteset(set_Fountain11, "src/Objects/Fountain/Fountain.png"){
+    [0,     0,    64,    54,    -15,  -45]
+}
+
+alternative_sprites(set_Fountain11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Garden/Garden185.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
