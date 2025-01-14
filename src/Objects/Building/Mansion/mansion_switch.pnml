@@ -119,3 +119,50 @@ switch(FEAT_OBJECTS, SELF, sw_mansion05, view) {
     set_mansion05_0;
 }
 
+
+
+
+spritelayout set_mansion06_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_mansion06(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_mansion06, view) {
+    1: set_mansion06_0;
+    set_mansion06_0;
+}
+
+
+
+
+
+spritelayout set_mansion07_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_mansion07(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_mansion07, view) {
+    1: set_mansion07_0;
+    set_mansion07_0;
+}
+
