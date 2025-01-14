@@ -51,3 +51,23 @@ spriteset(set_mansion05, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_mansion05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Mansion/Mansion05.png") {
     [0,     0,    133,    112,    -50,  -99]
 }
+
+
+
+spriteset(set_mansion06, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_mansion06, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Mansion/Mansion06.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+spriteset(set_mansion07, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_mansion07, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Mansion/Mansion07.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
