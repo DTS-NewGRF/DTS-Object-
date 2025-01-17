@@ -138,7 +138,7 @@ item(FEAT_OBJECTS, mansion06, 4706) {
     property {
         class:                  "DTON";
         classname:              string(STR_OBJ_mansion);
-        name:                   string(STR_OBJ_mansion_05);
+        name:                   string(STR_OBJ_mansion_06);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -164,7 +164,7 @@ item(FEAT_OBJECTS, mansion07, 4707) {
     property {
         class:                  "DTON";
         classname:              string(STR_OBJ_mansion);
-        name:                   string(STR_OBJ_mansion_05);
+        name:                   string(STR_OBJ_mansion_07);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -190,7 +190,7 @@ item(FEAT_OBJECTS, mansion08, 4708) {
     property {
         class:                  "DTON";
         classname:              string(STR_OBJ_mansion);
-        name:                   string(STR_OBJ_mansion_05);
+        name:                   string(STR_OBJ_mansion_08);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
