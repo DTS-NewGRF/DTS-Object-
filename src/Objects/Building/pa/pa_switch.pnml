@@ -5770,3 +5770,75 @@ switch(FEAT_OBJECTS, SELF, sw_pa248, view) {
 }
 
 
+
+
+
+spritelayout set_pa249_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa249(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa249, view) {
+    1: set_pa249_0;
+    set_pa249_0;
+}
+
+
+
+
+
+
+spritelayout set_pa250_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa250(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa250, view) {
+    1: set_pa250_0;
+    set_pa250_0;
+}
+
+
+
+
+
+spritelayout set_pa251_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa251(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa251, view) {
+    1: set_pa251_0;
+    set_pa251_0;
+}
+
