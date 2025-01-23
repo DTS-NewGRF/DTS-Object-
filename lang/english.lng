@@ -353,6 +353,12 @@ STR_OBJ_MResort_01								   :[DTS0] Post Modern Style Resort01
 STR_OBJ_Museum   								   :[DTS0] DTS Train Hall
 STR_OBJ_Museum_01  								   :[DTS0] DTS Train Hall
 STR_OBJ_Museum_02  								   :[DTS0] Korail 4th VVVF 
+STR_OBJ_Museum47  								   :[DTS0] HYEL100
+STR_OBJ_Museum48  								   :[DTS0] Glory600
+STR_OBJ_Museum49  								   :[DTS0] Glory430
+STR_OBJ_Museum50  								   :[DTS0] TTX
+STR_OBJ_Museum51  								   :[DTS0] Woojin H2 Train
+STR_OBJ_Museum52  								   :[DTS0] AUTS 
 STR_OBJ_HSpring   								   :[DTS0] Hot Spring Resort
 STR_OBJ_HSpring_01  							   :[DTS0] Hot Spring Resort Signboard
 STR_OBJ_HSpring_02  							   :[DTS0] Hot Spring Resort Facility
