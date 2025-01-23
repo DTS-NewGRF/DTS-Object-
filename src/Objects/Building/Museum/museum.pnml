@@ -2,10 +2,10 @@
 오브젝트
 --------------------------------------------------------------------*/
 // Graphics
-#include "landmark_graphic.pnml"
+#include "museum_graphic.pnml"
 
 // Switch
-#include "landmark_switch.pnml"
+#include "museum_switch.pnml"
 
 /*--------------------------------------------------------------------
 오브젝트
@@ -14,11 +14,11 @@
 
 
 
-item(FEAT_OBJECTS, landmark01, 4301) {
+item(FEAT_OBJECTS, museum47, 8369) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_01);
+        classname:              string(STR_OBJ_museum);
+        name:                   string(STR_OBJ_museum47);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -30,18 +30,19 @@ item(FEAT_OBJECTS, landmark01, 4301) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark01;
+        default: sw_museum47;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-item(FEAT_OBJECTS, landmark02, 4302) {
+
+item(FEAT_OBJECTS, museum48, 8370) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_02);
+        classname:              string(STR_OBJ_museum);
+        name:                   string(STR_OBJ_museum48);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -53,18 +54,19 @@ item(FEAT_OBJECTS, landmark02, 4302) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark02;
+        default: sw_museum48;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-item(FEAT_OBJECTS, landmark03, 4303) {
+
+item(FEAT_OBJECTS, museum49, 8371) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_03);
+        classname:              string(STR_OBJ_museum);
+        name:                   string(STR_OBJ_museum49);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -76,54 +78,78 @@ item(FEAT_OBJECTS, landmark03, 4303) {
         num_views:              1;
     }
     graphics {
-        default: sw_landmark03;
+        default: sw_museum49;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
-
-item(FEAT_OBJECTS, landmark04, 4304) {
+item(FEAT_OBJECTS, museum50, 8372) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_04);
+        classname:              string(STR_OBJ_museum);
+        name:                   string(STR_OBJ_museum50);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_landmark04;
+        default: sw_museum50;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
-item(FEAT_OBJECTS, landmark05, 4305) {
+
+item(FEAT_OBJECTS, museum51, 8373) {
     property {
         class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_05);
+        classname:              string(STR_OBJ_museum);
+        name:                   string(STR_OBJ_museum51);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ONLY_INGAME);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
         height:                 1;
         num_views:              1;
     }
     graphics {
-        default: sw_landmark05;
+        default: sw_museum51;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
+
+item(FEAT_OBJECTS, museum52, 8374) {
+    property {
+        class:                  "DTLM";
+        classname:              string(STR_OBJ_museum);
+        name:                   string(STR_OBJ_museum52);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_museum52;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
 
