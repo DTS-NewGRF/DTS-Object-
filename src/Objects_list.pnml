@@ -94,3 +94,6 @@
 
 // Boat
 #include "Objects/Building/boat/boat.pnml"
+
+// Museum
+#include "Objects/Building/museum/museum.pnml"
