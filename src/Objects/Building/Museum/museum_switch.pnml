@@ -6,12 +6,12 @@ switch
 
 
 
-spritelayout set_landmark01_0 {
+spritelayout set_museum47_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark01(0);
+        sprite: set_museum47(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -21,22 +21,19 @@ spritelayout set_landmark01_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark01, view) {
-    1: set_landmark01_0;
-    set_landmark01_0;
+switch(FEAT_OBJECTS, SELF, sw_museum47, view) {
+    1: set_museum47_0;
+    set_museum47_0;
 }
 
 
 
-
-
-
-spritelayout set_landmark02_0 {
+spritelayout set_museum48_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark02(0);
+        sprite: set_museum48(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -46,24 +43,20 @@ spritelayout set_landmark02_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark02, view) {
-    1: set_landmark02_0;
-    set_landmark02_0;
+switch(FEAT_OBJECTS, SELF, sw_museum48, view) {
+    1: set_museum48_0;
+    set_museum48_0;
 }
 
 
 
 
-
-
-
-
-spritelayout set_landmark03_0 {
+spritelayout set_museum49_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark03(0);
+        sprite: set_museum49(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -73,19 +66,20 @@ spritelayout set_landmark03_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark03, view) {
-    1: set_landmark03_0;
-    set_landmark03_0;
+switch(FEAT_OBJECTS, SELF, sw_museum49, view) {
+    1: set_museum49_0;
+    set_museum49_0;
 }
 
 
 
-spritelayout set_landmark04_0 {
+
+spritelayout set_museum50_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark04(0);
+        sprite: set_museum50(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -95,21 +89,19 @@ spritelayout set_landmark04_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark04, view) {
-    1: set_landmark04_0;
-    set_landmark04_0;
+switch(FEAT_OBJECTS, SELF, sw_museum50, view) {
+    1: set_museum50_0;
+    set_museum50_0;
 }
 
 
 
-
-
-spritelayout set_landmark05_0 {
+spritelayout set_museum51_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark05(0);
+        sprite: set_museum51(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -119,7 +111,34 @@ spritelayout set_landmark05_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark05, view) {
-    1: set_landmark05_0;
-    set_landmark05_0;
+switch(FEAT_OBJECTS, SELF, sw_museum51, view) {
+    1: set_museum51_0;
+    set_museum51_0;
 }
+
+
+
+spritelayout set_museum52_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_museum52(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_museum52, view) {
+    1: set_museum52_0;
+    set_museum52_0;
+}
+
+
+
+
+
