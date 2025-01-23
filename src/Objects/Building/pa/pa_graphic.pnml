@@ -2795,3 +2795,37 @@ spriteset(set_pa251, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_pa251, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb339.png") {
     [0,     0,    133,    112,    -50,  -99]
 }
+
+
+
+
+spriteset(set_pa252, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa252, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb340.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+
+spriteset(set_pa253, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa253, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb341.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+
+
+spriteset(set_pa254, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa254, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb342.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
