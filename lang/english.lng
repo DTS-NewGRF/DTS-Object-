@@ -583,7 +583,7 @@ STR_OBJ_landmark_03                     :[DTS0] Dodamsambong 03
 STR_OBJ_landmark_04                     :[DTS0] Namsan Seoul Tower
 STR_OBJ_landmark_05                     :[DTS0] Lotte World Tower
 STR_OBJ_pa                              :[DTS0] Pavillion Architecture
-STR_OBJ_farm                              :[DTS0] Vertical Farm
+STR_OBJ_farm                            :[DTS0] Vertical Farm
 STR_OBJ_mansion                         :[DTS0] Luxury Mansion 
 STR_OBJ_mansion_01                      :[DTS0] Luxury Mansion
 STR_OBJ_mansion_02                      :[DTS0] Luxury Mansion
@@ -602,3 +602,4 @@ STR_OBJ_boat_03                         :[DTS0] Luxury Boat 03
 STR_OBJ_boat_04                         :[DTS0] Luxury Boat 04
 STR_OBJ_boat_05                         :[DTS0] Luxury Boat 05
 STR_OBJ_boat_06                         :[DTS0] Luxury Boat 06
+STR_OBJ_alpha                           :[DTS0] Large Signboard
