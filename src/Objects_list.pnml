@@ -97,3 +97,7 @@
 
 // Museum
 #include "Objects/Building/museum/museum.pnml"
+
+// Alpahbet
+#include "Objects/Building/alpha/alpha.pnml"
+
