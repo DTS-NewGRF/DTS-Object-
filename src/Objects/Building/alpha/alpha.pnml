@@ -25,7 +25,7 @@ item(FEAT_OBJECTS, alpha01, 6801) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -48,7 +48,7 @@ item(FEAT_OBJECTS, alpha02, 6802) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -75,7 +75,7 @@ item(FEAT_OBJECTS, alpha03, 6803) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -102,7 +102,7 @@ item(FEAT_OBJECTS, alpha04, 6804) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -127,7 +127,7 @@ item(FEAT_OBJECTS, alpha05, 6805) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -154,7 +154,7 @@ item(FEAT_OBJECTS, alpha06, 6806) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -182,7 +182,7 @@ item(FEAT_OBJECTS, alpha07, 6807) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -209,7 +209,7 @@ item(FEAT_OBJECTS, alpha08, 6808) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -236,7 +236,7 @@ item(FEAT_OBJECTS, alpha09, 6809) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -262,7 +262,7 @@ item(FEAT_OBJECTS, alpha10, 6810) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -286,7 +286,7 @@ item(FEAT_OBJECTS, alpha11, 6811) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -311,7 +311,7 @@ item(FEAT_OBJECTS, alpha12, 6812) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -336,7 +336,7 @@ item(FEAT_OBJECTS, alpha13, 6813) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -361,7 +361,7 @@ item(FEAT_OBJECTS, alpha14, 6814) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -386,7 +386,7 @@ item(FEAT_OBJECTS, alpha15, 6815) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -411,7 +411,7 @@ item(FEAT_OBJECTS, alpha16, 6816) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -435,7 +435,7 @@ item(FEAT_OBJECTS, alpha17, 6817) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -461,7 +461,7 @@ item(FEAT_OBJECTS, alpha18, 6818) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -486,7 +486,7 @@ item(FEAT_OBJECTS, alpha19, 6819) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -511,7 +511,7 @@ item(FEAT_OBJECTS, alpha20, 6820) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -536,7 +536,7 @@ item(FEAT_OBJECTS, alpha21, 6821) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -561,7 +561,7 @@ item(FEAT_OBJECTS, alpha22, 6822) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -586,7 +586,7 @@ item(FEAT_OBJECTS, alpha23, 6823) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -611,7 +611,7 @@ item(FEAT_OBJECTS, alpha24, 6824) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -636,7 +636,7 @@ item(FEAT_OBJECTS, alpha25, 6825) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -660,7 +660,7 @@ item(FEAT_OBJECTS, alpha26, 6826) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -684,7 +684,7 @@ item(FEAT_OBJECTS, alpha27, 6827) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -708,7 +708,7 @@ item(FEAT_OBJECTS, alpha28, 6828) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -732,7 +732,7 @@ item(FEAT_OBJECTS, alpha29, 6829) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -757,7 +757,7 @@ item(FEAT_OBJECTS, alpha30, 6830) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -782,7 +782,7 @@ item(FEAT_OBJECTS, alpha31, 6831) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -807,7 +807,7 @@ item(FEAT_OBJECTS, alpha32, 6832) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -832,7 +832,7 @@ item(FEAT_OBJECTS, alpha33, 6833) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -857,7 +857,7 @@ item(FEAT_OBJECTS, alpha34, 6834) {
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }

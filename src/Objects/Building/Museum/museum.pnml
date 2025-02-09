@@ -16,16 +16,16 @@
 
 item(FEAT_OBJECTS, museum47, 8369) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_museum);
-        name:                   string(STR_OBJ_museum47);
+        class:                  "DTWE";
+        classname:              string(STR_OBJ_Museum_01);
+        name:                   string(STR_OBJ_Museum47);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -40,16 +40,16 @@ item(FEAT_OBJECTS, museum47, 8369) {
 
 item(FEAT_OBJECTS, museum48, 8370) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_museum);
-        name:                   string(STR_OBJ_museum48);
+        class:                  "DTWE";
+        classname:              string(STR_OBJ_Museum_01);
+        name:                   string(STR_OBJ_Museum48);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -64,16 +64,16 @@ item(FEAT_OBJECTS, museum48, 8370) {
 
 item(FEAT_OBJECTS, museum49, 8371) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_museum);
-        name:                   string(STR_OBJ_museum49);
+        class:                  "DTWE";
+        classname:              string(STR_OBJ_Museum_01);
+        name:                   string(STR_OBJ_Museum49);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -87,16 +87,16 @@ item(FEAT_OBJECTS, museum49, 8371) {
 
 item(FEAT_OBJECTS, museum50, 8372) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_museum);
-        name:                   string(STR_OBJ_museum50);
+        class:                  "DTWE";
+        classname:              string(STR_OBJ_Museum_01);
+        name:                   string(STR_OBJ_Museum50);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -110,16 +110,16 @@ item(FEAT_OBJECTS, museum50, 8372) {
 
 item(FEAT_OBJECTS, museum51, 8373) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_museum);
-        name:                   string(STR_OBJ_museum51);
+        class:                  "DTWE";
+        classname:              string(STR_OBJ_Museum_01);
+        name:                   string(STR_OBJ_Museum51);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
@@ -132,16 +132,16 @@ item(FEAT_OBJECTS, museum51, 8373) {
 
 item(FEAT_OBJECTS, museum52, 8374) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_museum);
-        name:                   string(STR_OBJ_museum52);
+        class:                  "DTWE";
+        classname:              string(STR_OBJ_Museum_01);
+        name:                   string(STR_OBJ_Museum52);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
         num_views:              1;
     }
