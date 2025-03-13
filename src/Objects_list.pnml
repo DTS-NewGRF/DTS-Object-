@@ -83,6 +83,9 @@
 // Pavillion
 #include "Objects/Building/pa/pa.pnml"
 
+// Pavillion2
+#include "Objects/Building/pa/pa2.pnml"
+
 // Farm
 #include "Objects/Building/farm/farm.pnml"
 
