@@ -1,4613 +1,13 @@
 /*--------------------------------------------------------------------
 switch
 --------------------------------------------------------------------*/
-spritelayout set_Garden01_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden01(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden01_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden01(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden01, view) {
-    1: set_Garden01_0;
-    set_Garden01_1;
-}
-
-spritelayout set_Garden02_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden02(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden02_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden02(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden02, view) {
-    1: set_Garden02_0;
-    set_Garden02_1;
-}
-
-
-spritelayout set_Garden03_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden03(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden03_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden03(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden03, view) {
-    1: set_Garden03_0;
-    set_Garden03_1;
-}
-
-spritelayout set_Garden04_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden04(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden04_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden04(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden04, view) {
-    1: set_Garden04_0;
-    set_Garden04_1;
-}
-
-
-spritelayout set_Garden05_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden05(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden05_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden05(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden05, view) {
-    1: set_Garden05_0;
-    set_Garden05_1;
-}
-
-
-spritelayout set_Garden06_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden06(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden06_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden06(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden06, view) {
-    1: set_Garden06_0;
-    set_Garden06_1;
-}
-
-
-spritelayout set_Garden07_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden07(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden07_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden07(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden07, view) {
-    1: set_Garden07_0;
-    set_Garden07_1;
-}
-
-
-spritelayout set_Garden08_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden08(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden08_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden08(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden08, view) {
-    1: set_Garden08_0;
-    set_Garden08_1;
-}
-
-
-spritelayout set_Garden09_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden09(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden09_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden09(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden09, view) {
-    1: set_Garden09_0;
-    set_Garden09_1;
-}
-
-
-spritelayout set_Garden10_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden10(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden10_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden10(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden10, view) {
-    1: set_Garden10_0;
-    set_Garden10_1;
-}
-
-
-spritelayout set_Garden11_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden11(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden11_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden11(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden11, view) {
-    1: set_Garden11_0;
-    set_Garden11_1;
-}
-
-
-spritelayout set_Garden12_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden12(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden12_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden12(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden12, view) {
-    1: set_Garden12_0;
-    set_Garden12_1;
-}
-
-
-spritelayout set_Garden13_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden13(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden13_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden13(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden13, view) {
-    1: set_Garden13_0;
-    set_Garden13_1;
-}
-
-
-spritelayout set_Garden14_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden14(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden14_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden14(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden14, view) {
-    1: set_Garden14_0;
-    set_Garden14_1;
-}
-
-
-spritelayout set_Garden15_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden15(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden15_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden15(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden15, view) {
-    1: set_Garden15_0;
-    set_Garden15_1;
-}
-
-
-spritelayout set_Garden16_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden16(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden16_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden16(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden16, view) {
-    1: set_Garden16_0;
-    set_Garden16_1;
-}
-
-
-spritelayout set_Garden17_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden17(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden17_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden17(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden17, view) {
-    1: set_Garden17_0;
-    set_Garden17_1;
-}
-
-
-spritelayout set_Garden18_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden18(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden18_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden18(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden18, view) {
-    1: set_Garden18_0;
-    set_Garden18_1;
-}
-
-
-spritelayout set_Garden19_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden19(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden19_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden19(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden19, view) {
-    1: set_Garden19_0;
-    set_Garden19_1;
-}
-
-
-spritelayout set_Garden20_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden20(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden20_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden20(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden20, view) {
-    1: set_Garden20_0;
-    set_Garden20_1;
-}
-
-
-spritelayout set_Garden21_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden20(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden21_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden21(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden21, view) {
-    1: set_Garden21_0;
-    set_Garden21_1;
-}
-
-
-spritelayout set_Garden22_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden22(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden22_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden22(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden22, view) {
-    1: set_Garden22_0;
-    set_Garden22_1;
-}
-
-
-spritelayout set_Garden23_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden23(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden23_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden23(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden23, view) {
-    1: set_Garden23_0;
-    set_Garden23_1;
-}
-
-
-spritelayout set_Garden24_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden24(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden24_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden24(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden24, view) {
-    1: set_Garden24_0;
-    set_Garden24_1;
-}
-
-
-spritelayout set_Garden25_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden25(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden25_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden25(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden25, view) {
-    1: set_Garden25_0;
-    set_Garden25_1;
-}
-
-
-spritelayout set_Garden26_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden26(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden26_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden26(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden26, view) {
-    1: set_Garden26_0;
-    set_Garden26_1;
-}
-
-
-spritelayout set_Garden27_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden27(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden27_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden27(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden27, view) {
-    1: set_Garden27_0;
-    set_Garden27_1;
-}
-
-
-spritelayout set_Garden28_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden28(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden28_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden28(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden28, view) {
-    1: set_Garden28_0;
-    set_Garden28_1;
-}
-
-
-
-spritelayout set_Garden29_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden29(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden29_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden29(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden29, view) {
-    1: set_Garden29_0;
-    set_Garden29_1;
-}
-
-
-spritelayout set_Garden30_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden30(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden30_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden30(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden30, view) {
-    1: set_Garden30_0;
-    set_Garden30_1;
-}
-
-
-spritelayout set_Garden31_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden31(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden31, view) {
-    1: set_Garden31_0;
-    set_Garden31_0;
-}
-
-
-spritelayout set_Garden32_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden32(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden32, view) {
-    1: set_Garden32_0;
-    set_Garden32_0;
-}
-
-
-spritelayout set_Garden33_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden33(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden33, view) {
-    1: set_Garden33_0;
-    set_Garden33_0;
-}
-
-
-spritelayout set_Garden34_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden34(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden34, view) {
-    1: set_Garden34_0;
-    set_Garden34_0;
-}
-
-
-spritelayout set_Garden35_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden35(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden35, view) {
-    1: set_Garden35_0;
-    set_Garden35_0;
-}
-
-
-spritelayout set_Garden36_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden36(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden36, view) {
-    1: set_Garden36_0;
-    set_Garden36_0;
-}
-
-spritelayout set_Garden37_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden37(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden37, view) {
-    1: set_Garden37_0;
-    set_Garden37_0;
-}
-
-
-spritelayout set_Garden38_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden38(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden38, view) {
-    1: set_Garden38_0;
-    set_Garden38_0;
-}
-
-
-spritelayout set_Garden39_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden39(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden39, view) {
-    1: set_Garden39_0;
-    set_Garden39_0;
-}
-
-
-spritelayout set_Garden40_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden40(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden40, view) {
-    1: set_Garden40_0;
-    set_Garden40_0;
-}
-
-
-spritelayout set_Garden41_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden41(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden41, view) {
-    1: set_Garden41_0;
-    set_Garden41_0;
-}
-
-
-spritelayout set_Garden54_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden54(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden54, view) {
-    1: set_Garden54_0;
-    set_Garden54_0;
-}
-
-
-spritelayout set_Garden55_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden55(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden55, view) {
-    1: set_Garden55_0;
-    set_Garden55_0;
-}
-
-
-spritelayout set_Garden56_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden56(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden56, view) {
-    1: set_Garden56_0;
-    set_Garden56_0;
-}
-
-
-spritelayout set_Garden57_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden57(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden57, view) {
-    1: set_Garden57_0;
-    set_Garden57_0;
-}
-
-
-spritelayout set_Garden58_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden58(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden58, view) {
-    1: set_Garden58_0;
-    set_Garden58_0;
-}
-
-
-
-spritelayout set_Garden68_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden68(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden68, view) {
-    1: set_Garden68_0;
-    set_Garden68_0;
-}
-
-
-
-spritelayout set_Garden69_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden69(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden69, view) {
-    1: set_Garden69_0;
-    set_Garden69_0;
-}
-
-
-
-spritelayout set_Garden70_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden70(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden70, view) {
-    1: set_Garden70_0;
-    set_Garden70_0;
-}
-
-
-spritelayout set_Garden71_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden71(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden71, view) {
-    1: set_Garden71_0;
-    set_Garden71_0;
-}
-
-
-
-spritelayout set_Garden72_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden72(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden72, view) {
-    1: set_Garden72_0;
-    set_Garden72_0;
-}
-
-
-
-spritelayout set_Garden73_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden73(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden73, view) {
-    1: set_Garden73_0;
-    set_Garden73_0;
-}
-
-
-spritelayout set_Garden74_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden74(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden74, view) {
-    1: set_Garden74_0;
-    set_Garden74_0;
-}
-
-
-spritelayout set_Garden75_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden75(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden75, view) {
-    1: set_Garden75_0;
-    set_Garden75_0;
-}
-
-
-spritelayout set_Garden76_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden76(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden76, view) {
-    1: set_Garden76_0;
-    set_Garden76_0;
-}
-
-
-spritelayout set_Garden77_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden77(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden77, view) {
-    1: set_Garden77_0;
-    set_Garden77_0;
-}
-
-
-spritelayout set_Garden78_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden78(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden78, view) {
-    1: set_Garden78_0;
-    set_Garden78_0;
-}
-
-
-
-spritelayout set_Garden79_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden79(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden79, view) {
-    1: set_Garden79_0;
-    set_Garden79_0;
-}
-
-
-
-spritelayout set_Garden80_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden80(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden80, view) {
-    1: set_Garden80_0;
-    set_Garden80_0;
-}
-
-
-spritelayout set_Garden81_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden81(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden81_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden81(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden81, view) {
-    1: set_Garden81_0;
-    set_Garden81_1;
-}
-
-
-spritelayout set_Garden82_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden82(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden82_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden82(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden82, view) {
-    1: set_Garden82_0;
-    set_Garden82_1;
-}
-
-
-
-spritelayout set_Garden83_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden83(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden83_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden83(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden83, view) {
-    1: set_Garden83_0;
-    set_Garden83_1;
-}
-
-
-
-spritelayout set_Garden84_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden84(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden84_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden84(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden84, view) {
-    1: set_Garden84_0;
-    set_Garden84_1;
-}
-
-
-
-
-spritelayout set_Garden85_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden85(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden85_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden85(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden85, view) {
-    1: set_Garden85_0;
-    set_Garden85_1;
-}
-
-
-
-spritelayout set_Garden86_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden86(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden86_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden86(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden86, view) {
-    1: set_Garden86_0;
-    set_Garden86_1;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden87_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden87(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden87_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden87(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden87, view) {
-    1: set_Garden87_0;
-    set_Garden87_1;
-}
-
-
-
-
-
-
-spritelayout set_Garden88_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden88(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden88_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden88(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden88, view) {
-    1: set_Garden88_0;
-    set_Garden88_1;
-}
-
-
-
-
-
-
-spritelayout set_Garden89_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden89(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden89_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden89(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden89, view) {
-    1: set_Garden89_0;
-    set_Garden89_1;
-}
-
-
-
-
-
-
-spritelayout set_Garden90_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden90(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden90, view) {
-    1: set_Garden90_0;
-    set_Garden90_0;
-}
-
-
-
-
-spritelayout set_Garden91_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden91(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden91, view) {
-    1: set_Garden91_0;
-    set_Garden91_0;
-}
-
-
-
-
-spritelayout set_Garden92_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden92(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden92, view) {
-    1: set_Garden92_0;
-    set_Garden92_0;
-}
-
-
-
-
-
-spritelayout set_Garden93_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden93(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden93, view) {
-    1: set_Garden93_0;
-    set_Garden93_0;
-}
-
-
-
-
-
-spritelayout set_Garden94_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden94(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden94, view) {
-    1: set_Garden94_0;
-    set_Garden94_0;
-}
-
-
-
-
-
-spritelayout set_Garden95_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden95(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden95, view) {
-    1: set_Garden95_0;
-    set_Garden95_0;
-}
-
-
-
-
-
-spritelayout set_Garden96_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden96(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden96, view) {
-    1: set_Garden96_0;
-    set_Garden96_0;
-}
-
-
-
-
-
-spritelayout set_Garden97_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden97(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden97, view) {
-    1: set_Garden97_0;
-    set_Garden97_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden98_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden98(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden98, view) {
-    1: set_Garden98_0;
-    set_Garden98_0;
-}
-
-
-
-
-
-spritelayout set_Garden99_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden99(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden99, view) {
-    1: set_Garden99_0;
-    set_Garden99_0;
-}
-
-
-
-
-
-spritelayout set_Garden100_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden100(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden100, view) {
-    1: set_Garden100_0;
-    set_Garden100_0;
-}
-
-
-
-spritelayout set_Garden101_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden101(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden101, view) {
-    1: set_Garden101_0;
-    set_Garden101_0;
-}
-
-
-
-
-spritelayout set_Garden102_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden102(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden102, view) {
-    1: set_Garden102_0;
-    set_Garden102_0;
-}
-
-
-
-spritelayout set_Garden103_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden103(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden103, view) {
-    1: set_Garden103_0;
-    set_Garden103_0;
-}
-
-
-
-
-spritelayout set_Garden104_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden104(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden104, view) {
-    1: set_Garden104_0;
-    set_Garden104_0;
-}
-
-
-
-
-spritelayout set_Garden105_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden105(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden105, view) {
-    1: set_Garden105_0;
-    set_Garden105_0;
-}
-
-
-
-
-spritelayout set_Garden106_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden106(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden106, view) {
-    1: set_Garden106_0;
-    set_Garden106_0;
-}
-
-
-
-spritelayout set_Garden107_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden107(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden107, view) {
-    1: set_Garden107_0;
-    set_Garden107_0;
-}
-
-
-
-
-spritelayout set_Garden108_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden108(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden108, view) {
-    1: set_Garden108_0;
-    set_Garden108_0;
-}
-
-
-
-
-spritelayout set_Garden109_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden109(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden109, view) {
-    1: set_Garden109_0;
-    set_Garden109_0;
-}
-
-
-
-
-spritelayout set_Garden110_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden110(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden110, view) {
-    1: set_Garden110_0;
-    set_Garden110_0;
-}
-
-
-
-
-spritelayout set_Garden111_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden111(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden111, view) {
-    1: set_Garden111_0;
-    set_Garden111_0;
-}
-
-
-
-
-
-spritelayout set_Garden112_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden112(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden112, view) {
-    1: set_Garden112_0;
-    set_Garden112_0;
-}
-
-
-
-spritelayout set_Garden113_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden113(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden113, view) {
-    1: set_Garden113_0;
-    set_Garden113_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden114_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden114(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden114, view) {
-    1: set_Garden114_0;
-    set_Garden114_0;
-}
-
-
-
-
-
-spritelayout set_Garden115_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden115(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden115, view) {
-    1: set_Garden115_0;
-    set_Garden115_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden116_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden116(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden116, view) {
-    1: set_Garden116_0;
-    set_Garden116_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden117_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden117(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden117, view) {
-    1: set_Garden117_0;
-    set_Garden117_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden118_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden118(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden118, view) {
-    1: set_Garden118_0;
-    set_Garden118_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden119_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden119(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden119, view) {
-    1: set_Garden119_0;
-    set_Garden119_0;
-}
-
-
-
-
-spritelayout set_Garden120_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden120(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden120_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden120(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden120, view) {
-    1: set_Garden120_0;
-    set_Garden120_1;
-}
-
-
-
-
-spritelayout set_Garden121_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden121(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden121_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden121(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden121, view) {
-    1: set_Garden121_0;
-    set_Garden121_1;
-}
-
-
-
-
-spritelayout set_Garden122_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden122(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden122_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden122(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden122, view) {
-    1: set_Garden122_0;
-    set_Garden122_1;
-}
-
-
-
-spritelayout set_Garden123_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden123(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden123_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden123(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden123, view) {
-    1: set_Garden123_0;
-    set_Garden123_1;
-}
-
-
-
-
-spritelayout set_Garden124_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden124(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden124_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden124(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden124, view) {
-    1: set_Garden124_0;
-    set_Garden124_1;
-}
-
-
-
-
-spritelayout set_Garden125_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden125(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden125_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden125(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden125, view) {
-    1: set_Garden125_0;
-    set_Garden125_1;
-}
-
-
-
-
-
-spritelayout set_Garden126_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden126(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden126_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden126(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden126, view) {
-    1: set_Garden126_0;
-    set_Garden126_1;
-}
-
-
-
-
-
-spritelayout set_Garden127_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden127(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden127_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden127(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden127, view) {
-    1: set_Garden127_0;
-    set_Garden127_1;
-}
-
-
-
-
-
-spritelayout set_Garden128_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden128(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden128_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden128(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden128, view) {
-    1: set_Garden128_0;
-    set_Garden128_1;
-}
-
-
-
-
-spritelayout set_Garden129_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden129(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden129_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden129(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden129, view) {
-    1: set_Garden129_0;
-    set_Garden129_1;
-}
-
-
-
-
-
-spritelayout set_Garden130_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden130(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden130_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden130(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden130, view) {
-    1: set_Garden130_0;
-    set_Garden130_1;
-}
-
-
-
-
-
-spritelayout set_Garden131_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden131(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden131_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden131(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden131, view) {
-    1: set_Garden131_0;
-    set_Garden131_1;
-}
-
-
-
-
-
-
-spritelayout set_Garden132_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden132(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-spritelayout set_Garden132_1 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden132(1);
-        xextent: 5;
-        yextent: 5;
-        zextent: 12;
-        xoffset: 10; // from NE edge
-        yoffset: 10; // from NW edge
-        zoffset: 0;
-    }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden132, view) {
-    1: set_Garden132_0;
-    set_Garden132_1;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden133_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden133(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden133, view) {
-    1: set_Garden133_0;
-    set_Garden133_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden134_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden134(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden134, view) {
-    1: set_Garden134_0;
-    set_Garden134_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden135_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden135(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden135, view) {
-    1: set_Garden135_0;
-    set_Garden135_0;
-}
-
-
-
-
-
-
-
-
-spritelayout set_Garden136_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden136(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden136, view) {
-    1: set_Garden136_0;
-    set_Garden136_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden137_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden137(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden137, view) {
-    1: set_Garden137_0;
-    set_Garden137_0;
-}
-
-
-
-
-
-spritelayout set_Garden138_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden138(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden138, view) {
-    1: set_Garden138_0;
-    set_Garden138_0;
-}
-
-
-
-
-
-spritelayout set_Garden139_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden139(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden139, view) {
-    1: set_Garden139_0;
-    set_Garden139_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden140_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden140(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden140, view) {
-    1: set_Garden140_0;
-    set_Garden140_0;
-}
-
-
-
-
-
-spritelayout set_Garden141_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden141(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden141, view) {
-    1: set_Garden141_0;
-    set_Garden141_0;
-}
-
-
-
-
-
-spritelayout set_Garden142_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden142(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden142, view) {
-    1: set_Garden142_0;
-    set_Garden142_0;
-}
-
-
-
-
-spritelayout set_Garden143_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden143(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden143, view) {
-    1: set_Garden143_0;
-    set_Garden143_0;
-}
-
-
-
-
-spritelayout set_Garden144_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden144(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden144, view) {
-    1: set_Garden144_0;
-    set_Garden144_0;
-}
-
-
-
-
-
-spritelayout set_Garden145_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden145(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden145, view) {
-    1: set_Garden145_0;
-    set_Garden145_0;
-}
-
-
-
-
-
-spritelayout set_Garden146_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden146(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden146, view) {
-    1: set_Garden146_0;
-    set_Garden146_0;
-}
-
-
-
-
-spritelayout set_Garden147_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden147(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden147, view) {
-    1: set_Garden147_0;
-    set_Garden147_0;
-}
-
-
-
-
-spritelayout set_Garden148_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden148(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden148, view) {
-    1: set_Garden148_0;
-    set_Garden148_0;
-}
-
-
-
-
-spritelayout set_Garden149_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden149(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden149, view) {
-    1: set_Garden149_0;
-    set_Garden149_0;
-}
-
-
-
-
-
-spritelayout set_Garden150_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden150(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden150, view) {
-    1: set_Garden150_0;
-    set_Garden150_0;
-}
-
-
-
-spritelayout set_Garden151_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden151(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden151, view) {
-    1: set_Garden151_0;
-    set_Garden151_0;
-}
-
-
-
-
-
-spritelayout set_Garden152_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden152(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden152, view) {
-    1: set_Garden152_0;
-    set_Garden152_0;
-}
-
-
-
-
-
-spritelayout set_Garden153_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden153(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden153, view) {
-    1: set_Garden153_0;
-    set_Garden153_0;
-}
-
-
-
-
-
-spritelayout set_Garden154_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden154(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden154, view) {
-    1: set_Garden154_0;
-    set_Garden154_0;
-}
-
-
-
-
-spritelayout set_Garden155_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden155(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden155, view) {
-    1: set_Garden155_0;
-    set_Garden155_0;
-}
-
-
-
-
-
-spritelayout set_Garden156_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden156(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden156, view) {
-    1: set_Garden156_0;
-    set_Garden156_0;
-}
-
-
-
-
-
-spritelayout set_Garden157_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden157(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden157, view) {
-    1: set_Garden157_0;
-    set_Garden157_0;
-}
-
-
-
-
-spritelayout set_Garden158_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden158(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden158, view) {
-    1: set_Garden158_0;
-    set_Garden158_0;
-}
-
-
-
-
-
-spritelayout set_Garden159_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden159(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden159, view) {
-    1: set_Garden159_0;
-    set_Garden159_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden160_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden160(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden160, view) {
-    1: set_Garden160_0;
-    set_Garden160_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden161_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden161(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden161, view) {
-    1: set_Garden161_0;
-    set_Garden161_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden162_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden162(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden162, view) {
-    1: set_Garden162_0;
-    set_Garden162_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden163_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden163(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden163, view) {
-    1: set_Garden163_0;
-    set_Garden163_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden164_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden164(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden164, view) {
-    1: set_Garden164_0;
-    set_Garden164_0;
-}
-
-
-
-
-
-spritelayout set_Garden165_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden165(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden165, view) {
-    1: set_Garden165_0;
-    set_Garden165_0;
-}
-
-
-
-
-
-spritelayout set_Garden166_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden166(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden166, view) {
-    1: set_Garden166_0;
-    set_Garden166_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden167_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden167(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden167, view) {
-    1: set_Garden167_0;
-    set_Garden167_0;
-}
-
-
-
-
-
-spritelayout set_Garden168_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden168(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden168, view) {
-    1: set_Garden168_0;
-    set_Garden168_0;
-}
-
-
-
-
-
-spritelayout set_Garden169_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden169(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden169, view) {
-    1: set_Garden169_0;
-    set_Garden169_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden170_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden170(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden170, view) {
-    1: set_Garden170_0;
-    set_Garden170_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden171_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden171(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden171, view) {
-    1: set_Garden171_0;
-    set_Garden171_0;
-}
-
-
-
-spritelayout set_Garden172_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden172(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden172, view) {
-    1: set_Garden172_0;
-    set_Garden172_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden173_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden173(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden173, view) {
-    1: set_Garden173_0;
-    set_Garden173_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden174_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden174(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden174, view) {
-    1: set_Garden174_0;
-    set_Garden174_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden175_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden175(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden175, view) {
-    1: set_Garden175_0;
-    set_Garden175_0;
-}
-
-
-
-
-
-
-spritelayout set_Garden176_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden176(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden176, view) {
-    1: set_Garden176_0;
-    set_Garden176_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden177_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden177(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden177, view) {
-    1: set_Garden177_0;
-    set_Garden177_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden178_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden178(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden178, view) {
-    1: set_Garden178_0;
-    set_Garden178_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden179_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden179(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden179, view) {
-    1: set_Garden179_0;
-    set_Garden179_0;
-}
-
-
-
-
-
-
-
-spritelayout set_Garden180_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden180(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden180, view) {
-    1: set_Garden180_0;
-    set_Garden180_0;
-}
-
-
-
-
-
-spritelayout set_Garden181_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden181(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden181, view) {
-    1: set_Garden181_0;
-    set_Garden181_0;
-}
-
-
-
-
-spritelayout set_Garden182_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden182(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden182, view) {
-    1: set_Garden182_0;
-    set_Garden182_0;
-}
-
-
-
-
-
-spritelayout set_Garden183_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden183(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden183, view) {
-    1: set_Garden183_0;
-    set_Garden183_0;
-}
-
-
-
-
-
-spritelayout set_Garden184_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden184(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden184, view) {
-    1: set_Garden184_0;
-    set_Garden184_0;
-}
-
-
-
-
-spritelayout set_Garden185_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden185(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden185, view) {
-    1: set_Garden185_0;
-    set_Garden185_0;
-}
-
-
-
-
-spritelayout set_Garden186_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden186(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden186, view) {
-    1: set_Garden186_0;
-    set_Garden186_0;
-}
 
-
-
-
-spritelayout set_Garden187_0 {
+spritelayout set_Garden232_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden187(0);
+        sprite: set_Garden232(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4616,22 +16,20 @@ spritelayout set_Garden187_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden187, view) {
-    1: set_Garden187_0;
-    set_Garden187_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden232, view) {
+    1: set_Garden232_0;
+    set_Garden232_0;
 }
 
 
 
-
-spritelayout set_Garden188_0 {
+spritelayout set_Garden233_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden188(0);
+        sprite: set_Garden233(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4640,22 +38,21 @@ spritelayout set_Garden188_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden188, view) {
-    1: set_Garden188_0;
-    set_Garden188_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden233, view) {
+    1: set_Garden233_0;
+    set_Garden233_0;
 }
 
 
 
 
-spritelayout set_Garden189_0 {
+spritelayout set_Garden234_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden189(0);
+        sprite: set_Garden234(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4665,21 +62,20 @@ spritelayout set_Garden189_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden189, view) {
-    1: set_Garden189_0;
-    set_Garden189_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden234, view) {
+    1: set_Garden234_0;
+    set_Garden234_0;
 }
 
 
 
 
-spritelayout set_Garden190_0 {
+spritelayout set_Garden235_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden190(0);
+        sprite: set_Garden235(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4688,22 +84,21 @@ spritelayout set_Garden190_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden190, view) {
-    1: set_Garden190_0;
-    set_Garden190_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden235, view) {
+    1: set_Garden235_0;
+    set_Garden235_0;
 }
 
 
 
 
-spritelayout set_Garden191_0 {
+spritelayout set_Garden236_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden191(0);
+        sprite: set_Garden236(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4713,22 +108,20 @@ spritelayout set_Garden191_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden191, view) {
-    1: set_Garden191_0;
-    set_Garden191_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden236, view) {
+    1: set_Garden236_0;
+    set_Garden236_0;
 }
-
 
 
 
 
-spritelayout set_Garden192_0 {
+spritelayout set_Garden237_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden192(0);
+        sprite: set_Garden237(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4738,24 +131,20 @@ spritelayout set_Garden192_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden192, view) {
-    1: set_Garden192_0;
-    set_Garden192_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden237, view) {
+    1: set_Garden237_0;
+    set_Garden237_0;
 }
-
 
 
 
 
-
-
-spritelayout set_Garden193_0 {
+spritelayout set_Garden238_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden193(0);
+        sprite: set_Garden238(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4765,23 +154,21 @@ spritelayout set_Garden193_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden193, view) {
-    1: set_Garden193_0;
-    set_Garden193_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden238, view) {
+    1: set_Garden238_0;
+    set_Garden238_0;
 }
-
 
 
 
 
 
-spritelayout set_Garden194_0 {
+spritelayout set_Garden239_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden194(0);
+        sprite: set_Garden239(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4791,23 +178,20 @@ spritelayout set_Garden194_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden194, view) {
-    1: set_Garden194_0;
-    set_Garden194_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden239, view) {
+    1: set_Garden239_0;
+    set_Garden239_0;
 }
-
 
 
 
 
-
-spritelayout set_Garden195_0 {
+spritelayout set_Garden240_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden195(0);
+        sprite: set_Garden240(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4816,24 +200,21 @@ spritelayout set_Garden195_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden195, view) {
-    1: set_Garden195_0;
-    set_Garden195_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden240, view) {
+    1: set_Garden240_0;
+    set_Garden240_0;
 }
 
 
 
 
-
-
-spritelayout set_Garden196_0 {
+spritelayout set_Garden241_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden196(0);
+        sprite: set_Garden241(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4843,10 +224,9 @@ spritelayout set_Garden196_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden196, view) {
-    1: set_Garden196_0;
-    set_Garden196_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden241, view) {
+    1: set_Garden241_0;
+    set_Garden241_0;
 }
 
 
@@ -4854,12 +234,12 @@ switch(FEAT_OBJECTS, SELF, sw_Garden196, view) {
 
 
 
-spritelayout set_Garden197_0 {
+spritelayout set_Garden242_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden197(0);
+        sprite: set_Garden242(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4868,24 +248,22 @@ spritelayout set_Garden197_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden197, view) {
-    1: set_Garden197_0;
-    set_Garden197_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden242, view) {
+    1: set_Garden242_0;
+    set_Garden242_0;
 }
 
 
 
 
 
-
-spritelayout set_Garden198_0 {
+spritelayout set_Garden243_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden198(0);
+        sprite: set_Garden243(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4894,24 +272,22 @@ spritelayout set_Garden198_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden198, view) {
-    1: set_Garden198_0;
-    set_Garden198_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden243, view) {
+    1: set_Garden243_0;
+    set_Garden243_0;
 }
 
 
 
 
 
-
-spritelayout set_Garden199_0 {
+spritelayout set_Garden244_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden199(0);
+        sprite: set_Garden244(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4920,24 +296,21 @@ spritelayout set_Garden199_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden199, view) {
-    1: set_Garden199_0;
-    set_Garden199_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden244, view) {
+    1: set_Garden244_0;
+    set_Garden244_0;
 }
 
 
 
 
-
-
-spritelayout set_Garden200_0 {
+spritelayout set_Garden245_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden200(0);
+        sprite: set_Garden245(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4947,21 +320,20 @@ spritelayout set_Garden200_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden200, view) {
-    1: set_Garden200_0;
-    set_Garden200_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden245, view) {
+    1: set_Garden245_0;
+    set_Garden245_0;
 }
 
 
 
 
-spritelayout set_Garden201_0 {
+spritelayout set_Garden246_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden201(0);
+        sprite: set_Garden246(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4970,24 +342,22 @@ spritelayout set_Garden201_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden201, view) {
-    1: set_Garden201_0;
-    set_Garden201_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden246, view) {
+    1: set_Garden246_0;
+    set_Garden246_0;
 }
 
 
 
 
 
-
-spritelayout set_Garden202_0 {
+spritelayout set_Garden247_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden202(0);
+        sprite: set_Garden247(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -4996,23 +366,22 @@ spritelayout set_Garden202_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden202, view) {
-    1: set_Garden202_0;
-    set_Garden202_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden247, view) {
+    1: set_Garden247_0;
+    set_Garden247_0;
 }
 
 
 
 
 
-spritelayout set_Garden203_0 {
+spritelayout set_Garden248_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden203(0);
+        sprite: set_Garden248(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5022,23 +391,21 @@ spritelayout set_Garden203_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden203, view) {
-    1: set_Garden203_0;
-    set_Garden203_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden248, view) {
+    1: set_Garden248_0;
+    set_Garden248_0;
 }
-
 
 
 
 
 
-spritelayout set_Garden204_0 {
+spritelayout set_Garden249_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden204(0);
+        sprite: set_Garden249(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5048,22 +415,21 @@ spritelayout set_Garden204_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden204, view) {
-    1: set_Garden204_0;
-    set_Garden204_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden249, view) {
+    1: set_Garden249_0;
+    set_Garden249_0;
 }
 
 
 
 
 
-spritelayout set_Garden205_0 {
+spritelayout set_Garden250_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden205(0);
+        sprite: set_Garden250(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5072,23 +438,20 @@ spritelayout set_Garden205_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden205, view) {
-    1: set_Garden205_0;
-    set_Garden205_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden250, view) {
+    1: set_Garden250_0;
+    set_Garden250_0;
 }
-
-
 
 
 
-spritelayout set_Garden206_0 {
+spritelayout set_Garden251_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden206(0);
+        sprite: set_Garden251(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5097,44 +460,21 @@ spritelayout set_Garden206_0 {
         zoffset: 0;
     }
 }
-
-
-switch(FEAT_OBJECTS, SELF, sw_Garden206, view) {
-    1: set_Garden206_0;
-    set_Garden206_0;
-}
-
 
-
-
-spritelayout set_Garden207_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden207(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
-}
-switch(FEAT_OBJECTS, SELF, sw_Garden207, view) {
-    1: set_Garden207_0;
-    set_Garden207_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden251, view) {
+    1: set_Garden251_0;
+    set_Garden251_0;
 }
 
 
 
 
-spritelayout set_Garden208_0 {
+spritelayout set_Garden252_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden208(0);
+        sprite: set_Garden252(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5144,22 +484,19 @@ spritelayout set_Garden208_0 {
     }
 }
 
-
-switch(FEAT_OBJECTS, SELF, sw_Garden208, view) {
-    1: set_Garden208_0;
-    set_Garden208_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden252, view) {
+    1: set_Garden252_0;
+    set_Garden252_0;
 }
-
 
 
 
-
-spritelayout set_Garden209_0 {
+spritelayout set_Garden253_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden209(0);
+        sprite: set_Garden253(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5168,23 +505,20 @@ spritelayout set_Garden209_0 {
         zoffset: 0;
     }
 }
-
 
-switch(FEAT_OBJECTS, SELF, sw_Garden209, view) {
-    1: set_Garden209_0;
-    set_Garden209_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden253, view) {
+    1: set_Garden253_0;
+    set_Garden253_0;
 }
-
-
 
 
 
-spritelayout set_Garden210_0 {
+spritelayout set_Garden254_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden210(0);
+        sprite: set_Garden254(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5194,19 +528,19 @@ spritelayout set_Garden210_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden210, view) {
-    1: set_Garden210_0;
-    set_Garden210_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden254, view) {
+    1: set_Garden254_0;
+    set_Garden254_0;
 }
 
 
 
-spritelayout set_Garden211_0 {
+spritelayout set_Garden255_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden211(0);
+        sprite: set_Garden255(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5216,19 +550,19 @@ spritelayout set_Garden211_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden211, view) {
-    1: set_Garden211_0;
-    set_Garden211_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden255, view) {
+    1: set_Garden255_0;
+    set_Garden255_0;
 }
 
 
 
-spritelayout set_Garden212_0 {
+spritelayout set_Garden256_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden212(0);
+        sprite: set_Garden256(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5238,20 +572,19 @@ spritelayout set_Garden212_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden212, view) {
-    1: set_Garden212_0;
-    set_Garden212_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden256, view) {
+    1: set_Garden256_0;
+    set_Garden256_0;
 }
 
 
 
-
-spritelayout set_Garden213_0 {
+spritelayout set_Garden257_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden213(0);
+        sprite: set_Garden257(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5261,19 +594,19 @@ spritelayout set_Garden213_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden213, view) {
-    1: set_Garden213_0;
-    set_Garden213_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden257, view) {
+    1: set_Garden257_0;
+    set_Garden257_0;
 }
 
 
 
-spritelayout set_Garden214_0 {
+spritelayout set_Garden258_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden214(0);
+        sprite: set_Garden258(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5283,22 +616,19 @@ spritelayout set_Garden214_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden214, view) {
-    1: set_Garden214_0;
-    set_Garden214_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden258, view) {
+    1: set_Garden258_0;
+    set_Garden258_0;
 }
-
-
-
 
 
 
-spritelayout set_Garden215_0 {
+spritelayout set_Garden259_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden215(0);
+        sprite: set_Garden259(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5308,21 +638,19 @@ spritelayout set_Garden215_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden215, view) {
-    1: set_Garden215_0;
-    set_Garden215_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden259, view) {
+    1: set_Garden259_0;
+    set_Garden259_0;
 }
 
 
 
-
-
-spritelayout set_Garden216_0 {
+spritelayout set_Garden260_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden216(0);
+        sprite: set_Garden260(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5332,20 +660,20 @@ spritelayout set_Garden216_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden216, view) {
-    1: set_Garden216_0;
-    set_Garden216_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden260, view) {
+    1: set_Garden260_0;
+    set_Garden260_0;
 }
 
 
 
 
-spritelayout set_Garden217_0 {
+spritelayout set_Garden261_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden217(0);
+        sprite: set_Garden261(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5355,20 +683,19 @@ spritelayout set_Garden217_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden217, view) {
-    1: set_Garden217_0;
-    set_Garden217_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden261, view) {
+    1: set_Garden261_0;
+    set_Garden261_0;
 }
 
 
 
-
-spritelayout set_Garden218_0 {
+spritelayout set_Garden262_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden218(0);
+        sprite: set_Garden262(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5378,21 +705,21 @@ spritelayout set_Garden218_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden218, view) {
-    1: set_Garden218_0;
-    set_Garden218_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden262, view) {
+    1: set_Garden262_0;
+    set_Garden262_0;
 }
 
 
 
 
 
-spritelayout set_Garden219_0 {
+spritelayout set_Garden263_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden219(0);
+        sprite: set_Garden263(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5402,21 +729,20 @@ spritelayout set_Garden219_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden219, view) {
-    1: set_Garden219_0;
-    set_Garden219_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden263, view) {
+    1: set_Garden263_0;
+    set_Garden263_0;
 }
-
 
 
 
 
-spritelayout set_Garden220_0 {
+spritelayout set_Garden264_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden220(0);
+        sprite: set_Garden264(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5426,21 +752,20 @@ spritelayout set_Garden220_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden220, view) {
-    1: set_Garden220_0;
-    set_Garden220_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden264, view) {
+    1: set_Garden264_0;
+    set_Garden264_0;
 }
 
 
 
 
-
-spritelayout set_Garden221_0 {
+spritelayout set_Garden265_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden221(0);
+        sprite: set_Garden265(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5450,20 +775,20 @@ spritelayout set_Garden221_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden221, view) {
-    1: set_Garden221_0;
-    set_Garden221_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden265, view) {
+    1: set_Garden265_0;
+    set_Garden265_0;
 }
 
 
 
 
-spritelayout set_Garden222_0 {
+spritelayout set_Garden266_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden222(0);
+        sprite: set_Garden266(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5473,21 +798,20 @@ spritelayout set_Garden222_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden222, view) {
-    1: set_Garden222_0;
-    set_Garden222_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden266, view) {
+    1: set_Garden266_0;
+    set_Garden266_0;
 }
-
 
 
 
 
-spritelayout set_Garden223_0 {
+spritelayout set_Garden267_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden223(0);
+        sprite: set_Garden267(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5495,43 +819,22 @@ spritelayout set_Garden223_0 {
         yoffset: 7;  // from NW edge
         zoffset: 0;
     }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden223, view) {
-    1: set_Garden223_0;
-    set_Garden223_0;
 }
 
-
-
-spritelayout set_Garden224_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden224(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
+switch(FEAT_OBJECTS, SELF, sw_Garden267, view) {
+    1: set_Garden267_0;
+    set_Garden267_0;
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden224, view) {
-    1: set_Garden224_0;
-    set_Garden224_0;
-}
 
 
 
-spritelayout set_Garden225_0 {
+spritelayout set_Garden268_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden225(0);
+        sprite: set_Garden268(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5541,20 +844,20 @@ spritelayout set_Garden225_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden225, view) {
-    1: set_Garden225_0;
-    set_Garden225_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden268, view) {
+    1: set_Garden268_0;
+    set_Garden268_0;
 }
 
 
 
 
-spritelayout set_Garden226_0 {
+spritelayout set_Garden269_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden226(0);
+        sprite: set_Garden269(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5562,43 +865,22 @@ spritelayout set_Garden226_0 {
         yoffset: 7;  // from NW edge
         zoffset: 0;
     }
-}
-
-switch(FEAT_OBJECTS, SELF, sw_Garden226, view) {
-    1: set_Garden226_0;
-    set_Garden226_0;
 }
 
-
-
-spritelayout set_Garden227_0 {
-    ground {
-        sprite: GROUNDSPRITE_NORMAL;
-    }
-    building {
-        sprite: set_Garden227(0);
-        xextent: 1;
-        yextent: 3;
-        zextent: 12;
-        xoffset: 15; // from NE edge
-        yoffset: 7;  // from NW edge
-        zoffset: 0;
-    }
+switch(FEAT_OBJECTS, SELF, sw_Garden269, view) {
+    1: set_Garden269_0;
+    set_Garden269_0;
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden227, view) {
-    1: set_Garden227_0;
-    set_Garden227_0;
-}
 
 
 
-spritelayout set_Garden228_0 {
+spritelayout set_Garden270_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden228(0);
+        sprite: set_Garden270(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5608,20 +890,20 @@ spritelayout set_Garden228_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden228, view) {
-    1: set_Garden228_0;
-    set_Garden228_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden270, view) {
+    1: set_Garden270_0;
+    set_Garden270_0;
 }
 
 
 
 
-spritelayout set_Garden229_0 {
+spritelayout set_Garden271_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden229(0);
+        sprite: set_Garden271(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5631,20 +913,19 @@ spritelayout set_Garden229_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden229, view) {
-    1: set_Garden229_0;
-    set_Garden229_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden271, view) {
+    1: set_Garden271_0;
+    set_Garden271_0;
 }
 
 
 
-
-spritelayout set_Garden230_0 {
+spritelayout set_Garden272_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden230(0);
+        sprite: set_Garden272(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5654,21 +935,19 @@ spritelayout set_Garden230_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden230, view) {
-    1: set_Garden230_0;
-    set_Garden230_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden272, view) {
+    1: set_Garden272_0;
+    set_Garden272_0;
 }
-
-
 
 
 
-spritelayout set_Garden231_0 {
+spritelayout set_Garden273_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_Garden231(0);
+        sprite: set_Garden273(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -5678,7 +957,7 @@ spritelayout set_Garden231_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_Garden231, view) {
-    1: set_Garden231_0;
-    set_Garden231_0;
+switch(FEAT_OBJECTS, SELF, sw_Garden273, view) {
+    1: set_Garden273_0;
+    set_Garden273_0;
 }
