@@ -16,6 +16,7 @@
 
 // Garden
 #include "Objects/Garden/Garden.pnml"
+#include "Objects/Garden/Garden2.pnml"
 
 // Dino
 #include "Objects/Dino/dino.pnml"
