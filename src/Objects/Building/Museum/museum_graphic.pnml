@@ -900,3 +900,302 @@ spriteset(set_BC087, "src/Objects/Garden/Garden7.png"){
 alternative_sprites(set_BC087, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC087.png"){
     [0,     0,    64,    124,    -15,  -114]
 }
+
+
+
+spriteset(set_BC088, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC088, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC088.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC089, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC089, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC089.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC090, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC090, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC090.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+spriteset(set_BC091, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC091, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC091.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC092, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC092, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC092.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC093, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC093, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC093.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC094, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC094, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC094.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC095, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC095, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC095.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC096, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC096, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC096.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC097, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC097, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC097.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC098, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC098, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC098.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC099, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC099, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC099.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC100, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC100, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC100.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC101, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC101, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC101.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC102, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC102, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC102.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_BC103, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC103, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC103.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_BC104, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC104, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC104.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC105, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC105, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC105.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC106, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC106, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC106.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC107, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC107, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC107.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC108, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC108, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC108.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_BC109, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC109, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC109.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_BC110, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC110, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC110.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+spriteset(set_BC111, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC111, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC111.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+spriteset(set_BC112, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC112, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC112.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+spriteset(set_BC113, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC113, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC113.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+spriteset(set_BC114, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC114, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC114.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+spriteset(set_BC115, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_BC115, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/BC115.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
