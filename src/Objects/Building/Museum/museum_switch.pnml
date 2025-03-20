@@ -146,7 +146,7 @@ spritelayout set_bc001_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc001(0);
+        sprite: set_BC001(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -169,7 +169,7 @@ spritelayout set_bc002_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc002(0);
+        sprite: set_BC002(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -192,7 +192,7 @@ spritelayout set_bc003_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc003(0);
+        sprite: set_BC003(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -215,7 +215,7 @@ spritelayout set_bc004_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc004(0);
+        sprite: set_BC004(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -239,7 +239,7 @@ spritelayout set_bc005_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc005(0);
+        sprite: set_BC005(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -263,7 +263,7 @@ spritelayout set_bc006_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc006(0);
+        sprite: set_BC006(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -286,7 +286,7 @@ spritelayout set_bc007_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc007(0);
+        sprite: set_BC007(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -310,7 +310,7 @@ spritelayout set_bc008_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc008(0);
+        sprite: set_BC008(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -333,7 +333,7 @@ spritelayout set_bc009_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc009(0);
+        sprite: set_BC009(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -357,7 +357,7 @@ spritelayout set_bc010_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc010(0);
+        sprite: set_BC010(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -380,7 +380,7 @@ spritelayout set_bc011_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc011(0);
+        sprite: set_BC011(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -403,7 +403,7 @@ spritelayout set_bc012_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc012(0);
+        sprite: set_BC012(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -426,7 +426,7 @@ spritelayout set_bc013_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc013(0);
+        sprite: set_BC013(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -449,7 +449,7 @@ spritelayout set_bc014_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc014(0);
+        sprite: set_BC014(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -472,7 +472,7 @@ spritelayout set_bc015_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc015(0);
+        sprite: set_BC015(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -495,7 +495,7 @@ spritelayout set_bc016_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc016(0);
+        sprite: set_BC016(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -518,7 +518,7 @@ spritelayout set_bc017_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc017(0);
+        sprite: set_BC017(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -543,7 +543,7 @@ spritelayout set_bc018_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc018(0);
+        sprite: set_BC018(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -567,7 +567,7 @@ spritelayout set_bc019_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc019(0);
+        sprite: set_BC019(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -590,7 +590,7 @@ spritelayout set_bc020_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc020(0);
+        sprite: set_BC020(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -611,7 +611,7 @@ spritelayout set_bc021_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc021(0);
+        sprite: set_BC021(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -635,7 +635,7 @@ spritelayout set_bc022_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc022(0);
+        sprite: set_BC022(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -659,7 +659,7 @@ spritelayout set_bc023_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc023(0);
+        sprite: set_BC023(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -682,7 +682,7 @@ spritelayout set_bc024_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc024(0);
+        sprite: set_BC024(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -705,7 +705,7 @@ spritelayout set_bc025_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc025(0);
+        sprite: set_BC025(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -728,7 +728,7 @@ spritelayout set_bc026_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc026(0);
+        sprite: set_BC026(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -751,7 +751,7 @@ spritelayout set_bc027_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc027(0);
+        sprite: set_BC027(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -774,7 +774,7 @@ spritelayout set_bc028_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc028(0);
+        sprite: set_BC028(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -797,7 +797,7 @@ spritelayout set_bc029_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc029(0);
+        sprite: set_BC029(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -819,7 +819,7 @@ spritelayout set_bc030_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc030(0);
+        sprite: set_BC030(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -840,7 +840,7 @@ spritelayout set_bc031_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc031(0);
+        sprite: set_BC031(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -863,7 +863,7 @@ spritelayout set_bc032_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc032(0);
+        sprite: set_BC032(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -886,7 +886,7 @@ spritelayout set_bc033_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc033(0);
+        sprite: set_BC033(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -909,7 +909,7 @@ spritelayout set_bc034_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc034(0);
+        sprite: set_BC034(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -931,7 +931,7 @@ spritelayout set_bc035_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc035(0);
+        sprite: set_BC035(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -954,7 +954,7 @@ spritelayout set_bc036_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc036(0);
+        sprite: set_BC036(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -977,7 +977,7 @@ spritelayout set_bc037_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc037(0);
+        sprite: set_BC037(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1000,7 +1000,7 @@ spritelayout set_bc038_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc038(0);
+        sprite: set_BC038(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1025,7 +1025,7 @@ spritelayout set_bc039_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc039(0);
+        sprite: set_BC039(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1048,7 +1048,7 @@ spritelayout set_bc040_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc040(0);
+        sprite: set_BC040(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1071,7 +1071,7 @@ spritelayout set_bc041_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc041(0);
+        sprite: set_BC041(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1092,7 +1092,7 @@ spritelayout set_bc042_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc042(0);
+        sprite: set_BC042(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1115,7 +1115,7 @@ spritelayout set_bc043_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc043(0);
+        sprite: set_BC043(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1138,7 +1138,7 @@ spritelayout set_bc044_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc044(0);
+        sprite: set_BC044(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1162,7 +1162,7 @@ spritelayout set_bc045_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc045(0);
+        sprite: set_BC045(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1186,7 +1186,7 @@ spritelayout set_bc046_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc046(0);
+        sprite: set_BC046(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1209,7 +1209,7 @@ spritelayout set_bc047_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc047(0);
+        sprite: set_BC047(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1232,7 +1232,7 @@ spritelayout set_bc048_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc048(0);
+        sprite: set_BC048(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1255,7 +1255,7 @@ spritelayout set_bc049_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc049(0);
+        sprite: set_BC049(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1277,7 +1277,7 @@ spritelayout set_bc050_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc050(0);
+        sprite: set_BC050(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1300,7 +1300,7 @@ spritelayout set_bc051_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc051(0);
+        sprite: set_BC051(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1323,7 +1323,7 @@ spritelayout set_bc052_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc052(0);
+        sprite: set_BC052(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1346,7 +1346,7 @@ spritelayout set_bc053_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc053(0);
+        sprite: set_BC053(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1369,7 +1369,7 @@ spritelayout set_bc054_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc054(0);
+        sprite: set_BC054(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1392,7 +1392,7 @@ spritelayout set_bc055_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc055(0);
+        sprite: set_BC055(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1415,7 +1415,7 @@ spritelayout set_bc056_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc056(0);
+        sprite: set_BC056(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1439,7 +1439,7 @@ spritelayout set_bc057_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc057(0);
+        sprite: set_BC057(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1462,7 +1462,7 @@ spritelayout set_bc058_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc058(0);
+        sprite: set_BC058(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1486,7 +1486,7 @@ spritelayout set_bc059_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc059(0);
+        sprite: set_BC059(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1512,7 +1512,7 @@ spritelayout set_bc060_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc060(0);
+        sprite: set_BC060(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1534,7 +1534,7 @@ spritelayout set_bc061_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc061(0);
+        sprite: set_BC061(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1557,7 +1557,7 @@ spritelayout set_bc062_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc062(0);
+        sprite: set_BC062(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1580,7 +1580,7 @@ spritelayout set_bc063_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc063(0);
+        sprite: set_BC063(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1603,7 +1603,7 @@ spritelayout set_bc064_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc064(0);
+        sprite: set_BC064(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1625,7 +1625,7 @@ spritelayout set_bc065_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc065(0);
+        sprite: set_BC065(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1648,7 +1648,7 @@ spritelayout set_bc066_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc066(0);
+        sprite: set_BC066(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1671,7 +1671,7 @@ spritelayout set_bc067_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc067(0);
+        sprite: set_BC067(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1694,7 +1694,7 @@ spritelayout set_bc068_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc068(0);
+        sprite: set_BC068(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1718,7 +1718,7 @@ spritelayout set_bc069_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc069(0);
+        sprite: set_BC069(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1742,7 +1742,7 @@ spritelayout set_bc070_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc070(0);
+        sprite: set_BC070(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1766,7 +1766,7 @@ spritelayout set_bc071_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc071(0);
+        sprite: set_BC071(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1788,7 +1788,7 @@ spritelayout set_bc072_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc072(0);
+        sprite: set_BC072(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1813,7 +1813,7 @@ spritelayout set_bc073_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc073(0);
+        sprite: set_BC073(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1837,7 +1837,7 @@ spritelayout set_bc074_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc074(0);
+        sprite: set_BC074(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1861,7 +1861,7 @@ spritelayout set_bc075_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc075(0);
+        sprite: set_BC075(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1886,7 +1886,7 @@ spritelayout set_bc076_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc076(0);
+        sprite: set_BC076(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1911,7 +1911,7 @@ spritelayout set_bc077_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc077(0);
+        sprite: set_BC077(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1935,7 +1935,7 @@ spritelayout set_bc078_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc078(0);
+        sprite: set_BC078(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1959,7 +1959,7 @@ spritelayout set_bc079_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc079(0);
+        sprite: set_BC079(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -1983,7 +1983,7 @@ spritelayout set_bc080_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc080(0);
+        sprite: set_BC080(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2007,7 +2007,7 @@ spritelayout set_bc081_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc081(0);
+        sprite: set_BC081(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2030,7 +2030,7 @@ spritelayout set_bc082_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc082(0);
+        sprite: set_BC082(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2054,7 +2054,7 @@ spritelayout set_bc083_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc083(0);
+        sprite: set_BC083(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2078,7 +2078,7 @@ spritelayout set_bc084_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc084(0);
+        sprite: set_BC084(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2101,7 +2101,7 @@ spritelayout set_bc085_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc085(0);
+        sprite: set_BC085(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2125,7 +2125,7 @@ spritelayout set_bc086_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc086(0);
+        sprite: set_BC086(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2148,7 +2148,7 @@ spritelayout set_bc087_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc087(0);
+        sprite: set_BC087(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2171,7 +2171,7 @@ spritelayout set_bc088_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc088(0);
+        sprite: set_BC088(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2194,7 +2194,7 @@ spritelayout set_bc089_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc089(0);
+        sprite: set_BC089(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2218,7 +2218,7 @@ spritelayout set_bc090_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc090(0);
+        sprite: set_BC090(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2242,7 +2242,7 @@ spritelayout set_bc091_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc091(0);
+        sprite: set_BC091(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2267,7 +2267,7 @@ spritelayout set_bc092_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc092(0);
+        sprite: set_BC092(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2291,7 +2291,7 @@ spritelayout set_bc093_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc093(0);
+        sprite: set_BC093(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2316,7 +2316,7 @@ spritelayout set_bc094_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc094(0);
+        sprite: set_BC094(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2340,7 +2340,7 @@ spritelayout set_bc095_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc095(0);
+        sprite: set_BC095(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2365,7 +2365,7 @@ spritelayout set_bc096_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc096(0);
+        sprite: set_BC096(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2390,7 +2390,7 @@ spritelayout set_bc097_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc097(0);
+        sprite: set_BC097(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2414,7 +2414,7 @@ spritelayout set_bc098_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc098(0);
+        sprite: set_BC098(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2438,7 +2438,7 @@ spritelayout set_bc099_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc099(0);
+        sprite: set_BC099(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2462,7 +2462,7 @@ spritelayout set_bc100_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc100(0);
+        sprite: set_BC100(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2485,7 +2485,7 @@ spritelayout set_bc101_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc101(0);
+        sprite: set_BC101(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2507,7 +2507,7 @@ spritelayout set_bc102_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc102(0);
+        sprite: set_BC102(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2531,7 +2531,7 @@ spritelayout set_bc103_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc103(0);
+        sprite: set_BC103(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2555,7 +2555,7 @@ spritelayout set_bc104_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc104(0);
+        sprite: set_BC104(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2578,7 +2578,7 @@ spritelayout set_bc105_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc105(0);
+        sprite: set_BC105(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2604,7 +2604,7 @@ spritelayout set_bc106_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc106(0);
+        sprite: set_BC106(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2627,7 +2627,7 @@ spritelayout set_bc107_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc107(0);
+        sprite: set_BC107(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2650,7 +2650,7 @@ spritelayout set_bc108_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc108(0);
+        sprite: set_BC108(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2673,7 +2673,7 @@ spritelayout set_bc109_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc109(0);
+        sprite: set_BC109(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2696,7 +2696,7 @@ spritelayout set_bc110_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc110(0);
+        sprite: set_BC110(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2718,7 +2718,7 @@ spritelayout set_bc111_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc111(0);
+        sprite: set_BC111(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2741,7 +2741,7 @@ spritelayout set_bc112_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc112(0);
+        sprite: set_BC112(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2764,7 +2764,7 @@ spritelayout set_bc113_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc113(0);
+        sprite: set_BC113(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2787,7 +2787,7 @@ spritelayout set_bc114_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc114(0);
+        sprite: set_BC114(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -2810,7 +2810,7 @@ spritelayout set_bc115_0 {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_bc115(0);
+        sprite: set_BC115(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
