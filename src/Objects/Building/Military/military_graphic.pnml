@@ -212,7 +212,7 @@ spriteset(set_military20, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_military20, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air01.png"){
+alternative_sprites(set_military20, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air01a.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -221,7 +221,7 @@ spriteset(set_military21, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_military21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air02.png"){
+alternative_sprites(set_military21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air02a.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -231,7 +231,7 @@ spriteset(set_military22, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_military22, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air03.png"){
+alternative_sprites(set_military22, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air03a.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
@@ -242,7 +242,7 @@ spriteset(set_military23, "src/Objects/Garden/Garden.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_military23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air04.png"){
+alternative_sprites(set_military23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/air04a.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
