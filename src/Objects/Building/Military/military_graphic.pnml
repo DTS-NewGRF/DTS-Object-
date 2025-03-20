@@ -515,3 +515,13 @@ spriteset(set_military43, "src/Objects/Garden/Garden.png"){
 alternative_sprites(set_military43, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military43.png"){
     [0,     0,    133,    112,    -50,  -99]
 }
+
+
+
+spriteset(set_military44, "src/Objects/Garden/Garden.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_military44, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/military/military44.png"){
+    [0,     0,    133,    112,    -50,  -99]
+}
