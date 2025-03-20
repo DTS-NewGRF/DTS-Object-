@@ -169,7 +169,7 @@ item(FEAT_OBJECTS, BC001, 9501) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC001;
+        default: sw_bc001;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -192,7 +192,7 @@ item(FEAT_OBJECTS, BC002, 9502) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC002;
+        default: sw_bc002;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -214,7 +214,7 @@ item(FEAT_OBJECTS, BC003, 9503) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC003;
+        default: sw_bc003;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -237,7 +237,7 @@ item(FEAT_OBJECTS, BC004, 9504) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC004;
+        default: sw_bc004;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -260,7 +260,7 @@ item(FEAT_OBJECTS, BC005, 9505) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC005;
+        default: sw_bc005;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -282,7 +282,7 @@ item(FEAT_OBJECTS, BC006, 9506) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC006;
+        default: sw_bc006;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -305,7 +305,7 @@ item(FEAT_OBJECTS, BC007, 9507) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC007;
+        default: sw_bc007;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -328,7 +328,7 @@ item(FEAT_OBJECTS, BC008, 9508) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC008;
+        default: sw_bc008;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -351,7 +351,7 @@ item(FEAT_OBJECTS, BC009, 9509) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC009;
+        default: sw_bc009;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -374,7 +374,7 @@ item(FEAT_OBJECTS, BC010, 9510) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC010;
+        default: sw_bc010;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -397,7 +397,7 @@ item(FEAT_OBJECTS, BC011, 9511) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC011;
+        default: sw_bc011;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -421,7 +421,7 @@ item(FEAT_OBJECTS, BC012, 9512) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC012;
+        default: sw_bc012;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -445,7 +445,7 @@ item(FEAT_OBJECTS, BC013, 9513) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC013;
+        default: sw_bc013;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -469,7 +469,7 @@ item(FEAT_OBJECTS, BC014, 9514) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC014;
+        default: sw_bc014;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -493,7 +493,7 @@ item(FEAT_OBJECTS, BC015, 9515) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC015;
+        default: sw_bc015;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -518,7 +518,7 @@ item(FEAT_OBJECTS, BC016, 9516) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC016;
+        default: sw_bc016;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -543,7 +543,7 @@ item(FEAT_OBJECTS, BC017, 9517) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC017;
+        default: sw_bc017;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -567,7 +567,7 @@ item(FEAT_OBJECTS, BC018, 9518) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC018;
+        default: sw_bc018;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -591,7 +591,7 @@ item(FEAT_OBJECTS, BC019, 9519) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC019;
+        default: sw_bc019;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -615,7 +615,7 @@ item(FEAT_OBJECTS, BC020, 9520) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC020;
+        default: sw_bc020;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -638,7 +638,7 @@ item(FEAT_OBJECTS, BC021, 9521) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC021;
+        default: sw_bc021;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -662,7 +662,7 @@ item(FEAT_OBJECTS, BC022, 9522) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC022;
+        default: sw_bc022;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -685,7 +685,7 @@ item(FEAT_OBJECTS, BC023, 9523) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC023;
+        default: sw_bc023;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -708,7 +708,7 @@ item(FEAT_OBJECTS, BC024, 9524) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC024;
+        default: sw_bc024;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -731,7 +731,7 @@ item(FEAT_OBJECTS, BC025, 9525) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC025;
+        default: sw_bc025;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -755,7 +755,7 @@ item(FEAT_OBJECTS, BC026, 9526) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC026;
+        default: sw_bc026;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -780,7 +780,7 @@ item(FEAT_OBJECTS, BC027, 9527) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC027;
+        default: sw_bc027;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -804,7 +804,7 @@ item(FEAT_OBJECTS, BC028, 9528) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC028;
+        default: sw_bc028;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -827,7 +827,7 @@ item(FEAT_OBJECTS, BC029, 9529) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC029;
+        default: sw_bc029;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -850,7 +850,7 @@ item(FEAT_OBJECTS, BC030, 9530) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC030;
+        default: sw_bc030;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -874,7 +874,7 @@ item(FEAT_OBJECTS, BC031, 9531) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC031;
+        default: sw_bc031;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -897,7 +897,7 @@ item(FEAT_OBJECTS, BC032, 9532) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC032;
+        default: sw_bc032;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -920,7 +920,7 @@ item(FEAT_OBJECTS, BC033, 9533) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC033;
+        default: sw_bc033;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -942,7 +942,7 @@ item(FEAT_OBJECTS, BC034, 9534) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC034;
+        default: sw_bc034;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -966,7 +966,7 @@ item(FEAT_OBJECTS, BC035, 9535) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC035;
+        default: sw_bc035;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -990,7 +990,7 @@ item(FEAT_OBJECTS, BC036, 9536) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC036;
+        default: sw_bc036;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1013,7 +1013,7 @@ item(FEAT_OBJECTS, BC037, 9537) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC037;
+        default: sw_bc037;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1036,7 +1036,7 @@ item(FEAT_OBJECTS, BC038, 9538) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC038;
+        default: sw_bc038;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1060,7 +1060,7 @@ item(FEAT_OBJECTS, BC039, 9539) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC039;
+        default: sw_bc039;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1083,7 +1083,7 @@ item(FEAT_OBJECTS, BC040, 9540) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC040;
+        default: sw_bc040;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1106,7 +1106,7 @@ item(FEAT_OBJECTS, BC041, 9541) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC041;
+        default: sw_bc041;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1129,7 +1129,7 @@ item(FEAT_OBJECTS, BC042, 9542) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC042;
+        default: sw_bc042;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1152,7 +1152,7 @@ item(FEAT_OBJECTS, BC043, 9543) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC043;
+        default: sw_bc043;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1175,7 +1175,7 @@ item(FEAT_OBJECTS, BC044, 9544) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC044;
+        default: sw_bc044;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1198,7 +1198,7 @@ item(FEAT_OBJECTS, BC045, 9545) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC045;
+        default: sw_bc045;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1221,7 +1221,7 @@ item(FEAT_OBJECTS, BC046, 9546) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC046;
+        default: sw_bc046;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1244,7 +1244,7 @@ item(FEAT_OBJECTS, BC047, 9547) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC047;
+        default: sw_bc047;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1266,7 +1266,7 @@ item(FEAT_OBJECTS, BC048, 9548) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC048;
+        default: sw_bc048;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1289,7 +1289,7 @@ item(FEAT_OBJECTS, BC049, 9549) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC049;
+        default: sw_bc049;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1312,7 +1312,7 @@ item(FEAT_OBJECTS, BC050, 9550) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC050;
+        default: sw_bc050;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1335,7 +1335,7 @@ item(FEAT_OBJECTS, BC051, 9551) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC051;
+        default: sw_bc051;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1359,7 +1359,7 @@ item(FEAT_OBJECTS, BC052, 9552) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC052;
+        default: sw_bc052;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1383,7 +1383,7 @@ item(FEAT_OBJECTS, BC053, 9553) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC053;
+        default: sw_bc053;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1407,7 +1407,7 @@ item(FEAT_OBJECTS, BC054, 9554) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC054;
+        default: sw_bc054;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1430,7 +1430,7 @@ item(FEAT_OBJECTS, BC055, 9555) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC055;
+        default: sw_bc055;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1453,7 +1453,7 @@ item(FEAT_OBJECTS, BC056, 9556) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC056;
+        default: sw_bc056;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1477,7 +1477,7 @@ item(FEAT_OBJECTS, BC057, 9557) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC057;
+        default: sw_bc057;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1501,7 +1501,7 @@ item(FEAT_OBJECTS, BC058, 9558) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC058;
+        default: sw_bc058;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1524,7 +1524,7 @@ item(FEAT_OBJECTS, BC059, 9559) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC059;
+        default: sw_bc059;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1548,7 +1548,7 @@ item(FEAT_OBJECTS, BC060, 9560) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC060;
+        default: sw_bc060;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1573,7 +1573,7 @@ item(FEAT_OBJECTS, BC061, 9561) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC061;
+        default: sw_bc061;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1598,7 +1598,7 @@ item(FEAT_OBJECTS, BC062, 9562) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC062;
+        default: sw_bc062;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1623,7 +1623,7 @@ item(FEAT_OBJECTS, BC063, 9563) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC063;
+        default: sw_bc063;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1648,7 +1648,7 @@ item(FEAT_OBJECTS, BC064, 9564) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC064;
+        default: sw_bc064;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1673,7 +1673,7 @@ item(FEAT_OBJECTS, BC065, 9565) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC065;
+        default: sw_bc065;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1698,7 +1698,7 @@ item(FEAT_OBJECTS, BC066, 9566) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC066;
+        default: sw_bc066;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1723,7 +1723,7 @@ item(FEAT_OBJECTS, BC067, 9567) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC067;
+        default: sw_bc067;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1748,7 +1748,7 @@ item(FEAT_OBJECTS, BC068, 9568) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC068;
+        default: sw_bc068;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1772,7 +1772,7 @@ item(FEAT_OBJECTS, BC069, 9569) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC069;
+        default: sw_bc069;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1797,7 +1797,7 @@ item(FEAT_OBJECTS, BC070, 9570) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC070;
+        default: sw_bc070;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1821,7 +1821,7 @@ item(FEAT_OBJECTS, BC071, 9571) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC071;
+        default: sw_bc071;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1845,7 +1845,7 @@ item(FEAT_OBJECTS, BC072, 9572) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC072;
+        default: sw_bc072;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1868,7 +1868,7 @@ item(FEAT_OBJECTS, BC073, 9573) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC073;
+        default: sw_bc073;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1891,7 +1891,7 @@ item(FEAT_OBJECTS, BC074, 9574) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC074;
+        default: sw_bc074;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1914,7 +1914,7 @@ item(FEAT_OBJECTS, BC075, 9575) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC075;
+        default: sw_bc075;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1938,7 +1938,7 @@ item(FEAT_OBJECTS, BC076, 9576) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC076;
+        default: sw_bc076;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1962,7 +1962,7 @@ item(FEAT_OBJECTS, BC077, 9577) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC077;
+        default: sw_bc077;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -1986,7 +1986,7 @@ item(FEAT_OBJECTS, BC078, 9578) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC078;
+        default: sw_bc078;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2010,7 +2010,7 @@ item(FEAT_OBJECTS, BC079, 9579) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC079;
+        default: sw_bc079;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2034,7 +2034,7 @@ item(FEAT_OBJECTS, BC080, 9580) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC080;
+        default: sw_bc080;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2058,7 +2058,7 @@ item(FEAT_OBJECTS, BC081, 9581) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC081;
+        default: sw_bc081;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2080,7 +2080,7 @@ item(FEAT_OBJECTS, BC082, 9582) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC082;
+        default: sw_bc082;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2103,7 +2103,7 @@ item(FEAT_OBJECTS, BC083, 9583) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC083;
+        default: sw_bc083;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2127,7 +2127,7 @@ item(FEAT_OBJECTS, BC084, 9584) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC084;
+        default: sw_bc084;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2150,7 +2150,7 @@ item(FEAT_OBJECTS, BC085, 9585) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC085;
+        default: sw_bc085;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2173,7 +2173,7 @@ item(FEAT_OBJECTS, BC086, 9586) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC086;
+        default: sw_bc086;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2196,7 +2196,7 @@ item(FEAT_OBJECTS, BC087, 9587) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC087;
+        default: sw_bc087;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2219,7 +2219,7 @@ item(FEAT_OBJECTS, BC088, 9588) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC088;
+        default: sw_bc088;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2242,7 +2242,7 @@ item(FEAT_OBJECTS, BC089, 9589) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC089;
+        default: sw_bc089;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2265,7 +2265,7 @@ item(FEAT_OBJECTS, BC090, 9590) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC090;
+        default: sw_bc090;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2288,7 +2288,7 @@ item(FEAT_OBJECTS, BC091, 9591) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC091;
+        default: sw_bc091;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2311,7 +2311,7 @@ item(FEAT_OBJECTS, BC092, 9592) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC092;
+        default: sw_bc092;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2333,7 +2333,7 @@ item(FEAT_OBJECTS, BC093, 9593) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC093;
+        default: sw_bc093;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2355,7 +2355,7 @@ item(FEAT_OBJECTS, BC094, 9594) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC094;
+        default: sw_bc094;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2377,7 +2377,7 @@ item(FEAT_OBJECTS, BC095, 9595) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC095;
+        default: sw_bc095;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2399,7 +2399,7 @@ item(FEAT_OBJECTS, BC096, 9596) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC096;
+        default: sw_bc096;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2421,7 +2421,7 @@ item(FEAT_OBJECTS, BC097, 9597) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC097;
+        default: sw_bc097;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2443,7 +2443,7 @@ item(FEAT_OBJECTS, BC098, 9598) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC098;
+        default: sw_bc098;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2465,7 +2465,7 @@ item(FEAT_OBJECTS, BC099, 9599) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC099;
+        default: sw_bc099;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2487,7 +2487,7 @@ item(FEAT_OBJECTS, BC100, 9600) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC100;
+        default: sw_bc100;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2509,7 +2509,7 @@ item(FEAT_OBJECTS, BC101, 9601) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC101;
+        default: sw_bc101;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2531,7 +2531,7 @@ item(FEAT_OBJECTS, BC102, 9602) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC102;
+        default: sw_bc102;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2553,7 +2553,7 @@ item(FEAT_OBJECTS, BC103, 9603) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC103;
+        default: sw_bc103;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2575,7 +2575,7 @@ item(FEAT_OBJECTS, BC104, 9604) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC104;
+        default: sw_bc104;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2597,7 +2597,7 @@ item(FEAT_OBJECTS, BC105, 9605) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC105;
+        default: sw_bc105;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2619,7 +2619,7 @@ item(FEAT_OBJECTS, BC106, 9606) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC106;
+        default: sw_bc106;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2641,7 +2641,7 @@ item(FEAT_OBJECTS, BC107, 9607) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC107;
+        default: sw_bc107;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2664,7 +2664,7 @@ item(FEAT_OBJECTS, BC108, 9608) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC108;
+        default: sw_bc108;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2686,7 +2686,7 @@ item(FEAT_OBJECTS, BC109, 9609) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC109;
+        default: sw_bc109;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2708,7 +2708,7 @@ item(FEAT_OBJECTS, BC110, 9610) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC110;
+        default: sw_bc110;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2731,7 +2731,7 @@ item(FEAT_OBJECTS, BC111, 9611) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC111;
+        default: sw_bc111;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2753,7 +2753,7 @@ item(FEAT_OBJECTS, BC112, 9612) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC112;
+        default: sw_bc112;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2775,7 +2775,7 @@ item(FEAT_OBJECTS, BC113, 9613) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC113;
+        default: sw_bc113;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2798,7 +2798,7 @@ item(FEAT_OBJECTS, BC114, 9614) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC114;
+        default: sw_bc114;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
@@ -2821,7 +2821,7 @@ item(FEAT_OBJECTS, BC115, 9615) {
         num_views:              1;
     }
     graphics {
-        default: sw_BC115;
+        default: sw_bc115;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
