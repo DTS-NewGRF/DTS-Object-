@@ -387,3 +387,71 @@ switch(FEAT_OBJECTS, SELF, sw_sewol20, view) {
     1: set_sewol20_0;
     set_sewol20_0;
 }
+
+
+
+
+spritelayout set_sewol21_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_sewol21(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_sewol21, view) {
+    1: set_sewol21_0;
+    set_sewol21_0;
+}
+
+
+
+spritelayout set_sewol22_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_sewol22(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_sewol22, view) {
+    1: set_sewol22_0;
+    set_sewol22_0;
+}
+
+
+
+
+spritelayout set_sewol23_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_sewol23(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_sewol23, view) {
+    1: set_sewol23_0;
+    set_sewol23_0;
+}
