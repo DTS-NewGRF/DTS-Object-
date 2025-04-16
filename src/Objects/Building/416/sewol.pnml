@@ -431,7 +431,6 @@ item(FEAT_OBJECTS, sewol20, 4120) {
 
 
 
-
 item(FEAT_OBJECTS, sewol21, 4121) {
     property {
         class:                  "DTSE";
@@ -452,6 +451,7 @@ item(FEAT_OBJECTS, sewol21, 4121) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
 
 
 
@@ -478,6 +478,7 @@ item(FEAT_OBJECTS, sewol22, 4122) {
 
 
 
+
 item(FEAT_OBJECTS, sewol23, 4123) {
     property {
         class:                  "DTSE";
@@ -498,3 +499,4 @@ item(FEAT_OBJECTS, sewol23, 4123) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
