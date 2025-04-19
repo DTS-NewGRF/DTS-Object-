@@ -223,3 +223,38 @@ spriteset(set_sewol23, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_sewol23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/416/sewol23.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+
+spriteset(set_sewol24, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_sewol21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/416/sewol21.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+spriteset(set_sewol25, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_sewol21, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/416/sewol22.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_sewol26, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_sewol23, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/416/sewol23.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
