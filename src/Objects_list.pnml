@@ -105,3 +105,6 @@
 // Alpahbet
 #include "Objects/Building/alpha/alpha.pnml"
 
+// Bridge Side
+#include "Objects/Building/obridge/ob.pnml"
+
