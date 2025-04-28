@@ -606,3 +606,5 @@ STR_OBJ_boat_04                         :[DTS0] Luxury Boat 04
 STR_OBJ_boat_05                         :[DTS0] Luxury Boat 05
 STR_OBJ_boat_06                         :[DTS0] Luxury Boat 06
 STR_OBJ_alpha                           :[DTS0] Large Signboard
+STR_OBJ_ob                              :[DTS0] Bridge Side Object
+
