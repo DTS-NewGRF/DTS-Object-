@@ -4,53 +4,552 @@ Graphics
 
 
 
-spriteset(set_landmark01, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_ob003, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_landmark01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/01.png") {
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-
-
-
-spriteset(set_landmark02, "src/Objects/Flag_Korea/Flag_Korea.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-alternative_sprites(set_landmark02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/02.png") {
-    [0,     0,    133,    112,    -50,  -99]
-}
-
-
-
-
-spriteset(set_landmark03, "src/Objects/Flag_Korea/Flag_Korea.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-alternative_sprites(set_landmark03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/03.png") {
+alternative_sprites(set_ob003, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob003.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
 
 
-spriteset(set_landmark04, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_ob004, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_landmark04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/seouln.png") {
-    [0,     0,    64,    309,    -15,  -300]
-}
-
-
-
-
-spriteset(set_landmark05, "src/Objects/Flag_Korea/Flag_Korea.png"){
+alternative_sprites(set_ob004, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob004.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_landmark05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/lotte.png") {
-    [0,     0,    64,    309,    -15,  -300]
+
+
+spriteset(set_ob005, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
 }
+
+alternative_sprites(set_ob005, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob005.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob006, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob006, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob006.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob007, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob007, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob007.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob008, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob008, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob008.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob009, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob009, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob009.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob010, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob010, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob010.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob011, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob011, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob011.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob012, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob012, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob012.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob013, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob013, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob013.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob014, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob014, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob014.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob015, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob015, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob015.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob016, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob016, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob016.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob017, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob017, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob017.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob018, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob018, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob018.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob019, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob019, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob019.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob020, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob020, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob020.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob021, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob021, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob021.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob022, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob022, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob022.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob023, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob023, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob023.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob024, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob024, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob024.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob025, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob025, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob025.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob026, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob026, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob026.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob027, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob027, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob027.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob028, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob028, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob028.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob029, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob029, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob029.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob030, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob030, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob030.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob031, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob031, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob031.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob032, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob032, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob032.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob033, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob033, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob033.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob034, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob034, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob034.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob035, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob035, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob035.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob036, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob036, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob036.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+spriteset(set_ob037, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob037, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob037.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob038, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob038, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob038.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob039, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob039, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob039.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_ob040, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob040, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob040.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob041, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob041, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob041.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob042, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob042, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob042.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob043, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob043, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob043.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob044, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob044, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob044.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob045, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob045, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob045.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob046, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob046, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob046.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob047, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob047, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob047.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob048, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob048, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob048.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob049, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob049, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob049.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+spriteset(set_ob050, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob050, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob050.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+spriteset(set_ob051, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_ob051, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob051.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
