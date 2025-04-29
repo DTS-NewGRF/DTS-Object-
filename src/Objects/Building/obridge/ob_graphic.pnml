@@ -237,7 +237,7 @@ spriteset(set_ob024, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_ob024, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob024.png") {
+alternative_sprites(set_ob024, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/obridge/ob024a.png") {
     [0,     0,    64,    124,    -15,  -114]
 }
 
