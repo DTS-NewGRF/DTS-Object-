@@ -1493,3 +1493,84 @@ spriteset(set_ex031, "src/Objects/Garden/Garden7.png"){
 alternative_sprites(set_ex031, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex031.png"){
     [0,     0,    64,    124,    -15,  -114]
 }
+
+
+
+
+spriteset(set_ex032, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_ex032, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex032.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_ex033, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_ex033, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex033.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_ex034, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_ex034, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex034.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_ex035, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_ex035, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex035.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+spriteset(set_ex036, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_ex036, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex036.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_ex037, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_ex037, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex037.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
+
+
+
+
+
+spriteset(set_ex038, "src/Objects/Garden/Garden7.png"){
+    [0,     0,    64,    54,    -15,  -46]
+}
+
+alternative_sprites(set_ex038, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex038.png"){
+    [0,     0,    64,    124,    -15,  -114]
+}
