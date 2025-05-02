@@ -16,7 +16,7 @@
 
 item(FEAT_OBJECTS, ob003, 4803) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -40,7 +40,7 @@ item(FEAT_OBJECTS, ob003, 4803) {
 
 item(FEAT_OBJECTS, ob004, 4804) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -65,7 +65,7 @@ item(FEAT_OBJECTS, ob004, 4804) {
 
 item(FEAT_OBJECTS, ob005, 4805) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -90,7 +90,7 @@ item(FEAT_OBJECTS, ob005, 4805) {
 
 item(FEAT_OBJECTS, ob006, 4806) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -114,7 +114,7 @@ item(FEAT_OBJECTS, ob006, 4806) {
 
 item(FEAT_OBJECTS, ob007, 4807) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -138,7 +138,7 @@ item(FEAT_OBJECTS, ob007, 4807) {
 
 item(FEAT_OBJECTS, ob008, 4808) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -162,7 +162,7 @@ item(FEAT_OBJECTS, ob008, 4808) {
 
 item(FEAT_OBJECTS, ob009, 4809) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -186,7 +186,7 @@ item(FEAT_OBJECTS, ob009, 4809) {
 
 item(FEAT_OBJECTS, ob010, 4810) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -210,7 +210,7 @@ item(FEAT_OBJECTS, ob010, 4810) {
 
 item(FEAT_OBJECTS, ob011, 4811) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -233,7 +233,7 @@ item(FEAT_OBJECTS, ob011, 4811) {
 
 item(FEAT_OBJECTS, ob012, 4812) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -256,7 +256,7 @@ item(FEAT_OBJECTS, ob012, 4812) {
 
 item(FEAT_OBJECTS, ob013, 4813) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -279,7 +279,7 @@ item(FEAT_OBJECTS, ob013, 4813) {
 
 item(FEAT_OBJECTS, ob014, 4814) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -302,7 +302,7 @@ item(FEAT_OBJECTS, ob014, 4814) {
 
 item(FEAT_OBJECTS, ob015, 4815) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -324,7 +324,7 @@ item(FEAT_OBJECTS, ob015, 4815) {
 
 item(FEAT_OBJECTS, ob016, 4816) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -347,7 +347,7 @@ item(FEAT_OBJECTS, ob016, 4816) {
 
 item(FEAT_OBJECTS, ob017, 4817) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -370,7 +370,7 @@ item(FEAT_OBJECTS, ob017, 4817) {
 
 item(FEAT_OBJECTS, ob018, 4818) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -393,7 +393,7 @@ item(FEAT_OBJECTS, ob018, 4818) {
 
 item(FEAT_OBJECTS, ob019, 4819) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -416,7 +416,7 @@ item(FEAT_OBJECTS, ob019, 4819) {
 
 item(FEAT_OBJECTS, ob020, 4820) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -440,7 +440,7 @@ item(FEAT_OBJECTS, ob020, 4820) {
 
 item(FEAT_OBJECTS, ob021, 4821) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -463,7 +463,7 @@ item(FEAT_OBJECTS, ob021, 4821) {
 
 item(FEAT_OBJECTS, ob022, 4822) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -487,7 +487,7 @@ item(FEAT_OBJECTS, ob022, 4822) {
 
 item(FEAT_OBJECTS, ob023, 4823) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -510,7 +510,7 @@ item(FEAT_OBJECTS, ob023, 4823) {
 
 item(FEAT_OBJECTS, ob024, 4824) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -533,7 +533,7 @@ item(FEAT_OBJECTS, ob024, 4824) {
 
 item(FEAT_OBJECTS, ob025, 4825) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -557,7 +557,7 @@ item(FEAT_OBJECTS, ob025, 4825) {
 
 item(FEAT_OBJECTS, ob026, 4826) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -581,7 +581,7 @@ item(FEAT_OBJECTS, ob026, 4826) {
 
 item(FEAT_OBJECTS, ob027, 4827) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -605,7 +605,7 @@ item(FEAT_OBJECTS, ob027, 4827) {
 
 item(FEAT_OBJECTS, ob028, 4828) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -630,7 +630,7 @@ item(FEAT_OBJECTS, ob028, 4828) {
 
 item(FEAT_OBJECTS, ob029, 4829) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -654,7 +654,7 @@ item(FEAT_OBJECTS, ob029, 4829) {
 
 item(FEAT_OBJECTS, ob030, 4830) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -676,7 +676,7 @@ item(FEAT_OBJECTS, ob030, 4830) {
 
 item(FEAT_OBJECTS, ob031, 4831) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -701,7 +701,7 @@ item(FEAT_OBJECTS, ob031, 4831) {
 
 item(FEAT_OBJECTS, ob032, 4832) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -726,7 +726,7 @@ item(FEAT_OBJECTS, ob032, 4832) {
 
 item(FEAT_OBJECTS, ob033, 4833) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -751,7 +751,7 @@ item(FEAT_OBJECTS, ob033, 4833) {
 
 item(FEAT_OBJECTS, ob034, 4834) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -775,7 +775,7 @@ item(FEAT_OBJECTS, ob034, 4834) {
 
 item(FEAT_OBJECTS, ob035, 4835) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -799,7 +799,7 @@ item(FEAT_OBJECTS, ob035, 4835) {
 
 item(FEAT_OBJECTS, ob036, 4836) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -823,7 +823,7 @@ item(FEAT_OBJECTS, ob036, 4836) {
 
 item(FEAT_OBJECTS, ob037, 4837) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -847,7 +847,7 @@ item(FEAT_OBJECTS, ob037, 4837) {
 
 item(FEAT_OBJECTS, ob038, 4838) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -871,7 +871,7 @@ item(FEAT_OBJECTS, ob038, 4838) {
 
 item(FEAT_OBJECTS, ob039, 4839) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -895,7 +895,7 @@ item(FEAT_OBJECTS, ob039, 4839) {
 
 item(FEAT_OBJECTS, ob040, 4840) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -919,7 +919,7 @@ item(FEAT_OBJECTS, ob040, 4840) {
 
 item(FEAT_OBJECTS, ob041, 4841) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -943,7 +943,7 @@ item(FEAT_OBJECTS, ob041, 4841) {
 
 item(FEAT_OBJECTS, ob042, 4842) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -968,7 +968,7 @@ item(FEAT_OBJECTS, ob042, 4842) {
 
 item(FEAT_OBJECTS, ob043, 4843) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -992,7 +992,7 @@ item(FEAT_OBJECTS, ob043, 4843) {
 
 item(FEAT_OBJECTS, ob044, 4844) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -1017,7 +1017,7 @@ item(FEAT_OBJECTS, ob044, 4844) {
 
 item(FEAT_OBJECTS, ob045, 4845) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -1042,7 +1042,7 @@ item(FEAT_OBJECTS, ob045, 4845) {
 
 item(FEAT_OBJECTS, ob046, 4846) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -1066,7 +1066,7 @@ item(FEAT_OBJECTS, ob046, 4846) {
 
 item(FEAT_OBJECTS, ob047, 4847) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -1091,7 +1091,7 @@ item(FEAT_OBJECTS, ob047, 4847) {
 
 item(FEAT_OBJECTS, ob048, 4848) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -1115,7 +1115,7 @@ item(FEAT_OBJECTS, ob048, 4848) {
 
 item(FEAT_OBJECTS, ob049, 4849) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -1139,7 +1139,7 @@ item(FEAT_OBJECTS, ob049, 4849) {
 
 item(FEAT_OBJECTS, ob050, 4850) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
@@ -1164,7 +1164,7 @@ item(FEAT_OBJECTS, ob050, 4850) {
 
 item(FEAT_OBJECTS, ob051, 4851) {
     property {
-        class:                  "DTBB";
+        class:                  "DTAA";
         classname:              string(STR_OBJ_ob);
         name:                   string(STR_OBJ_ob);
         climates_available:     ALL_CLIMATES;
