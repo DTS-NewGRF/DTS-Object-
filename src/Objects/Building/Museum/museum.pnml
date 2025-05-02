@@ -3512,7 +3512,7 @@ item(FEAT_OBJECTS, ex032, 9646) {
     property {
         class:                  "DTWE";
         classname:              string(STR_OBJ_Museum_01);
-        name:                   string(STR_OBJ_Museum_53);
+        name:                   string(STR_OBJ_Museum53);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -3534,7 +3534,7 @@ item(FEAT_OBJECTS, ex033, 9647) {
     property {
         class:                  "DTWE";
         classname:              string(STR_OBJ_Museum_01);
-        name:                   string(STR_OBJ_Museum_53);
+        name:                   string(STR_OBJ_Museum53);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -3557,7 +3557,7 @@ item(FEAT_OBJECTS, ex034, 9648) {
     property {
         class:                  "DTWE";
         classname:              string(STR_OBJ_Museum_01);
-        name:                   string(STR_OBJ_Museum_53);
+        name:                   string(STR_OBJ_Museum53);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -3582,7 +3582,7 @@ item(FEAT_OBJECTS, ex035, 9649) {
     property {
         class:                  "DTWE";
         classname:              string(STR_OBJ_Museum_01);
-        name:                   string(STR_OBJ_Museum_53);
+        name:                   string(STR_OBJ_Museum53);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -3607,7 +3607,7 @@ item(FEAT_OBJECTS, ex036, 9650) {
     property {
         class:                  "DTWE";
         classname:              string(STR_OBJ_Museum_01);
-        name:                   string(STR_OBJ_Museum_53);
+        name:                   string(STR_OBJ_Museum53);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -3631,7 +3631,7 @@ item(FEAT_OBJECTS, ex037, 9651) {
     property {
         class:                  "DTWE";
         classname:              string(STR_OBJ_Museum_01);
-        name:                   string(STR_OBJ_Museum_53);
+        name:                   string(STR_OBJ_Museum53);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -3655,7 +3655,7 @@ item(FEAT_OBJECTS, ex038, 9652) {
     property {
         class:                  "DTWE";
         classname:              string(STR_OBJ_Museum_01);
-        name:                   string(STR_OBJ_Museum_53);
+        name:                   string(STR_OBJ_Museum53);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
