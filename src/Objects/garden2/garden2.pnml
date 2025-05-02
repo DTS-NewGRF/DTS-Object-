@@ -2,41 +2,156 @@
 오브젝트
 --------------------------------------------------------------------*/
 // Graphics
-#include "landmark_graphic.pnml"
+#include "garden2_graphic.pnml"
 
 // Switch
-#include "landmark_switch.pnml"
+#include "garden2_switch.pnml"
 
 /*--------------------------------------------------------------------
 오브젝트
 --------------------------------------------------------------------*/
 
 
-
-
-item(FEAT_OBJECTS, landmark01, 4301) {
+item(FEAT_OBJECTS, garden274, 9874) {
     property {
-        class:                  "DTLM";
-        classname:              string(STR_OBJ_landmark);
-        name:                   string(STR_OBJ_landmark_01);
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_01);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
         remove_cost_multiplier: 1;
         introduction_date:      date(1980,1,1);
         end_of_life_date:       0xFFFFFFFF;
-        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
         height:                 1;
-        num_views:              1;
+        num_views:              2;
     }
     graphics {
-        default: sw_landmark01;
+        default: sw_garden274;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
 
 
 
+item(FEAT_OBJECTS, garden275, 9875) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_garden275;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, garden276, 9876) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_garden276;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+ 
+
+
+
+item(FEAT_OBJECTS, garden277, 9877) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_garden277;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+ 
+
+
+
+item(FEAT_OBJECTS, garden278, 9878) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_garden278;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+ 
+
+
+
+item(FEAT_OBJECTS, garden279, 9879) {
+    property {
+        class:                  "DTGD";
+        classname:              string(STR_OBJ_Garden);
+        name:                   string(STR_OBJ_Garden_01);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ALLOW_BRIDGE, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              2;
+    }
+    graphics {
+        default: sw_garden279;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+ 
 item(FEAT_OBJECTS, landmark02, 4302) {
     property {
         class:                  "DTLM";
