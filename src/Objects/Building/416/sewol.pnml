@@ -431,7 +431,7 @@ item(FEAT_OBJECTS, sewol20, 4120) {
 
 
 
-item(FEAT_OBJECTS, sewol21, 4121) {
+item(FEAT_OBJECTS, sewol21, 4124) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
@@ -455,7 +455,7 @@ item(FEAT_OBJECTS, sewol21, 4121) {
 
 
 
-item(FEAT_OBJECTS, sewol22, 4122) {
+item(FEAT_OBJECTS, sewol22, 4125) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
@@ -479,7 +479,7 @@ item(FEAT_OBJECTS, sewol22, 4122) {
 
 
 
-item(FEAT_OBJECTS, sewol23, 4123) {
+item(FEAT_OBJECTS, sewol23, 4126) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
@@ -504,7 +504,7 @@ item(FEAT_OBJECTS, sewol23, 4123) {
 
 
 
-item(FEAT_OBJECTS, sewol24, 4124) {
+item(FEAT_OBJECTS, sewol24, 4127) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
@@ -529,7 +529,7 @@ item(FEAT_OBJECTS, sewol24, 4124) {
 
 
 
-item(FEAT_OBJECTS, sewol25, 4125) {
+item(FEAT_OBJECTS, sewol25, 4128) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
@@ -554,7 +554,7 @@ item(FEAT_OBJECTS, sewol25, 4125) {
 
 
 
-item(FEAT_OBJECTS, sewol26, 4126) {
+item(FEAT_OBJECTS, sewol26, 4129) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
