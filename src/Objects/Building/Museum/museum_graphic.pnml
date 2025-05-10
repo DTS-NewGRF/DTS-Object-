@@ -1501,7 +1501,7 @@ spriteset(set_ex032, "src/Objects/Garden/Garden7.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_ex032, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex032d.png"){
+alternative_sprites(set_ex032, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex032f.png"){
     [0,     0,    64,    124,    -15,  -114]
 }
 
