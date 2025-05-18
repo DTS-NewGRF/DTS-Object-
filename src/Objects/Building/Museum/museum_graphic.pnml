@@ -2047,15 +2047,6 @@ alternative_sprites(set_ex083, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/
 
 
 
-spriteset(set_ex083, "src/Objects/Garden/Garden7.png"){
-    [0,     0,    64,    54,    -15,  -46]
-}
-
-alternative_sprites(set_ex083, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex083.png"){
-    [0,     0,    64,    124,    -15,  -114]
-}
-
-
 
 
 spriteset(set_ex084, "src/Objects/Garden/Garden7.png"){
