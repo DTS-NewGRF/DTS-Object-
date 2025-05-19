@@ -4,53 +4,69 @@ Graphics
 
 
 
-spriteset(set_landmark01, "src/Objects/Flag_Korea/Flag_Korea.png"){
+spriteset(set_stadium50, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_landmark01, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/01.png") {
+alternative_sprites(set_stadium50, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/stadium2/stadium50.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_stadium51, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
+alternative_sprites(set_stadium51, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/stadium2/stadium51.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
 
 
 
-spriteset(set_landmark02, "src/Objects/Flag_Korea/Flag_Korea.png"){
+
+spriteset(set_stadium52, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_landmark02, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/02.png") {
-    [0,     0,    133,    112,    -50,  -99]
+alternative_sprites(set_stadium52, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/stadium2/stadium52.png") {
+    [0,     0,    210,    166,    -90,  -154]
 }
 
 
 
 
-spriteset(set_landmark03, "src/Objects/Flag_Korea/Flag_Korea.png"){
+
+spriteset(set_stadium53, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_landmark03, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/03.png") {
+alternative_sprites(set_stadium53, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/stadium2/stadium53.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+
+
+spriteset(set_stadium54, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
+alternative_sprites(set_stadium54, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/stadium2/stadium54.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
 
 
-spriteset(set_landmark04, "src/Objects/Flag_Korea/Flag_Korea.png"){
+
+
+spriteset(set_stadium55, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_landmark04, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/seouln.png") {
-    [0,     0,    64,    309,    -15,  -300]
+alternative_sprites(set_stadium55, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/stadium2/stadium55.png") {
+    [0,     0,    210,    166,    -90,  -154]
 }
 
 
 
-
-spriteset(set_landmark05, "src/Objects/Flag_Korea/Flag_Korea.png"){
-    [0,     0,    64,    87,    -15,  -78]
-}
-
-alternative_sprites(set_landmark05, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Landmark/lotte.png") {
-    [0,     0,    64,    309,    -15,  -300]
-}
