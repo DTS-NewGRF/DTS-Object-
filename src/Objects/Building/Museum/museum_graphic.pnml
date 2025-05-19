@@ -2161,7 +2161,7 @@ spriteset(set_ex095, "src/Objects/Garden/Garden7.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_ex095, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex095.png"){
+alternative_sprites(set_ex095, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex095c.png"){
     [0,     0,    64,    124,    -15,  -114]
 }
 
@@ -2179,7 +2179,7 @@ spriteset(set_ex097, "src/Objects/Garden/Garden7.png"){
     [0,     0,    64,    54,    -15,  -46]
 }
 
-alternative_sprites(set_ex097, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex097.png"){
+alternative_sprites(set_ex097, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/Museum/ex097c.png"){
     [0,     0,    64,    124,    -15,  -114]
 }
 
