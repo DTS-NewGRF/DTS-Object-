@@ -109,3 +109,6 @@
 // Bridge Side
 #include "Objects/Building/obridge/ob.pnml"
 
+// Stadium 
+#include "Objects/Building/stadium2/stadium2.pnml"
+
