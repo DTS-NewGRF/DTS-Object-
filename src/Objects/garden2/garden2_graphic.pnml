@@ -267,3 +267,14 @@ spriteset(set_garden299, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_garden299, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/garden2/garden299.png") {
     [0,     0,    64,    124,    -15,  -114]
 }
+
+
+
+
+spriteset(set_garden300, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_garden300, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/garden2/garden300.png") {
+    [0,     0,    64,    124,    -15,  -114]
+}
