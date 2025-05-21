@@ -124,7 +124,7 @@ item(FEAT_OBJECTS, stadium54, 8458) {
         num_views:              1;
     }
     graphics {
-        default: sw_stadium58;
+        default: sw_stadium54;
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
