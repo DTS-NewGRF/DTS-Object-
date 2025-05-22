@@ -82,6 +82,9 @@
 // Korea Landmark
 #include "Objects/Building/landmark/landmark.pnml"
 
+// World Landmark
+#include "Objects/Building/wlandmark/wlandmark.pnml"
+
 // Pavillion
 #include "Objects/Building/pa/pa.pnml"
 
