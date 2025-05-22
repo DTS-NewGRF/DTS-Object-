@@ -154,3 +154,28 @@ item(FEAT_OBJECTS, stadium55, 8459) {
 }
 
 
+
+
+
+item(FEAT_OBJECTS, stadium56, 8460) {
+    property {
+        class:                  "DTST";
+        classname:              string(STR_OBJ_stadium);
+        name:                   string(STR_OBJ_stadium);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_stadium56;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
