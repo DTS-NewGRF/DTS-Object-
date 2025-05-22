@@ -69,4 +69,13 @@ alternative_sprites(set_stadium55, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Obje
 }
 
 
+spriteset(set_stadium56, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_stadium56, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/stadium2/stadium56.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
 
