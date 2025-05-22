@@ -6,12 +6,12 @@ switch
 
 
 
-spritelayout set_landmark01_0 {
+spritelayout set_lm01_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark01(0);
+        sprite: set_lm01(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -21,22 +21,20 @@ spritelayout set_landmark01_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark01, view) {
-    1: set_landmark01_0;
-    set_landmark01_0;
+switch(FEAT_OBJECTS, SELF, sw_lm01, view) {
+    1: set_lm01_0;
+    set_lm01_0;
 }
 
 
 
 
-
-
-spritelayout set_landmark02_0 {
+spritelayout set_lm02_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark02(0);
+        sprite: set_lm02(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -46,24 +44,20 @@ spritelayout set_landmark02_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark02, view) {
-    1: set_landmark02_0;
-    set_landmark02_0;
+switch(FEAT_OBJECTS, SELF, sw_lm02, view) {
+    1: set_lm02_0;
+    set_lm02_0;
 }
 
 
 
 
-
-
-
-
-spritelayout set_landmark03_0 {
+spritelayout set_lm03_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark03(0);
+        sprite: set_lm03(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -73,19 +67,20 @@ spritelayout set_landmark03_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark03, view) {
-    1: set_landmark03_0;
-    set_landmark03_0;
+switch(FEAT_OBJECTS, SELF, sw_lm03, view) {
+    1: set_lm03_0;
+    set_lm03_0;
 }
 
 
 
-spritelayout set_landmark04_0 {
+
+spritelayout set_lm04_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark04(0);
+        sprite: set_lm04(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -95,21 +90,20 @@ spritelayout set_landmark04_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark04, view) {
-    1: set_landmark04_0;
-    set_landmark04_0;
+switch(FEAT_OBJECTS, SELF, sw_lm04, view) {
+    1: set_lm04_0;
+    set_lm04_0;
 }
 
 
 
 
-
-spritelayout set_landmark05_0 {
+spritelayout set_lm05_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_landmark05(0);
+        sprite: set_lm05(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -119,7 +113,31 @@ spritelayout set_landmark05_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_landmark05, view) {
-    1: set_landmark05_0;
-    set_landmark05_0;
+switch(FEAT_OBJECTS, SELF, sw_lm05, view) {
+    1: set_lm05_0;
+    set_lm05_0;
 }
+
+
+
+
+spritelayout set_lm06_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_lm06(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_lm06, view) {
+    1: set_lm06_0;
+    set_lm06_0;
+}
+
