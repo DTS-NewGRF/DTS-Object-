@@ -610,4 +610,10 @@ STR_OBJ_boat_05                         :[DTS0] Luxury Boat 05
 STR_OBJ_boat_06                         :[DTS0] Luxury Boat 06
 STR_OBJ_alpha                           :[DTS0] Large Signboard
 STR_OBJ_ob                              :[DTS0] Bridge Side Object
-
+STR_OBJ_lm                              :[DTS0] World Landmark 
+STR_OBJ_lm01                            :[DTS0] Leaning Tower of Pisa
+STR_OBJ_lm02                            :[DTS0] Sagrada Familia
+STR_OBJ_lm03                            :[DTS0] Great Sphinx of Giza
+STR_OBJ_lm04                            :[DTS0] Taj Mahal
+STR_OBJ_lm05                            :[DTS0] Angkor
+STR_OBJ_lm06                            :[DTS0] Hagia Sophia 
