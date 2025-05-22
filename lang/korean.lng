@@ -611,7 +611,13 @@ STR_OBJ_boat_05                         :[DTS0] 곰돌군호
 STR_OBJ_boat_06                         :[DTS0] 나이스보트
 STR_OBJ_alpha                           :[DTS0] 문구표기용 
 STR_OBJ_ob                              :[DTS0] 다리옆 장식 
-
+STR_OBJ_lm                              :[DTS0] 세계 랜드마크 
+STR_OBJ_lm01                            :[DTS0] 피사의 사탑
+STR_OBJ_lm02                            :[DTS0] 사그라다 파밀리아 성당  
+STR_OBJ_lm03                            :[DTS0] 이집트 스핑크스
+STR_OBJ_lm04                            :[DTS0] 타지마할 
+STR_OBJ_lm05                            :[DTS0] 앙코르와트  
+STR_OBJ_lm06                            :[DTS0] 아야 소피아  
 
 
 
