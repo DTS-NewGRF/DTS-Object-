@@ -866,3 +866,28 @@ item(FEAT_OBJECTS, alpha34, 6834) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
+
+
+
+
+item(FEAT_OBJECTS, alpha35, 6835) {
+    property {
+        class:                  "DTAL";
+        classname:              string(STR_OBJ_alpha);
+        name:                   string(STR_OBJ_alpha);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_ONLY_INGAME);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_alpha35;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
