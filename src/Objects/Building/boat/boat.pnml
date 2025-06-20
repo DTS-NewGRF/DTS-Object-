@@ -151,3 +151,148 @@ item(FEAT_OBJECTS, boat06, 3906) {
         tile_check: CB_RESULT_LOCATION_ALLOW;
     }
 }
+
+
+
+
+item(FEAT_OBJECTS, boat10, 3910) {
+    property {
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_boat10;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, boat11, 3911) {
+    property {
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_boat11;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, boat12, 3912) {
+    property {
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_boat12;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, boat13, 3913) {
+    property {
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_boat13;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+
+item(FEAT_OBJECTS, boat14, 3914) {
+    property {
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_boat14;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
+
+
+
+
+item(FEAT_OBJECTS, boat15, 3915) {
+    property {
+        class:                  "DTBA";
+        classname:              string(STR_OBJ_boat);
+        name:                   string(STR_OBJ_boat_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  1;
+        remove_cost_multiplier: 1;
+        introduction_date:      date(1980,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME, OBJ_FLAG_ON_WATER, OBJ_FLAG_NOT_ON_LAND, OBJ_FLAG_DRAW_WATER,);
+        height:                 1;
+        num_views:              1;
+    }
+    graphics {
+        default: sw_boat15;
+        tile_check: CB_RESULT_LOCATION_ALLOW;
+    }
+}
