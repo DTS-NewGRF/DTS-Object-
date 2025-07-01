@@ -308,3 +308,74 @@ switch(FEAT_OBJECTS, SELF, sw_lm13, view) {
     1: set_lm13_0;
     set_lm13_0;
 }
+
+
+
+
+
+spritelayout set_lm14_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_lm14(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_lm14, view) {
+    1: set_lm14_0;
+    set_lm14_0;
+}
+
+
+
+
+spritelayout set_lm15_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_lm15(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_lm15, view) {
+    1: set_lm15_0;
+    set_lm15_0;
+}
+
+
+
+
+
+spritelayout set_lm16_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_lm16(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_lm16, view) {
+    1: set_lm16_0;
+    set_lm16_0;
+}
