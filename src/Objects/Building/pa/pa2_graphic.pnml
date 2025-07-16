@@ -62,3 +62,144 @@ spriteset(set_pa260, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_pa260, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb348.png") {
     [0,     0,    133,    112,    -50,  -99]
 }
+
+
+
+spriteset(set_pa261, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa261, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb349.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa262, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa262, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb350.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_pa263, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa263, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb351.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa264, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa264, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb352.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa265, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa265, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb353.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa266, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa266, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb354.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa267, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa267, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb355.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa268, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa268, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb356.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa269, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa269, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb357.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+spriteset(set_pa270, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa270, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb358.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+spriteset(set_pa271, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa271, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb359.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+
+spriteset(set_pa272, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa272, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb360.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+
+spriteset(set_pa273, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa273, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb361.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
+
+
+
+
+spriteset(set_pa274, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_pa274, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb362.png") {
+    [0,     0,    210,    166,    -90,  -154]
+}
