@@ -3839,7 +3839,7 @@ item(FEAT_OBJECTS, warehouse784, 3184) {
 item(FEAT_OBJECTS, warehouse785, 3185) {
     property {
         class:                  "DTET";
-        classname:              string(STR_OBJ_warehouse_35);
+        classname:              string(STR_OBJ_warehouse_39);
         name:                   string(STR_OBJ_warehouse_90);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
