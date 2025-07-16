@@ -114,12 +114,12 @@ switch(FEAT_OBJECTS, SELF, sw_pa259, view) {
 
 
 
-spritelayout set_pa260_0 {
+spritelayout set_pa261_0 {
     ground {
         sprite: GROUNDSPRITE_NORMAL;
     }
     building {
-        sprite: set_pa260(0);
+        sprite: set_pa261(0);
         xextent: 1;
         yextent: 3;
         zextent: 12;
@@ -129,7 +129,313 @@ spritelayout set_pa260_0 {
     }
 }
 
-switch(FEAT_OBJECTS, SELF, sw_pa260, view) {
-    1: set_pa260_0;
-    set_pa260_0;
+switch(FEAT_OBJECTS, SELF, sw_pa261, view) {
+    1: set_pa261_0;
+    set_pa261_0;
 }
+
+
+
+
+spritelayout set_pa262_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa262(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa262, view) {
+    1: set_pa262_0;
+    set_pa262_0;
+}
+
+
+
+
+
+spritelayout set_pa263_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa263(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa263, view) {
+    1: set_pa263_0;
+    set_pa263_0;
+}
+
+
+
+
+
+spritelayout set_pa264_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa264(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa264, view) {
+    1: set_pa264_0;
+    set_pa264_0;
+}
+
+
+
+
+
+spritelayout set_pa265_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa265(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa265, view) {
+    1: set_pa265_0;
+    set_pa265_0;
+}
+
+
+
+
+spritelayout set_pa266_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa266(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa266, view) {
+    1: set_pa266_0;
+    set_pa266_0;
+}
+
+
+
+
+spritelayout set_pa267_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa267(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa267, view) {
+    1: set_pa267_0;
+    set_pa267_0;
+}
+
+
+
+
+
+spritelayout set_pa268_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa268(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa268, view) {
+    1: set_pa268_0;
+    set_pa268_0;
+}
+
+
+
+
+
+spritelayout set_pa269_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa269(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa269, view) {
+    1: set_pa269_0;
+    set_pa269_0;
+}
+
+
+
+
+
+spritelayout set_pa270_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa270(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa270, view) {
+    1: set_pa270_0;
+    set_pa270_0;
+}
+
+
+
+
+spritelayout set_pa271_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa271(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa271, view) {
+    1: set_pa271_0;
+    set_pa271_0;
+}
+
+
+
+
+spritelayout set_pa272_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa272(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa272, view) {
+    1: set_pa272_0;
+    set_pa272_0;
+}
+
+
+
+spritelayout set_pa273_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa273(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa273, view) {
+    1: set_pa273_0;
+    set_pa273_0;
+}
+
+
+
+
+spritelayout set_pa274_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_pa274(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_pa274, view) {
+    1: set_pa274_0;
+    set_pa274_0;
+}
+
+
