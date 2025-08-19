@@ -125,3 +125,43 @@ spriteset(set_boat15, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_boat15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/boat/boat15.png") {
     [0,     0,    210,    166,    -90,  -154]
 }
+
+
+
+
+
+spriteset(set_boat16, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+alternative_sprites(set_boat16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/boat/boat16.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+spriteset(set_boat17, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+alternative_sprites(set_boat17, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/boat/boat17.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+
+spriteset(set_boat18, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+alternative_sprites(set_boat18, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/boat/boat18.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
+
+
+
+
+spriteset(set_boat19, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+alternative_sprites(set_boat19, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/boat/boat19.png") {
+    [0,     0,    133,    112,    -50,  -99]
+}
