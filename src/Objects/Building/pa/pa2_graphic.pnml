@@ -128,7 +128,7 @@ spriteset(set_pa267, "src/Objects/Flag_Korea/Flag_Korea.png"){
     [0,     0,    64,    87,    -15,  -78]
 }
 
-alternative_sprites(set_pa267, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb355.png") {
+alternative_sprites(set_pa267, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/pa/pb355a.png") {
     [0,     0,    210,    166,    -90,  -154]
 }
 
