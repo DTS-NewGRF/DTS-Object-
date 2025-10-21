@@ -365,7 +365,7 @@ STR_OBJ_Museum50  								   :[DTS0] TTX
 STR_OBJ_Museum51  								   :[DTS0] 우진산전 수소열차 
 STR_OBJ_Museum52  								   :[DTS0] AUTS 
 STR_OBJ_Museum53  								   :[DTS0] DTS 2주년 기념물 
-STR_OBJ_Museum54  								   :[DTS0] APEC 2025
+STR_OBJ_Museum_54  								   :[DTS0] APEC 2025
 STR_OBJ_HSpring   								   :[DTS0] 온천
 STR_OBJ_HSpring_01  							   :[DTS0] 신길온천 간판
 STR_OBJ_HSpring_02  							   :[DTS0] 온천 시설
