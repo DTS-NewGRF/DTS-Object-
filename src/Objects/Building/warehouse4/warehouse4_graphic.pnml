@@ -1804,3 +1804,89 @@ spriteset(set_warehouse789, "src/Objects/Flag_Korea/Flag_Korea.png"){
 alternative_sprites(set_warehouse789, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehousep51.png") {
     [0,     0,    64,    87,    -15,  -78]
 }
+
+
+
+
+
+spriteset(set_warehouse790, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse790, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehouse790.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse791, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse791, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehouse791.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse792, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse792, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehouse792.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse793, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse793, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehouse793.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+spriteset(set_warehouse794, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse794, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehouse794.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+
+spriteset(set_warehouse795, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse795, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehouse795.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+
+
+
+
+spriteset(set_warehouse796, "src/Objects/Flag_Korea/Flag_Korea.png"){
+    [0,     0,    64,    87,    -15,  -78]
+}
+
+alternative_sprites(set_warehouse796, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src/Objects/Building/warehouse4/Warehouse796.png") {
+    [0,     0,    64,    87,    -15,  -78]
+}
