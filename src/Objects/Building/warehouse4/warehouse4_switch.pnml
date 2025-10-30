@@ -3689,3 +3689,95 @@ switch(FEAT_OBJECTS, SELF, sw_warehouse785, view) {
     set_warehouse785_0;
 }
 
+
+
+spritelayout set_warehouse786_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_warehouse786(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_warehouse786, view) {
+    1: set_warehouse786_0;
+    set_warehouse786_0;
+}
+
+
+
+
+
+
+spritelayout set_warehouse787_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_warehouse787(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_warehouse787, view) {
+    1: set_warehouse787_0;
+    set_warehouse787_0;
+}
+
+
+
+spritelayout set_warehouse788_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_warehouse788(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_warehouse788, view) {
+    1: set_warehouse788_0;
+    set_warehouse788_0;
+}
+
+
+
+
+
+spritelayout set_warehouse789_0 {
+    ground {
+        sprite: GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: set_warehouse789(0);
+        xextent: 1;
+        yextent: 3;
+        zextent: 12;
+        xoffset: 15; // from NE edge
+        yoffset: 7;  // from NW edge
+        zoffset: 0;
+    }
+}
+
+switch(FEAT_OBJECTS, SELF, sw_warehouse789, view) {
+    1: set_warehouse789_0;
+    set_warehouse789_0;
+}
