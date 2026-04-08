@@ -581,7 +581,7 @@ item(FEAT_OBJECTS, sewol27, 4130) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_22);
+        name:                   string(STR_OBJ_sewol_24);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
@@ -603,7 +603,7 @@ item(FEAT_OBJECTS, sewol28, 4131) {
     property {
         class:                  "DTSE";
         classname:              string(STR_OBJ_sewol);
-        name:                   string(STR_OBJ_sewol_22);
+        name:                   string(STR_OBJ_sewol_24);
         climates_available:     ALL_CLIMATES;
         size:                   [1,1];
         build_cost_multiplier:  1;
